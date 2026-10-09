@@ -154,10 +154,11 @@ Server_CameraMode_Advertisement_Mismatch Сервер показывал дру�
 Server_PvP_Advertisement_Mismatch Сервер показывал PVP или PVE режим вместо того, что установлен.
 
 HWID_Modified Обнаружен спуфер аппаратного идентификатора (HWID).
+Cert_Invalid Не удалось подтвердить вход. Перезапустите игру через лаунчер.
+Cert_Expired Пропуск обновлён, подключитесь ещё раз.
+Device_Revoked Вход на этом ПК отозван. Войдите через лаунчер.
+Already_Playing Вы уже играете на сервере {0}. Выйдите с него и подключитесь через минуту.
 
-SteamNetworkingSockets_Unavailable_CannotTry Невозможно инициализировать сетевую аутентификацию Steam.
-SteamNetworkingSockets_Unavailable_Failed Не удалось инициализировать сетевую аутентификацию Steam.
-SteamNetworkingSockets_Unavailable_Previously Временно невозможно инициализировать сетевую аутентификацию Steam.
 SteamNetworkingSockets_EndReason_App_1001 Все слоты игроков, слоты очередей и слоты ожидающих подключения заполнены.
 SteamNetworkingSockets_EndReason_App_1002 Сервер находится в процессе выключения.
 SteamNetworkingSockets_EndReason_App_Unknown Игра разорвала соединение по неизвестной причине: {0}
@@ -165,17 +166,17 @@ SteamNetworkingSockets_EndReason_AppException_Generic Игра завершил�
 SteamNetworkingSockets_EndReason_AppException_Unknown Игра прервала соединение исключительно по неизвестной причине: {0}
 SteamNetworkingSockets_EndReason_Local_OfflineMode Невозможно подключиться во время работы в автономном режиме.
 SteamNetworkingSockets_EndReason_Local_RelayConnectivity Невозможно подключиться к сети ретрансляции Steam.
-SteamNetworkingSockets_EndReason_Local_NetworkConfig Не удалось получить конфигурацию сети Steam.
+SteamNetworkingSockets_EndReason_Local_NetworkConfig Не удалось начать подключение к серверу.
 SteamNetworkingSockets_EndReason_Local_Rights Отклонено Steam из-за нехватки разрешений.
 SteamNetworkingSockets_EndReason_Local_Unknown Неизвестная ошибка локального подключения: {0}
 SteamNetworkingSockets_EndReason_Remote_Timeout Потеряно соединение с хостом.
 SteamNetworkingSockets_EndReason_Remote_BadCrypt Невозможно установить шифрование на хосте.
 SteamNetworkingSockets_EndReason_Remote_BadCert Невозможно доверять сертификату шифрования хоста.
-SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion Хост использует другой сетевой протокол Steam.
+SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion Сервер использует другую версию сетевого протокола.
 SteamNetworkingSockets_EndReason_Remote_Unknown Неизвестная ошибка удаленного подключения: {0}
-SteamNetworkingSockets_EndReason_Misc_InternalError Внутренняя ошибка сети Steam.
+SteamNetworkingSockets_EndReason_Misc_InternalError Внутренняя ошибка сети.
 
-SteamNetworkingSockets_EndReason_Misc_Timeout Потеряно соединение с хостом или сетью Steam.
+SteamNetworkingSockets_EndReason_Misc_Timeout Не удалось подключиться к серверу: нет ответа.
 
 SteamNetworkingSockets_EndReason_Misc_SteamConnectivity В Steam возникли проблемы с подключением.
 SteamNetworkingSockets_EndReason_Misc_Unknown  Другая неизвестная ошибка подключения: {0}
@@ -210,26 +211,12 @@ MarkContentCorrupt_Tooltip Перезапустите игру, проверив
 Language_Restart_Header Внимание
 Language_Restart_Message Чтобы применился язык, перезапустите игру.
 
-Auth_Header Вход не выполнен
-Auth_Content Для использования некоторых функций (магазин, инвентарь, кошелёк, жалобы) необходима авторизация.
-Auth_Button Войти
-Auth_Close Закрыть
-
-Auth_Code_Header Подтвердите вход
-Auth_Code_Manual Если страница не открылась, зайдите на {0} и нажмите на ключ рядом с профилем.
-Auth_Code_Hint Подтвердите вход на открывшейся странице. Код на ней должен совпадать с этим.
-Auth_Code_Button Открыть страницу
-Auth_Code_Close Отмена
-
-Auth_Error_switch_off Вход временно недоступен. Попробуйте позже.
-Auth_Error_start_failed Не удалось начать вход. Попробуйте ещё раз.
-Auth_Error_denied Вход отклонён в браузере.
-Auth_Error_expired Срок действия кода истёк. Начните вход заново.
-Auth_Error_used Этот код уже использован.
-Auth_Error_unknown Код не найден. Начните вход заново на этом компьютере.
-Auth_Error_other_account В браузере подтверждён другой аккаунт Steam. Войдите тем же аккаунтом, под которым запущена игра.
-Auth_Error_timeout Время на подтверждение истекло. Начните вход заново.
-Auth_Error_error Не удалось войти. Попробуйте ещё раз.
+Launcher_Header Вход через лаунчер
+Launcher_Content Войдите в игру через лаунчер RustX: без этого не работают заход на серверы, магазин, инвентарь, кошелёк и жалобы.
+Launcher_Button Открыть лаунчер
+Launcher_Close Закрыть
+Launcher_No_Token Нет связи с сайтом. Попробуйте через минуту.
+Launcher_Not_Found Лаунчер не найден. Скачайте его на {0}.
 
 Refresh_Label НЕ УДАЛОСЬ ПОЛУЧИТЬ ДАННЫЕ С СЕРВЕРА
 Refresh_Label_Cached НЕ УДАЛОСЬ ПОЛУЧИТЬ ДАННЫЕ С СЕРВЕРА [ОТОБРАЖЕН КЕШ]

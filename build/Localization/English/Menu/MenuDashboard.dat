@@ -154,10 +154,11 @@ Server_CameraMode_Advertisement_Mismatch Server advertised a different camera mo
 Server_PvP_Advertisement_Mismatch Server advertised a different PvP or PvE combat mode than what it is currently set to.
 
 HWID_Modified Hardware ID (HWID) spoofer detected.
+Cert_Invalid Could not confirm your login. Restart the game from the launcher.
+Cert_Expired Your pass has been renewed, please connect again.
+Device_Revoked Login on this PC has been revoked. Sign in through the launcher.
+Already_Playing You are already playing on server {0}. Leave it and connect again in a minute.
 
-SteamNetworkingSockets_Unavailable_CannotTry Unable to initialize Steam network authentication.
-SteamNetworkingSockets_Unavailable_Failed Failed to initialize Steam network authentication.
-SteamNetworkingSockets_Unavailable_Previously Temporarily unable to initialize Steam network authentication.
 SteamNetworkingSockets_EndReason_App_1001 All player slots, queue slots, and pending connection slots are full.
 SteamNetworkingSockets_EndReason_App_1002 Server is in the process of shutting down.
 SteamNetworkingSockets_EndReason_App_Unknown Game ended connection for unknown reason: {0}
@@ -165,17 +166,17 @@ SteamNetworkingSockets_EndReason_AppException_Generic Game ended the connection 
 SteamNetworkingSockets_EndReason_AppException_Unknown Game ended connection for an exceptional unknown reason: {0}
 SteamNetworkingSockets_EndReason_Local_OfflineMode Cannot connect while running in offline mode.
 SteamNetworkingSockets_EndReason_Local_RelayConnectivity Unable to connect to the Steam relay network.
-SteamNetworkingSockets_EndReason_Local_NetworkConfig Unable to retrieve the Steam network config.
+SteamNetworkingSockets_EndReason_Local_NetworkConfig Unable to start connecting to the server.
 SteamNetworkingSockets_EndReason_Local_Rights Rejected by Steam due to insufficient permissions.
 SteamNetworkingSockets_EndReason_Local_Unknown Unknown local connection error: {0}
 SteamNetworkingSockets_EndReason_Remote_Timeout Lost connection to host.
 SteamNetworkingSockets_EndReason_Remote_BadCrypt Unable to establish encryption with host.
 SteamNetworkingSockets_EndReason_Remote_BadCert Unable to trust host encryption certificate.
-SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion Host is running a different Steam network protocol.
+SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion Server is running a different network protocol version.
 SteamNetworkingSockets_EndReason_Remote_Unknown Unknown remote connection error: {0}
-SteamNetworkingSockets_EndReason_Misc_InternalError Steam network internal error.
+SteamNetworkingSockets_EndReason_Misc_InternalError Network internal error.
 
-SteamNetworkingSockets_EndReason_Misc_Timeout Lost connection to host or Steam network.
+SteamNetworkingSockets_EndReason_Misc_Timeout Unable to connect to the server: no response.
 
 SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steam is experiencing connectivity issues.
 SteamNetworkingSockets_EndReason_Misc_Unknown Unknown miscellaneous connection error: {0}
@@ -205,26 +206,12 @@ Copy_Notification_Tooltip Copy message to system clipboard.
 Language_Restart_Header Attention
 Language_Restart_Message Restart the game to apply the new language.
 
-Auth_Header Not signed in
-Auth_Content Signing in is required for some features: the shop, your inventory, your wallet and reports.
-Auth_Button Sign in
-Auth_Close Close
-
-Auth_Code_Header Confirm sign-in
-Auth_Code_Manual If the page did not open, go to {0} and click the key next to your profile.
-Auth_Code_Hint Confirm the sign-in on the page that just opened. The code there must match this one.
-Auth_Code_Button Open the page
-Auth_Code_Close Cancel
-
-Auth_Error_switch_off Signing in is temporarily unavailable. Please try later.
-Auth_Error_start_failed Could not start the sign-in. Please try again.
-Auth_Error_denied The sign-in was rejected in the browser.
-Auth_Error_expired The code has expired. Start the sign-in again.
-Auth_Error_used This code has already been used.
-Auth_Error_unknown Code not found. Start the sign-in again on this computer.
-Auth_Error_other_account A different Steam account was confirmed in the browser. Sign in with the account the game is running under.
-Auth_Error_timeout Time to confirm ran out. Start the sign-in again.
-Auth_Error_error Could not sign in. Please try again.
+Launcher_Header Sign in through the launcher
+Launcher_Content Sign in to the game through the RustX launcher: servers, shop, inventory, wallet and reports need it.
+Launcher_Button Open the launcher
+Launcher_Close Close
+Launcher_No_Token No connection to the website. Please try again in a minute.
+Launcher_Not_Found Launcher not found. Download it at {0}.
 
 Refresh_Label FAILED TO GET DATA FROM THE SERVER
 Refresh_Label_Cached FAILED TO GET DATA FROM THE SERVER [CACHED LIST SHOWN]
