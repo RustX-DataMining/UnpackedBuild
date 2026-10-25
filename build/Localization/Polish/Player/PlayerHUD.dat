@@ -1,0 +1,81 @@
+Life_Bleeding Krwawienie
+Life_Radiation Radiacja
+Life_Oxygen Tlen
+Life_Combat Combat block
+Life_Raid Raid block
+Life_Fuel Paliwo
+Life_Durability Wytrzymałość
+Life_Block_Seconds {0} s
+Interactive_Fuel Paliwo
+Interactive_Durability Wytrzymałość
+Interactive_GasMask Antyrad
+Invite_Group Zaproś do drużyny
+Group_Invite zaproszono cię do drużyny
+Knockdown_Header JESTEŚ RANNY
+Knockdown_Description umrzesz za {0} sekund\njeśli nikt ci nie pomoże
+Feed_Join Dołączył: {0}
+Feed_Exit Wyszedł: {0}
+Rank_Next Następna ranga: {0}
+Rank_Max {0}: maksymalna ranga
+Teleport_Input_Header PRZYCHODZĄCA PROŚBA TPA
+Teleport_Output_Header WYCHODZĄCA PROŚBA TPA
+Teleport_Delay TELEPORT ZA {0}s
+Teleport_Accept {0} AKCEPTUJ
+Teleport_Deny {0} ODRZUĆ
+Teleport_Cancel {0} ANULUJ
+Teleport_Accepted TELEPORT PRZYJĘTY
+Teleport_Waiting CZEKAMY NA ODPOWIEDŹ
+Voteday_Header GŁOSOWANIE ZA DNIEM
+Voteday_Hint Naciśnij F1, aby zagłosować
+
+Radial_Refuel Zatankuj
+Radial_Vehicle_Enter Wsiądź
+Radial_Vehicle_Push Pchnij
+Radial_Vehicle_Push_Hint Pchnij pojazd
+Radial_Vehicle_Refuel_Hint Zatankuj pojazd
+Radial_Generator_On Włącz generator
+Radial_Generator_On_Hint Włącz generator
+Radial_Generator_Off Wyłącz generator
+Radial_Generator_Off_Hint Wyłącz generator
+Radial_Generator_Refuel_Hint Zatankuj generator
+Radial_Pickup PODNIEŚ
+Radial_Remove_Lock ZDEJMIJ ZAMEK
+Radial_Change_Skin ZMIEŃ
+Radial_No_Skins Brak skinów
+Radial_Default_Skin DOMYŚLNY
+Radial_Skin_Current Założony
+Radial_Destroy Zburz budowlę
+Radial_Rotate Obróć budowlę
+Radial_Ammo Amunicja
+Radial_Fuel Paliwo
+
+Admin_Tab_Items PRZEDMIOTY
+Admin_Tab_Vehicles POJAZDY
+Admin_Tab_Camera KAMERA
+Admin_Tab_Commands KOMENDY
+Admin_Filter_Common OGÓLNE
+Admin_Filter_Buildings BUDOWANIE
+Admin_Filter_Explosives WYBUCHOWE
+Admin_Filter_Resources SUROWCE
+Admin_Filter_Clothes UBRANIA
+Admin_Filter_Tools NARZĘDZIA
+Admin_Filter_Medical MEDYCYNA
+Admin_Filter_Weapons BROŃ
+Admin_Filter_Ammo AMUNICJA
+Admin_Filter_Other INNE
+Admin_Search Szukaj przedmiotu...
+Admin_Freecam_1 Freecam i śledzenie (Shift+F1)
+Admin_Freecam_2 Śledzenie (Shift+F2)
+Admin_Freecam_3 Blokada (Shift+F3)
+Admin_Freecam_4 Skupienie (Shift+F4)
+Admin_Panorama Zapisz panoramę
+Admin_Panorama_Saved Panorama zapisana: {0}
+Admin_Panorama_Failed Panorama nie została zapisana, szczegóły w logu
+Admin_Command_Day Dzień
+Admin_Command_Night Noc
+Admin_Command_Clear Bezchmurnie
+Admin_Command_Storm Burza
+Admin_Command_Voteday Głosowanie za dniem
+Admin_Command_Heal Ulecz się
+Admin_Command_Teleport TP na znacznik
+Admin_Command_God Nieśmiertelność

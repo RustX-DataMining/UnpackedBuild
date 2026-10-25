@@ -20,3 +20,10 @@ Death_Killer_Breath Suffocation
 Death_Killer_Vehicle Vehicle
 Death_Weapon_Hands Hands
 Death_Weapon_Default Weapon
+Death_Header Death
+Death_Distance_Prefix Distance
+Death_Killer_Prefix Killed by
+Death_Weapon_Prefix Using:
+Death_Report Report
+Respawn_Button Respawn
+Respawn_Button_Timer Wait {0} s...

@@ -1,0 +1,98 @@
+Ambient_Occlusion_Label Қоршаған окклюзия
+Bloom_Toggle_Label Жарқырау
+Chromatic_Aberration_Toggle_Label Хроматикалық аберрация
+Film_Grain_Toggle_Label Түйіршіктілік
+Grass_Displacement_Toggle_Label Көлемді шөп
+Wind_Toggle_Label Жел әсері
+Ragdolls_Toggle_Label Мәйіттер
+Debris_Toggle_Label Сынықтар
+Puddle_Toggle_Label Шалшықтар
+Triplanar_Toggle_Label Беткей текстуралары
+
+Far_Clip_Slider_Label Көріну қашықтығы [{0}%]
+Distance_Slider_Label Сызу қашықтығы [{0}%]
+Landmark_Slider_Label Алыс нысандар қашықтығы [{0}%]
+
+Anti_Aliasing_Button_Label Тегістеу
+Anisotropic_Filtering_Button_Label Анизотропты сүзгілеу
+Effect_Button_Label Эффектілер сапасы
+Foliage_Button_Label Шөп пен тастар сапасы
+Sun_Shafts_Button_Label Күн сәулелерінің сапасы
+Lighting_Button_Label Жарықтандыру сапасы
+Reflection_Button_Label Кеңістік шағылыстарының сапасы
+Planar_Reflection_Button_Label Беттік шағылыстар сапасы
+Water_Button_Label Су сапасы
+Scope_Button_Label Оптика сапасы
+Outline_Button_Label Контур сапасы
+Terrain_Button_Label Жер бедерінің сапасы
+Render_Mode_Button_Label Өңдеу режимі
+Landmark_Button_Label Алыс нысандар
+
+
+
+
+
+
+FXAA FXAA
+
+AF_Disabled Өшіру
+AF_Per_Texture Текстура бойынша
+AF_Forced_On Мәжбүрлі
+
+
+Forward Тегіс
+Deferred Анық
+
+Off Өшіру
+Low Төмен
+Medium Орташа
+High Жоғары
+Ultra Ең жоғары
+
+Preset_Button_Label Пресет
+Preset_Potato Картоп
+Preset_Low Төмен
+Preset_Medium Орташа
+Preset_High Жоғары
+Preset_Ultra Ультра
+Preset_Custom Өзіндік
+Color_Grading_Toggle_Label Сурет түсі
+
+GfxBench_Start Графиканы өлшеу: шамамен {0} с. Тінтуірді ұстама, камера бекітілген.
+GfxBench_Step Өлшеу {0}/{1}: {2}
+GfxBench_Done Өлшеу дайын, баптаулар қайтарылды. Файл: {0}
+GfxBench_Failed Өлшеу дайын, бірақ файл сақталмады.
+GfxBench_Busy Өлшеу жүріп жатыр.
+GfxBench_Not_Now Өлшеу: тірі болу және көлікте болмау керек.
+SMAA SMAA
+Render_Scale_Slider_Label Рендер масштабы [{0}%]
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Preset_Button_Help Барлық графика баптауларын бірден қояды: әлсіз ДК-ға арналған Картоптан Ультраға дейін. Кез келген баптауды қолмен өзгертсеңіз, пресет Өзіндік болады.
+Ambient_Occlusion_Help Бұрыштардағы, саңылаулар мен түйіспелердегі жұмсақ көлеңкелер. Суретке көлем қосады, FPS-ті аздап алады.
+Bloom_Toggle_Help Жарық көздері мен жылтырлардың айналасындағы жарқырау.
+Color_Grading_Toggle_Help Түсті соңғы өңдеу: тонмаппинг пен қанықтық. Онсыз сурет жалпақ әрі күңгірт.
+Chromatic_Aberration_Toggle_Help Экран шетіне жақын нысандардың түсті жиектері, арзан объективтегідей.
+Film_Grain_Toggle_Help Сурет үстіндегі жеңіл шу, пленкадағыдай.
+Grass_Displacement_Toggle_Help Шөп ойыншылар мен көлік астында жапырылады.
+Wind_Toggle_Help Ағаштар, бұталар мен шөп желмен тербеледі.
+Ragdolls_Toggle_Help Ойыншылар мен жануарлардың денесі өлгеннен кейін физика бойынша құлайды. Өшірулі болса - денелер пайда болмайды.
+Debris_Toggle_Help Құрылыстар мен нысандар бұзылғандағы сынықтар.
+Puddle_Toggle_Help Жаңбыр кезіндегі шалшықтар мен тамшылардан толқын.
+Triplanar_Toggle_Help Тік беткейлер мен жартастардағы созылған текстураларды жояды.
+Far_Clip_Slider_Help Әлем қаншалықты алыс көрінеді: әрі қарай бәрін тұман жасырады. Көбірек - алыс көрінеді, бірақ FPS төмен.
+Distance_Slider_Help Құрылыстар, ағаштар мен заттар қандай қашықтықта толық сызылады. FPS-ке айтарлықтай әсер етеді.
+Landmark_Slider_Help Жеңілдетілген алыс құрылыстар мен жартастар қаншалықты алыс көрінеді.
+Render_Scale_Slider_Help Әлемнің экранға қатысты ажыратымдылығы: 100%-дан жоғары жиектер мен шөпті тегістейді, 100%-дан төмен FPS береді.
+Landmark_Button_Help Сызу қашықтығынан тыс жеңілдетілген үйлер мен жартастар. FPS-ке қатты әсер етеді.
+Anti_Aliasing_Button_Help Тісті жиектерді тегістейді. FXAA жұмсағырақ, SMAA анығырақ, FPS-ке екеуі де дерлік әсер етпейді.
+Effect_Button_Help Бөлшектер қанша өмір сүреді: түтін, ұшқын, шаң. Төмен болса - эффектілер тезірек жоғалады.
+Foliage_Button_Help Шөп пен ұсақ тастардың жиілігі. FPS-ке қатты әсер етеді.
+Sun_Shafts_Button_Help Жапырақтар мен бұлттар арқылы өтетін күн сәулелері.
+Lighting_Button_Help Көлеңкелердің сапасы мен қашықтығы. FPS-ке айтарлықтай әсер етеді.
+Planar_Reflection_Button_Help Әлемнің судағы шағылысы. FPS-ке қатты әсер етеді.
+Water_Button_Help Судың мөлдірлігі, жағадағы көбік, толқындар. Ең қымбат баптау: FPS-ке қатты әсер етеді.
+Scope_Button_Help Оптикалық көздегіштегі суреттің анықтығы.
+Outline_Button_Help Сіз қарап тұрған заттар мен көліктің контур сапасы.
+Terrain_Button_Help Алыстағы жер бедері бетінің бөлшектілігі.
+Anisotropic_Filtering_Button_Help Бұрыш астындағы текстуралардың анықтығы, мысалы алыстағы жер. FPS-ке дерлік әсер етпейді.

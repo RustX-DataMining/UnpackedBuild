@@ -1,0 +1,18 @@
+// Общее для экрана настроек: вкладки, сброс, ВКЛ/ВЫКЛ галочек (ToggleBlockUI), окно персонажа, окно подсказки без наведения (SettingHelp)
+Tab_Graphics ГРАФІКА
+Tab_Controls КЕРУВАННЯ
+Tab_Display ЕКРАН
+Tab_Options ГРА
+Tab_Audio ЗВУК
+Tab_Character ПЕРСОНАЖ
+Reset СКИНУТИ НАЛАШТУВАННЯ
+Toggle_On УВІМК
+Toggle_Off ВИМК
+Help_Header Підказка
+Help_Default Наведіть курсор на налаштування, і тут з'явиться опис того, що воно змінює.
+Character_Name Ім'я персонажа
+Character_Face Тип обличчя
+Character_Hair Зачіска
+Character_Skin_Color Колір шкіри
+Character_Hair_Color Колір волосся
+Character_Name_Placeholder Введіть ім'я персонажа

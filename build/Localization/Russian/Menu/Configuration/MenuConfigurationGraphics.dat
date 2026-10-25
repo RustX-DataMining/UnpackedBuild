@@ -1,116 +1,44 @@
-Clouds_Toggle_Label Облака
-Clouds_Toggle_Tooltip Добавляет воздушные массы.
 Ambient_Occlusion_Label Окружающая окклюзия
-Ambient_Occlusion_Tooltip Мягкое затенение возле углов и соединений.
 Bloom_Toggle_Label Свечение
-Bloom_Tooltip Эффекты свечения вокруг ярких объектов.
-Chromatic_Aberration_Toggle_Label Размытие краев
-Chromatic_Aberration_Tooltip Эффекты хроматической аберрации.
+Chromatic_Aberration_Toggle_Label Хроматическая аберрация
 Film_Grain_Toggle_Label Зернистость
-Film_Grain_Tooltip Эффекты тонкого визуального шума.
-Terrain_Toggle_Label Задний фон
-Blend_Toggle_Label Резкий переход
-Blend_Tooltip Отключает размытие между текстурами земли.
-Fog_Toggle_Label Туман
-Nice_Foliage_Toggle_Label Ветер
 Grass_Displacement_Toggle_Label Объёмная трава
-Grass_Displacement_Tooltip Добавляет реалистичность траве.
 Wind_Toggle_Label Эффект ветра
-Wind_Tooltip Анимация вершин объектов подверженных воздействию ветра.
-Foliage_Focus_Toggle_Label Фокусировка травы
-Foliage_Focus_Tooltip Изменяет траву на линии фокуса.
 Ragdolls_Toggle_Label Трупы
-Ragdolls_Tooltip Отображает трупы существ и их физику.
-Debris_Toggle_Label Частицы
-Debris_Tooltip Добавляет физику частиц при разрушении объекта.
-Blast_Toggle_Label Следы от взрывов
-Blast_Toggle_Tooltip Изменяет эффект при взрывах на 3D.
+Debris_Toggle_Label Обломки
 Puddle_Toggle_Label Лужи
-Puddle_Tooltip Эффекты луж и ряби для капель дождя.
-Glitter_Toggle_Label Блеск на снеге
-Glitter_Tooltip Эффекты мерцания поверхности снега.
-Triplanar_Toggle_Label Ровность ландшафта
-Triplanar_Tooltip Изменяет рельефа объектов на ландшафте.
-Skybox_Reflection_Label Отражения
-Skybox_Reflection_Tooltip Рендеринг динамического скайбокса в кубическую карту для окружающего освещения и отражений.
-Item_Icon_Anti_Aliasing_Label Сглаживание инвентаря
-Item_Icon_Anti_Aliasing_Tooltip Сглаживает края пикселей на значках предметов инвентаря.
+Triplanar_Toggle_Label Текстуры склонов
 
-Far_Clip_Slider_Label Дистанция тумана [{0}%]
-Distance_Slider_Label Дистанция детализации [{0}%]
-Landmark_Slider_Label Дистанция прорисовки [{0}%]
+Far_Clip_Slider_Label Дальность видимости [{0}%]
+Distance_Slider_Label Дальность прорисовки [{0}%]
+Landmark_Slider_Label Дальность дальних объектов [{0}%]
 
 Anti_Aliasing_Button_Label Сглаживание
-Anti_Aliasing_Button_Tooltip Сглаживает края пикселей
 Anisotropic_Filtering_Button_Label Анизотропная фильтрация
-Anisotropic_Filtering_Button_Tooltip Сглаживает углы текстур
 Effect_Button_Label Качество эффектов
-Effect_Button_Tooltip Продолжительность жизни частиц
 Foliage_Button_Label Качество травы и камней
-Foliage_Button_Tooltip Количество видимых мелких декораций
 Sun_Shafts_Button_Label Качество солнечных лучей
-Sun_Shafts_Button_Tooltip Яркость и качество солнечных лучей
 Lighting_Button_Label Качество освещения
-Lighting_Button_Tooltip Качество света и теней
-Ambient_Occlusion_Button_Label Качество декораций и объектов
-Ambient_Occlusion_Button_Tooltip Качество мелких деталей и теней
 Reflection_Button_Label Качество пространственных отражений
-Reflection_Button_Tooltip Качество отражений в лужах
 Planar_Reflection_Button_Label Качество поверхностных отражений
-Planar_Reflection_Button_Tooltip Качество отражений в воде
 Water_Button_Label Качество воды
-Water_Button_Tooltip Прозрачность воды, пена, волны и отражение
 Scope_Button_Label Качество оптики
-Scope_Button_Tooltip Качество отображения объектов в оптике
-Outline_Button_Label Качество границ
-Outline_Button_Tooltip Качество границ обозначения предметов и транспорта
-Bone_Button_Label Качество анимации
-Bone_Button_Tooltip Трансформация костей и интерактивных объектов
+Outline_Button_Label Качество обводки
 Terrain_Button_Label Качество ландшафта
-Terrain_Button_Tooltip Детализация поверхности ландшафта
-Wind_Button_Label Качество ветра
-Wind_Button_Tooltip Детализация частиц и анимации объектов на ветру
-Tree_Mode_Button_Label Качество деревьев
-Tree_Mode_Button_Tooltip Качество моделей деревьев и их листвы, необходима перезагрузка игры
 Render_Mode_Button_Label Режим обработки
-Render_Mode_Button_Tooltip Визуальная симуляция света
-Landmark_Button_Label Задний фон
-Landmark_Button_Tooltip Мелкие детали на заднем фоне
+Landmark_Button_Label Дальние объекты
 
-Effect_Off {0}: Только кровь
-Effect_Tier {0}: {1} секунд
 
-Planar_Reflection_Low {0}: Только пейзаж
-Planar_Reflection_Medium {0}: Небо, деревья, сооружения, крупные объекты
-Planar_Reflection_High {0}: Транспортные средства, баррикады, средние объекты
-Planar_Reflection_Ultra {0}: Игроки, искусственный интеллект, эффекты
 
-Bone_Influences_Medium {0}: Один
-Bone_Influences_High {0}: Два
-Bone_Influences_Ultra {0}: Четыре
 
-Wind_Low {0}: Ветер
-Wind_Medium {0}+: Обработка листвы и ветер
 
-Landmark_Low {0}: Только крупные объекты
-Landmark_Medium {0}: Деревья и растительность
-Landmark_High {0}: Выделение всех объектов
-Landmark_Ultra {0}: Дороги
 
 FXAA FXAA
-TAA TAA
-MSAA2 2xMSAA
-MSAA4 4xMSAA
-MSAA8 8xMSAA
-AA_Hint Резкий режим обработки и MSAA не совместимы
 
 AF_Disabled Выключить
-AF_Per_Texture Поочерёдно
+AF_Per_Texture По текстуре
 AF_Forced_On Принудительно
 
-TM_Legacy Классическое
-TM_SpeedTree_Fade_None Новое
-TM_SpeedTree_Fade_SpeedTree Новое со смешиванием
 
 Forward Сглаженный
 Deferred Резкий
@@ -121,7 +49,50 @@ Medium Среднее
 High Высокое
 Ultra Максимальное
 
-Perf_Foliage_Instancing_Not_Supported Ваш GPU не поддерживает создание экземпляров листвы.
-Perf_Water_Reflections Плоские отражения существенно влияет на производительность.
-Perf_Dual_Render_Scope Области двойного рендера требуют усиленной обработки сцены.
-Perf_SpeedTrees Обработка новых деревьев существенно влияет на производительность.
+Preset_Button_Label Пресет
+Preset_Potato Картошка
+Preset_Low Низкий
+Preset_Medium Средний
+Preset_High Высокий
+Preset_Ultra Ультра
+Preset_Custom Своё
+Color_Grading_Toggle_Label Цвет картинки
+
+GfxBench_Start Замер графики: около {0} с. Не трогай мышь, камера закреплена.
+GfxBench_Step Замер {0}/{1}: {2}
+GfxBench_Done Замер готов, настройки возвращены. Файл: {0}
+GfxBench_Failed Замер готов, но файл не сохранился.
+GfxBench_Busy Замер уже идёт.
+GfxBench_Not_Now Замер: нужно быть живым и не в транспорте.
+SMAA SMAA
+Render_Scale_Slider_Label Масштаб рендера [{0}%]
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Preset_Button_Help Выставляет все настройки графики разом: от Картошки для слабых ПК до Ультра. Если поменять любую настройку вручную, пресет станет Своим.
+Ambient_Occlusion_Help Мягкие тени в углах, щелях и стыках. Добавляет картинке объём, стоит немного FPS.
+Bloom_Toggle_Help Свечение вокруг ярких источников света и бликов.
+Color_Grading_Toggle_Help Финальная обработка цвета: тонмаппинг и насыщенность. Без неё картинка плоская и тусклая.
+Chromatic_Aberration_Toggle_Help Цветные края у объектов ближе к краям экрана, как у дешёвого объектива.
+Film_Grain_Toggle_Help Лёгкий шум поверх картинки, как на плёнке.
+Grass_Displacement_Toggle_Help Трава приминается под игроками и транспортом.
+Wind_Toggle_Help Деревья, кусты и трава качаются на ветру.
+Ragdolls_Toggle_Help Тела игроков и животных после смерти падают по физике. Выключено - тела не появляются.
+Debris_Toggle_Help Обломки при разрушении построек и объектов.
+Puddle_Toggle_Help Лужи и рябь от капель во время дождя.
+Triplanar_Toggle_Help Убирает растянутые текстуры на крутых склонах и скалах.
+Far_Clip_Slider_Help Как далеко вообще виден мир: дальше всё скрывает туман. Больше - видно дальше, но ниже FPS.
+Distance_Slider_Help На каком расстоянии постройки, деревья и предметы рисуются полностью. Заметно влияет на FPS.
+Landmark_Slider_Help Как далеко видны упрощённые дальние постройки и скалы.
+Render_Scale_Slider_Help Разрешение мира относительно экрана: выше 100% сглаживает края и траву, ниже 100% даёт FPS.
+Landmark_Button_Help Упрощённые дома и скалы за дальностью прорисовки. Сильно влияет на FPS.
+Anti_Aliasing_Button_Help Сглаживает зубчатые края. FXAA мягче, SMAA чётче, на FPS оба почти не влияют.
+Effect_Button_Help Сколько живут частицы: дым, искры, пыль. Ниже - эффекты исчезают быстрее.
+Foliage_Button_Help Густота травы и мелких камней. Сильно влияет на FPS.
+Sun_Shafts_Button_Help Солнечные лучи сквозь листву и облака.
+Lighting_Button_Help Качество и дальность теней. Заметно влияет на FPS.
+Planar_Reflection_Button_Help Отражения мира в воде. Сильно влияет на FPS.
+Water_Button_Help Прозрачность воды, пена у берега, волны. Самая дорогая настройка: сильно влияет на FPS.
+Scope_Button_Help Чёткость картинки в оптическом прицеле.
+Outline_Button_Help Качество обводки предметов и транспорта, на которые вы смотрите.
+Terrain_Button_Help Детализация поверхности ландшафта вдали.
+Anisotropic_Filtering_Button_Help Чёткость текстур под углом, например земли вдали. На FPS почти не влияет.

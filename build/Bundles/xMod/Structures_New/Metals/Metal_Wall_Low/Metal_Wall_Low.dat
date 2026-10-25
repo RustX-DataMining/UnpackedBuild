@@ -1,0 +1,17 @@
+GUID 7a7e703b55de41eabc817e53a88b19d0
+Type Structure
+Useable Structure
+Construct Rampart
+ID 7273
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1000
+Range 8
+
+Armor_Tier 0
+
+Explosion 29
+Has_Clip_Prefab false

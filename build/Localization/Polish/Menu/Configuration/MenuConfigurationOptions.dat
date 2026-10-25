@@ -1,0 +1,77 @@
+FOV_Slider_LabelV2_Name Pole widzenia
+FOV_Slider_LabelV2_Value Poziomo {0}, pionowo {1}
+Debug_Toggle_Label Licznik FPS i ping
+Gore_Toggle_Label Krew
+
+
+Filter_Toggle_Label Filtr czatu
+
+Chat_Text_Toggle_Label Czat tekstowy
+Chat_Voice_In_Toggle_Label Słysz innych graczy
+Chat_Voice_Out_Toggle_Label Mów w grze przez mikrofon
+VoiceAlwaysRecording_Label Mikrofon zawsze gotowy
+ShowOutboundVoiceChatOffHint_Label Pokazuj podpowiedź „Wychodzący głos wyłączony”
+Hints_Toggle_Label Podpowiedzi edytora
+Streamer_Toggle_Label Tryb streamera
+Pause_When_Unfocused_Label Pauza po\nAlt + Tab
+Nametag_Fade_Out_Label Zanikanie\nnazw graczy
+ScreenshotSupersampling_Label Supersampling zrzutów ekranu
+
+UseStaticCrosshair_Label Regulacja celownika
+StaticCrosshairSize_Label Rozmiar celownika
+CrosshairShape_Line Liniowy
+CrosshairShape_Classic Klasyczny
+CrosshairShape_Label Kształt celownika
+
+Metric_On Metryczny
+Metric_Off Imperialny
+Metric_Label System miar
+
+
+
+Hitmarker_Static Statyczny znacznik
+Hitmarker_Dynamic Dynamiczny znacznik
+Hitmarker_Label Położenie znacznika trafienia
+HitmarkerStyle_Animated Animowany
+HitmarkerStyle_Classic Klasyczny
+HitmarkerStyle_Label Styl znacznika trafienia
+
+VehicleThirdPersonCameraMode_RotationDetached Odepnij kamerę
+VehicleThirdPersonCameraMode_RotationAttached Przypnij kamerę
+VehicleThirdPersonCameraMode_Label Kamera z 3. osoby w pojazdach
+AircraftThirdPersonCameraMode_Label Kamera z 3. osoby w pojazdach latających
+FlashbangBrightness_Label Siła granatu hukowego [{0}]
+CameraShakeIntensity_Label Siła wstrząsu kamery od wybuchów [{0}]
+
+DamageFlinchMode_RollOnly Tylko przechył
+DamageFlinchMode_Directional Kierunkowy
+DamageFlinchMode_Label Tryb drgnięcia
+DamageFlinchIntensity_Label Siła drgnięcia [{0}]
+
+// подсказки (HelpWindow справа) и заголовки разделов
+FOV_Help Kąt widzenia kamery. Szerszy - widać więcej po bokach, ale wszystko wydaje się mniejsze.
+StaticCrosshairSize_Help Rozmiar celownika, gdy włączona jest regulacja celownika.
+FlashbangBrightness_Help Jak mocno oślepia granat hukowy.
+CameraShakeIntensity_Help Siła wstrząsu kamery od wybuchów i strzałów.
+DamageFlinchIntensity_Help Jak mocno szarpie kamerą, gdy zostaniesz zraniony.
+Debug_Toggle_Help Licznik FPS i ping w rogu ekranu.
+Gore_Toggle_Help Rozbryzgi i plamy krwi przy trafieniach.
+Filter_Toggle_Help Ukrywa wulgaryzmy w czacie. Mowa nienawiści jest ukrywana zawsze, nawet bez filtra.
+Chat_Text_Toggle_Help Pokazuj wiadomości innych graczy w czacie tekstowym.
+Chat_Voice_In_Toggle_Help Słysz czat głosowy innych graczy.
+Chat_Voice_Out_Toggle_Help Pozwól mówić w grze przez mikrofon.
+VoiceAlwaysRecording_Help Między zdaniami mikrofon nie wyłącza się, tylko wycisza: początek i koniec zdania nie są ucinane.
+ShowOutboundVoiceChatOffHint_Help Ikona na ekranie, gdy twój mikrofon jest wyłączony.
+Hints_Toggle_Help Podpowiedzi klawiszy narzędzi w edytorze map.
+Streamer_Toggle_Help Ukrywa nazwy i awatary innych graczy, żeby nie było ich widać na streamie.
+Pause_When_Unfocused_Help Otwiera menu pauzy, gdy minimalizujesz grę. Serwer przy tym się nie zatrzymuje.
+Nametag_Fade_Out_Help Nazwy członków grupy blakną przy środku celownika, żeby nie przeszkadzały w celowaniu.
+ScreenshotSupersampling_Help Zrzuty ekranu w podwójnej rozdzielczości: czystsze krawędzie, ale zrzut trwa dłużej.
+UseStaticCrosshair_Help Celownik o stałym rozmiarze zamiast zmieniającego się z rozrzutem broni.
+CrosshairShape_Help Wygląd celownika: linie lub klasyczny.
+Metric_Help W jakich jednostkach pokazywać odległość i prędkość.
+Hitmarker_Help Gdzie pokazywać znacznik trafienia: na celowniku czy w miejscu trafienia.
+HitmarkerStyle_Help Wygląd znacznika trafienia: animowany lub klasyczny.
+VehicleThirdPersonCameraMode_Help Kamera z 3. osoby w pojazdach naziemnych: swobodna lub obraca się razem z pojazdem.
+AircraftThirdPersonCameraMode_Help Kamera z 3. osoby w pojazdach latających: swobodna lub obraca się razem z pojazdem.
+DamageFlinchMode_Help Jak szarpie kamerą przy zranieniu: tylko przechył albo w stronę, skąd przyszły obrażenia.

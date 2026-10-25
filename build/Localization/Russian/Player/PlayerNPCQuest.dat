@@ -7,7 +7,6 @@ Condition_Item {0}/{1} {2}
 Condition_Currency {0} Валюта
 
 Condition_AnimalKills {0}/{1} Убито животных
-Condition_HordeKills {0}/{1} Убито в режиме орды
 Condition_ObjectKills {0}/{1} Уничтожено обьектов
 Condition_PlayerKills {0}/{1} Убито игроков
 Condition_TreeKills {0}/{1} {2}
@@ -26,15 +25,4 @@ Reward_Virus {0} Иммунитет
 Reward_Stamina {0} Выносливость
 
 Accept Принять
-Accept_Tooltip Взять задание
-Decline Отклонить
-Decline_Tooltip Отказаться от задания
-Continue Завершить
-Continue_Tooltip Завершить задание
-Track_On Отображать
-Track_Off Не отображать
-Track_Tooltip (Не)Отображать задание на экране
-Abandon Отменить
-Abandon_Tooltip Отказаться от выполнения задания
 Return Закрыть
-Return_Tooltip Свернуть окно

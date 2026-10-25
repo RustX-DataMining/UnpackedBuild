@@ -1,0 +1,16 @@
+GUID 5cb5ce1c194f4f848824638702e82a80
+Type Structure
+Useable Structure
+Construct Wall
+ID 7239
+
+Size_Z 0.45
+
+Health 250
+Range 8
+
+Requires_Pillars false
+
+Explosion 29
+Armor_Tier 0
+Fire_Vulnerable

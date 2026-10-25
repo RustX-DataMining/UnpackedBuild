@@ -1,0 +1,17 @@
+GUID 620156dacade495faea41b82dfca0b15
+Type Structure
+Useable Structure
+Construct Wall
+ID 7278
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1000
+Range 8
+
+Armor_Tier 0
+
+Explosion 29
+Has_Clip_Prefab false

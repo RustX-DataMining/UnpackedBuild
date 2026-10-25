@@ -1,0 +1,81 @@
+Life_Bleeding Қан кету
+Life_Radiation Радиация
+Life_Oxygen Оттегі
+Life_Combat Боевой блок
+Life_Raid Рейд блок
+Life_Fuel Жанармай
+Life_Durability Беріктік
+Life_Block_Seconds {0} сек
+Interactive_Fuel Жанармай
+Interactive_Durability Беріктік
+Interactive_GasMask Антирад
+Invite_Group Отрядқа шақыру
+Group_Invite сізді командаға шақырды
+Knockdown_Header СІЗ ЖАРАЛАНДЫҢЫЗ
+Knockdown_Description {0} секундтан кейін өлесіз\nкөмек алмасаңыз
+Feed_Join Қосылды: {0}
+Feed_Exit Шықты: {0}
+Rank_Next Келесі дәреже: {0}
+Rank_Max {0}: ең жоғары дәреже
+Teleport_Input_Header КІРІС ТПА СҰРАУЫ
+Teleport_Output_Header ШЫҒЫС ТПА СҰРАУЫ
+Teleport_Delay ТЕЛЕПОРТҚА {0}с.
+Teleport_Accept {0} ҚАБЫЛДАУ
+Teleport_Deny {0} ҚАБЫЛДАМАУ
+Teleport_Cancel {0} БОЛДЫРМАУ
+Teleport_Accepted ТЕЛЕПОРТ ҚАБЫЛДАНДЫ
+Teleport_Waiting ЖАУАП КҮТІЛУДЕ
+Voteday_Header КҮН ҮШІН ДАУЫС БЕРУ
+Voteday_Hint Дауыс беру үшін F1 басыңыз
+
+Radial_Refuel Құю
+Radial_Vehicle_Enter Отыру
+Radial_Vehicle_Push Итеру
+Radial_Vehicle_Push_Hint Көлікті итеру
+Radial_Vehicle_Refuel_Hint Көлікке жанармай құю
+Radial_Generator_On Генераторды қос
+Radial_Generator_On_Hint Генераторды қосу
+Radial_Generator_Off Генераторды өшір
+Radial_Generator_Off_Hint Генераторды өшіру
+Radial_Generator_Refuel_Hint Генераторға жанармай құю
+Radial_Pickup АЛУ
+Radial_Remove_Lock ҚҰЛЫПТЫ АЛУ
+Radial_Change_Skin ӨЗГЕРТУ
+Radial_No_Skins Скин жоқ
+Radial_Default_Skin СТАНДАРТТЫ
+Radial_Skin_Current Орнатылған
+Radial_Destroy Құрылысты бұзу
+Radial_Rotate Құрылысты бұру
+Radial_Ammo Оқтар
+Radial_Fuel Жанармай
+
+Admin_Tab_Items ЗАТТАР
+Admin_Tab_Vehicles КӨЛІК
+Admin_Tab_Camera КАМЕРА
+Admin_Tab_Commands КОМАНДАЛАР
+Admin_Filter_Common ЖАЛПЫ
+Admin_Filter_Buildings ҚҰРЫЛЫС
+Admin_Filter_Explosives ЖАРЫЛҒЫШ
+Admin_Filter_Resources РЕСУРСТАР
+Admin_Filter_Clothes КИІМ
+Admin_Filter_Tools ҚҰРАЛДАР
+Admin_Filter_Medical МЕДИЦИНА
+Admin_Filter_Weapons ҚАРУ
+Admin_Filter_Ammo ОҚ-ДӘРІ
+Admin_Filter_Other БАСҚА
+Admin_Search Зат іздеу...
+Admin_Freecam_1 Фрикам және бақылау (Shift+F1)
+Admin_Freecam_2 Бақылау (Shift+F2)
+Admin_Freecam_3 Бекіту (Shift+F3)
+Admin_Freecam_4 Фокус (Shift+F4)
+Admin_Panorama Панораманы сақтау
+Admin_Panorama_Saved Панорама сақталды: {0}
+Admin_Panorama_Failed Панорама сақталмады, толығырақ логта
+Admin_Command_Day Күн
+Admin_Command_Night Түн
+Admin_Command_Clear Ашық ауа райы
+Admin_Command_Storm Дауыл
+Admin_Command_Voteday Күн үшін дауыс беру
+Admin_Command_Heal Емделу
+Admin_Command_Teleport Белгіге ТП
+Admin_Command_God Өлместік

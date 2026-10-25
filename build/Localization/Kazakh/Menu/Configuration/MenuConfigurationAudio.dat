@@ -1,0 +1,24 @@
+Volume_Slider_Label Жалпы дыбыс деңгейі [{0}]
+Game_Volume_Slider_Label Ойын дыбысы [{0}]
+Unfocused_Volume_Slider_Label Жиналған ойын дыбысы [{0}]
+Music_Master_Volume_Slider_Label Музыка дыбысы [{0}]
+Loading_Screen_Music_Volume_Slider_Label Жүктеу экранындағы музыка [{0}]
+Death_Music_Volume_Slider_Label Өлім музыкасы [{0}]
+Main_Menu_Music_Volume_Slider_Label Басты мәзірдегі музыка [{0}]
+Ambient_Music_Volume_Slider_Label Ойындағы фондық\nмузыка [{0}]
+Voice_Slider_Label Дауыстық чат дыбысы [{0}]
+Atmosphere_Volume_Slider_Label Ойындағы атмосфера дыбысы [{0}]
+Music_Header МУЗЫКА
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Sounds_Header ДЫБЫСТАР
+Volume_Slider_Help Ойынның барлық дыбыстарының жалпы деңгейі.
+Unfocused_Volume_Slider_Help Ойын жиналған немесе терезе белсенді емес кездегі дыбыс деңгейі.
+Game_Volume_Slider_Help Ойын дыбыстары: қадамдар, атыс, жарылыс, көлік.
+Voice_Slider_Help Басқа ойыншылардың дауыс деңгейі.
+Atmosphere_Volume_Slider_Help Қоршаған орта дыбыстары: жел, жаңбыр, құстар, орман шуы.
+Music_Master_Volume_Slider_Help Барлық музыканың жалпы деңгейі.
+Loading_Screen_Music_Volume_Slider_Help Жүктеу экранындағы музыка.
+Death_Music_Volume_Slider_Help Өлгеннен кейінгі музыка.
+Main_Menu_Music_Volume_Slider_Help Басты мәзірдегі музыка.
+Ambient_Music_Volume_Slider_Help Ойын кезіндегі фондық музыка.

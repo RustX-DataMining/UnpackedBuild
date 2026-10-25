@@ -1,0 +1,28 @@
+Conditions Zadanie:
+Rewards Nagroda:
+
+Condition_Experience {0}/{1} Doświadczenie
+Condition_Reputation {0}/{1} Reputacja
+Condition_Item {0}/{1} {2}
+Condition_Currency {0} Waluta
+
+Condition_AnimalKills {0}/{1} Zabite zwierzęta
+Condition_ObjectKills {0}/{1} Zniszczone obiekty
+Condition_PlayerKills {0}/{1} Zabici gracze
+Condition_TreeKills {0}/{1} {2}
+Condition_ZombieKills {0}/{1} Zabite zombie
+
+Reward_Experience {0} Doświadczenie
+Reward_Reputation {0} Reputacja
+Reward_Item {1} x{0}
+Reward_Item_Random Losowy przedmiot x{0}
+Reward_Vehicle {0} x1
+Reward_Currency {0} Waluta
+Reward_Health {0} Zdrowie
+Reward_Food {0} Jedzenie
+Reward_Water {0} Woda
+Reward_Virus {0} Odporność
+Reward_Stamina {0} Wytrzymałość
+
+Accept Przyjmij
+Return Zamknij

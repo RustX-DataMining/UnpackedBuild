@@ -1,0 +1,17 @@
+GUID 406645a7d674492ca29d4dbc5eb61718
+Type Structure
+Useable Structure
+Construct Roof
+ID 7264
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1000
+Range 8
+
+Armor_Tier 0
+
+Explosion 29
+Has_Clip_Prefab false

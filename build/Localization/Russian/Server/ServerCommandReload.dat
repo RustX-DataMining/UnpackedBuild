@@ -1,3 +1,0 @@
-ReloadCommandText Reload
-ReloadInfoText Reload [GUID]
-ReloadHelpText Это перезагружает ресурс по GUID.

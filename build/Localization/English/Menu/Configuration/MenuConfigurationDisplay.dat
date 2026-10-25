@@ -6,7 +6,16 @@ UseUnfocusedTargetFrameRate_Toggle_Label Limit Framerate While Alt-Tabbing
 UnfocusedTargetFrameRate_Field_Label Max Framerate While Alt-Tabbing
 
 Fullscreen_Mode_Label Fullscreen Mode
-Fullscreen_Mode_Tooltip How game shares the display
 Fullscreen_Mode_Exclusive Exclusive
 Fullscreen_Mode_Borderless Borderless
 Fullscreen_Mode_Windowed Windowed
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Resolutions_Header RESOLUTIONS
+User_Interface_Scale_Field_Help Interface size: 1 is normal, higher is bigger.
+TargetFrameRate_Field_Help Maximum frames per second when the limit is on.
+UnfocusedTargetFrameRate_Field_Help Maximum frames per second while the game is minimized.
+Fullscreen_Mode_Help How the game uses the screen: exclusive fullscreen, a borderless window or a regular window.
+Buffer_Toggle_Help Syncs frames to the monitor refresh rate: no screen tearing, but slightly more input lag. While on, the framerate limit is ignored.
+UseTargetFrameRate_Toggle_Help Caps frames per second so your PC runs cooler and quieter. The menu is capped at 60 anyway.
+UseUnfocusedTargetFrameRate_Toggle_Help A separate framerate limit while minimized. Off: at most 30 while minimized.

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 329471712
+CRC: 3246785954
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3942c420d4c68fbb076bb3b4d674396d
+    Hash: da072cc50dfe0ed7362e5e05109fc6d5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 20b3277b5661163767091187f877f375
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3942c420d4c68fbb076bb3b4d674396d
+    Hash: da072cc50dfe0ed7362e5e05109fc6d5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -165,6 +165,7 @@ Assets:
 - Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_7/Object.prefab
 - Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_5/Nav.prefab
 - Assets/xPack/Materials/Boulder.png
+- Assets/xPack/Resources/Palm_2/Stump.prefab
 - Assets/xPack/Customs/Portal_GasStaishen/Skybox.prefab
 - Assets/xPack/Boulders/BoulderSnow_3/Object.prefab
 - Assets/xPack/Boulders/BoulderSand_1/Nav.prefab
@@ -227,6 +228,7 @@ Assets:
 - Assets/xPack/Resources/Pine_1/Debris.prefab
 - Assets/xPack/Boulders/BoulderSand_4/Nav.prefab
 - Assets/xPack/Locations/Supermarket/Skybox.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_Birch/Resource.prefab
 - Assets/xPack/Customs/Portal_GasStaishen/Nav.prefab
 - Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_1/Object.prefab
 - Assets/xPack/Boulders/BoulderSand_8/Object.prefab
@@ -292,7 +294,9 @@ Assets:
 - Assets/xPack/Roadside/RoadsideObjects/RoadsideObject_2/Skybox.prefab
 - Assets/xPack/Boulders/BoulderVertical_3/Nav.prefab
 - Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_6/Nav.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_Winter_2/Stump.prefab
 - Assets/xPack/Roadside/BusStop/Object.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_Birch/Stump.prefab
 - Assets/xPack/Interactable/Keydoor_Red/Barricade.prefab
 - Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_8/Skybox.prefab
 - Assets/xPack/Boulders/BoulderSand_6/Nav.prefab
@@ -319,6 +323,7 @@ Assets:
 - Assets/xPack/Resources/Cactus_2/Resource.prefab
 - Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_4/Skybox.prefab
 - Assets/xPack/Locations/Supermarket/Object.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_Winter_1/Stump.prefab
 - Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_5/Object.prefab
 - Assets/xPack/Locations/Airfield/Skybox.prefab
 - Assets/xPack/Foliage/Bushes/Bush_1/Stump.prefab
@@ -339,6 +344,7 @@ Assets:
 - Assets/xPack/Locations/Artic_base/Skybox.prefab
 - Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_9/Clip.prefab
 - Assets/xPack/Boulders/BoulderSnow_6/Object.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_Winter_1/Resource.prefab
 - Assets/xPack/Locations/Fishing_Vilage_A/Skybox.prefab
 - Assets/xPack/Boulders/BoulderSnow_8/Skybox.prefab
 - Assets/xPack/Boulders/BoulderGrass_7/Skybox.prefab
@@ -412,6 +418,7 @@ Assets:
 - Assets/xPack/Foliage/Grass/Flowers_2.png
 - Assets/xPack/Interactable/Keydoor_Blue/Open.wav
 - Assets/xPack/Locations/Harbor/Nav.prefab
+- Assets/xPack/Foliage/Bushes/Sapling_Winter_2/Resource.prefab
 - Assets/xPack/Roadside/RoadsideDebris/RoadsideDebris_2/Object.prefab
 - Assets/xPack/Resources/OreSulfur_0/Stump.prefab
 - Assets/xPack/Roadside/Powerline_5/Nav.prefab
@@ -420,7 +427,6 @@ Assets:
 - Assets/xPack/Resources/PineWinter_0/Stump.prefab
 - Assets/xPack/Boulders/BoulderGrass_1/Nav.prefab
 - Assets/xPack/Customs/Portal_Sand_Base/Skybox.prefab
-- Assets/xPack/Resources/Palm_2/Stump.prefab
 - Assets/xPack/Interactable/Keydoor_Red/Open.wav
 - Assets/xPack/Locations/Oil_Rig/Skybox.prefab
 - Assets/xPack/Roadside/Powerline_4/Skybox.prefab

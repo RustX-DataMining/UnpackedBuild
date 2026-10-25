@@ -1,0 +1,313 @@
+Tab_Main Басты бет
+Tab_Play Ойнау
+Tab_Market Дүкен
+Tab_Inventory Инвентарь
+Tab_Settings Баптаулар
+Tab_Exit Шығу
+
+Banned Сіз бұл серверде тағы {0} бұғатталғансыз. Себебі: {1}
+Banned_Unban Бұғаттан шығуды сайттағы профильде сатып алуға болады: {0}
+Kicked Сіз бұл серверден шығарылдыңыз. Себебі: {0}
+Whitelisted Сіз бұл сервердің шақырылғандар тізімінде жоқсыз!
+Password Құпиясөз қате!
+Full Сервер толы!
+
+Hash_Level Бұл сервер өзгертілген картаны пайдаланады.
+
+Hash_Assembly Бұл сервер өзгертілген кодты пайдаланады.
+
+Hash_Resources Ішкі ресурстар сәйкес келмейді. Ойын файлдарын тексеру бұл мәселені шешуі керек.
+
+SkinColorWithinThresholdOfTerrainColor Кейіпкеріңіздің тері түсі карта жерінің бір түсіне тым ұқсас. Тері түсін өзгертіңіз немесе басқа кейіпкерге ауысыңыз.
+
+Steam_ID_Mismatch Steam аккаунтыңыз серверге қосылуға пайдаланылатын аккаунтқа сәйкес келмейді.
+Connect_Rate_Limiting Қосылуға сұраныс тым көп, кешіріңіз! Бірнеше минуттан кейін қайталап көріңіз.
+Bad_Packet_Rate_Limiting Байланысыңызда бірдеңе дұрыс болмады, кешіріңіз! Бірнеше минуттан кейін қайталап көріңіз.
+
+Version Бұл сервер ойынның {0} нұсқасында жұмыс істейді, ал сізде {1} нұсқасы.
+Pro_Server Бұл сервер тек Prime бар ойыншыларға арналған.
+Pro_Character Жарамды кейіпкерді таңдаңыз.
+
+Pro_Desync Бұл сервер мен сіздің клиентіңіз кейіпкеріңіз туралы әртүрлі ойлайды.
+
+Pro_Appearance Рұқсат етілген бет, шаш үлгісі, сақал, тері түсі мен шаш түсін таңдаңыз.
+Auth_Verification Тексеру рұқсатнамаңыз жарамсыз!
+Auth_No_Steam Сіз Steam-ге қосылмағансыз!
+Auth_License_Expired Кіру лицензияңыздың мерзімі өтті!
+
+Auth_Elsewhere Сіз қазір басқа сервердесіз!
+
+Auth_Timed_Out "Steam VAC" сервері сұранысыңызға жауап бермеді!
+
+Auth_Used Рұқсатнамаңыздың мерзімі өтті!
+Auth_No_User Сіз Steam аккаунтына қосылмағансыз!
+
+Auth_Pub_Ban Сізге ашық серверлерге кіруге тыйым салынды!
+
+Auth_Network_Identity_Failure Аутентификация сәтсіз аяқталды, себебі Steam серверінің идентификаторы өзгерді. Сервер қайта іске қосылған немесе ойын серверіне кіру токені өзгерген болуы мүмкін. Серверлер тізімін жаңарту мұны түзетуі керек.
+
+Auth_Econ_Serialize "Steam Economy" билетіңіз сериализацияланбады!
+Auth_Econ_Deserialize "Steam Economy" билетіңіз десериализацияланбады!
+Auth_Econ_Verify "Steam Economy" билетіңіз тексеруден өтпеді!
+
+Auth_Empty Steam сервері сұранысыңызға жауап бермеді!
+
+Already_Connected Сіз бұл серверге қосылып жатырсыз!
+Already_Pending Сіз бұл серверге қосылу кезегінде тұрсыз!
+Late_Pending Кезектегі орныңыздан айырылдыңыз!
+Not_Pending Сіз бұл серверде ойнамайсыз!
+Name_Player_Short Steam атыңыз тым қысқа!
+Name_Player_Long Steam атыңыз тым ұзын!
+
+Name_Player_Invalid Steam атыңызда тыйым салынған таңбалар бар!
+
+Name_Player_Number Steam атыңыз тек сандардан тұра алмайды!
+Name_Character_Short Атыңыз тым қысқа!
+Name_Character_Long Атыңыз тым ұзын!
+
+Name_Character_Invalid Атыңызда тыйым салынған таңбалар бар!
+
+Name_Character_Number Атыңыз тек сандардан тұра алмайды!
+
+Timed_Out Қосылу уақыты бітті!
+
+Timed_Out_Login Бұл сервер сізді кезектен қабылдағаннан кейін жауап бермеді. Сервер/плагин қатесі немесе желі ақауы болуы мүмкін.
+
+Map Бұл сервер сізде жоқ картада жұмыс істейді!
+
+Shutdown Бұл серверді әкімші жапты!
+Shutdown_Reason Бұл сервер жабылды, себебі: "{0}"
+PingV2 Қабылданбады: есептелген пингіңіз ({0}ms) сервердің шегінен {1}ms асып кетті.
+Ping Сіз бұл серверден тым жоғары кідіріс үшін шығарылдыңыз!
+Plugin Бұл серверде сізге қосылуға тыйым салған плагин бар!
+Plugin_Reason Плагиндер: {0}
+Barricade Бұл серверде сізде жоқ баррикадалар бар!
+Structure Бұл серверде сізде жоқ құрылыстар бар!
+Vehicle Бұл серверде сізде жоқ көлік бар!
+Client_Module_Desync Бұл серверде сіз пайдаланатын модуль жоқ.
+Server_Module_Desync Бұл сервер сізде жоқ модульді пайдаланады.
+
+Level_Version Бұл сервер картаның басқа нұсқасында жұмыс істейді: {0}
+
+Econ_Hash Бұл серверде инвентарьдың басқа нұсқасы іске қосылған.
+
+Master_Bundle_Hash Ассеттер пакетінің қатесі: {0}
+
+Failure_Unknown Белгісіз қате: {0} Себебі: {1}
+Reject_Unknown Белгісіз себеппен қабылданбады: {0}
+Workshop_Advertisement_Mismatch Сервер шеберхана элементтерісіз көрсетілген, бірақ шеберханадан жүктеуді сұрады.
+
+Late_Pending_Steam_Auth Ойын сервері Steam аутентификация серверлерінен жауап алмады.
+
+Late_Pending_Steam_Econ Ойын сервері Steam экономика серверлерінен жауап алмады.
+
+Late_Pending_Steam_Groups Ойын сервері Steam топтар серверлерінен жауап алмады.
+
+Name_Private_Long Топтағы атыңыз тым ұзын.
+
+Name_Private_Invalid Топтағы атыңызда жарамсыз әріптер бар.
+
+Name_Private_Number Топтағы атыңыз тек сан бола алмайды.
+
+Server_Map_Advertisement_Mismatch Сервер жүктеуді сұрағаннан басқа картаны көрсетті.
+Server_MaxPlayers_Advertisement_Mismatch Сервер орнатылғаннан басқа ойыншылардың ең көп санын көрсетті.
+Server_CameraMode_Advertisement_Mismatch Сервер орнатылғаннан басқа камера режимін көрсетті.
+Server_PvP_Advertisement_Mismatch Сервер орнатылғаннан басқа PVP немесе PVE режимін көрсетті.
+
+HWID_Modified Аппараттық идентификатордың (HWID) спуфері табылды.
+Cert_Invalid Кіруді растау мүмкін болмады. Ойынды лаунчер арқылы қайта іске қосыңыз.
+Cert_Expired Рұқсатнама жаңартылды, қайта қосылыңыз.
+Device_Revoked Осы ДК-дағы кіру қайтарылды. Лаунчер арқылы кіріңіз.
+Already_Playing Сіз {0} серверінде ойнап жатырсыз. Одан шығып, бір минуттан кейін қосылыңыз.
+
+SteamNetworkingSockets_EndReason_App_1001 Ойыншылардың, кезектің және қосылуды күтетіндердің барлық орындары толы.
+SteamNetworkingSockets_EndReason_App_1002 Сервер өшірілу үстінде.
+SteamNetworkingSockets_EndReason_App_1003 Сіздің мекенжайыңыздан қосылу әрекеті тым көп. Бір минут күтіп, қайталап көріңіз.
+SteamNetworkingSockets_EndReason_App_1004 Сервер тек IPv4 арқылы қосылуды қабылдайды.
+SteamNetworkingSockets_EndReason_Code {0} (код {1})
+SteamNetworkingSockets_EndReason_App_Unknown Ойын байланысты белгісіз себеппен үзді.
+SteamNetworkingSockets_EndReason_AppException_Generic Ойын байланысты әдеттен тыс жолмен аяқтады.
+SteamNetworkingSockets_EndReason_AppException_Unknown Ойын байланысты белгісіз себеппен тоқтатты.
+SteamNetworkingSockets_EndReason_Local_OfflineMode Офлайн режимде қосылу мүмкін емес.
+SteamNetworkingSockets_EndReason_Local_RelayConnectivity Ретрансляция желісіне қосылу мүмкін болмады.
+SteamNetworkingSockets_EndReason_Local_NetworkConfig Серверге қосылуды бастау мүмкін болмады.
+SteamNetworkingSockets_EndReason_Local_Rights Қосылу қабылданбады: құқық жеткіліксіз.
+SteamNetworkingSockets_EndReason_Local_Unknown Жергілікті қосылудың белгісіз қатесі.
+SteamNetworkingSockets_EndReason_Remote_Timeout Хостпен байланыс үзілді.
+SteamNetworkingSockets_EndReason_Remote_BadCrypt Хостта шифрлауды орнату мүмкін емес.
+SteamNetworkingSockets_EndReason_Remote_BadCert Хосттың шифрлау сертификатына сенуге болмайды.
+SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion Сервер желі протоколының басқа нұсқасын пайдаланады.
+SteamNetworkingSockets_EndReason_Remote_Unknown Қашықтағы қосылудың белгісіз қатесі.
+SteamNetworkingSockets_EndReason_Misc_InternalError Желінің ішкі қатесі.
+
+SteamNetworkingSockets_EndReason_Misc_Timeout Серверге қосылу мүмкін болмады: жауап жоқ.
+
+SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Желі байланысында ақаулар бар.
+SteamNetworkingSockets_EndReason_Misc_Unknown Қосылудың басқа белгісіз қатесі.
+SteamNetworkingSockets_EndReason_Unknown Байланыс белгісіз себеппен үзілді.
+
+
+Dismiss_Notification_Label Жабу
+Copy_Notification_Label Көшіру
+
+Language_Restart_Header Назар аударыңыз
+Language_Restart_Message Тіл қолданылуы үшін ойынды қайта іске қосыңыз.
+
+Launcher_Header Лаунчер арқылы кіру
+Launcher_Content Ойынға RustX лаунчері арқылы кіріңіз: онсыз серверге кіру, дүкен, инвентарь, әмиян және шағымдар жұмыс істемейді.
+Launcher_Button Лаунчерді ашу
+Launcher_Close Жабу
+Launcher_No_Token Сайтпен байланыс жоқ. Бір минуттан кейін қайталап көріңіз.
+Launcher_Not_Found Лаунчер табылмады. Оны {0} сайтынан жүктеп алыңыз.
+
+Refresh_Label СЕРВЕРДЕН ДЕРЕКТЕР АЛЫНБАДЫ
+Refresh_Label_Cached СЕРВЕРДЕН ДЕРЕКТЕР АЛЫНБАДЫ [КЭШ КӨРСЕТІЛДІ]
+Refresh_Button ҚАЙТА ЖҮКТЕУ
+
+Prime_Header Прайм сервер
+Prime_Text Бұл сервердің Prime мәртебесі бар. Оған кіру үшін сізде де осындай мәртебе болуы керек.<br><br>Оны қалай алуға болатынын "Толығырақ" батырмасынан біліңіз.
+Prime_Denied Бұл сервер тек Prime бар ойыншыларға арналған, ал сізде ол әзірге жоқ.<br><br>Оны қалай алуға болатынын "Толығырақ" батырмасынан біліңіз.
+Prime_Close Жабу
+Prime_More Толығырақ
+
+News_Header Жаңарту v{0}
+News_Date_Format dd.MM.yyyy
+
+// Главная, футер
+Main_QuickConnect Жылдам қосылу
+Main_NewSkins Жаңа наборлар дүкенде!
+News_More ТОЛЫҒЫРАҚ
+Balance_TopUp_Question Балансты толтырғыңыз келе ме?
+
+// Играть
+Play_Connect Ойнау
+Play_Refresh ЖАҢАРТУ
+Play_Filter_Prime Тек PRIME
+Play_Filter_Full Толы
+Play_Filter_Empty Бос
+Play_Filter_AllMaps Барлық карталар
+Play_Filter_AllModes Барлық режимдер
+Play_Filter_AllRegions Барлық аймақтар
+Play_Sort_Name СЕРВЕР АТАУЫ
+Play_Sort_Map КАРТА
+Play_Sort_Mode РЕЖИМ
+Play_Sort_Online ОЙЫНШЫЛАР
+Play_Sort_Ping ПИНГ
+Play_Sort_Region АЙМАҚ
+Play_Sort_Prime ПРАЙМ
+Play_Mode_Vanilla Ванильді
+Play_Mode_Casual Казуалды
+Play_Mode_Fun Фан
+Play_Mode_Moded Модты
+Server_Header Серверге қосылу
+Server_Password құпиясөзді енгізіңіз:
+Server_Connect ҚОСЫЛУ
+
+// Магазин, инвентарь, окно товара
+Econ_Filter_ALL Барлығы
+Econ_Filter_GUNS Қару
+Econ_Filter_ARMORS Сауыт
+Econ_Filter_TOOLS Құралдар
+Econ_Filter_BUILDINGS Құрылыстар
+Econ_Filter_CASES Кейстер
+Econ_Filter_PACKS Наборлар
+Econ_Filter_AVAILABLE Маған қолжетімді
+Econ_Filter_EQUIPPED Қолданылған
+Find_Label ІЗДЕУ...
+Market_Buy Сатып алу
+Econ_Type_Pack Набор
+Econ_Type_Case Кейс
+Rarity_Common Қарапайым
+Rarity_Uncommon Сирек емес
+Rarity_Rare Сирек
+Rarity_Epic Эпикалық
+Rarity_Legendary Аңыздық
+Rarity_Contraband Тыйым салынған
+Econ_Skin_Header Тауарды қарау
+Econ_Pack_Header Наборды қарау
+Econ_Case_Header Кейсті қарау
+Econ_Case_Content Ішіндегісі
+Econ_Pack_Worth Ішіндегісінің құны {0}
+Econ_Buy_For {0} сатып алу
+Econ_Sell_For {0} сату
+Econ_Sell Сату
+Econ_Equip Кию
+Econ_Unequip Шешу
+Econ_Case_Open Ашу
+Econ_Case_Again Тағы ашу
+Econ_Case_Take Алу
+Econ_Case_Won Сізге түсті:
+Econ_Case_Opening Ашып жатырмыз...
+Econ_Case_Opened_Header Кейс ашылған
+Econ_Case_Opened_Text Бұл кейс ашылған, түскен зат инвентарьда жатыр.
+Econ_Case_Failed_Header Кейс ашылмады
+Econ_Case_Failed_Text Кейсті ашу мүмкін болмады.\nОл инвентарьда қалды, кейінірек қайталап көріңіз.
+Confirm_Question Сенімдісіз бе?
+Confirm_Yes Иә
+Confirm_Cancel Бас тарту
+Buy_Failed_Header Сатып алу өтпеді
+Buy_Failed_No_Connection Сервермен байланыс жоқ.\nАқша шегерілмеді, қайталап көріңіз.
+Buy_Failed_Unknown Сатып алу мүмкін болмады.\nАқша шегерілмеді, кейінірек қайталап көріңіз.
+
+// Баланс, окна
+Balance_Header Баланс
+Balance_TopUp ТОЛТЫРУ
+Balance_Value БАЛАНС: {0}
+Balance_Not_Enough Қаражатыңыз жеткіліксіз!
+Balance_Unavailable_Header Баланс қолжетімсіз
+Balance_Unavailable_Text Балансты алу мүмкін болмады.\nБір минуттан кейін қайталап көріңіз.
+Window_Close ЖАБУ
+Alert_Copy КӨШІРУ
+Alert_Header Назар аударыңыз
+Update_Header Ойын жаңартуы қолжетімді
+Update_Text Ойын нұсқасын жаңартыңыз. Ойынды жабыңыз, лаунчерді ашып, "Ойынды жаңарту" батырмасын басыңыз да, қайта оралыңыз!
+
+// Админ-панель
+Admin_Tab_Connect Қосылу
+Admin_Tab_Studio Студия
+Admin_Tab_Maps Карталар
+Admin_Tab_Logs Бандл логтары
+Admin_Servers Әкімші серверлері
+Admin_Youtube_Servers YouTube серверлері
+Admin_Test_Header Әкімші сервері
+Admin_Test_Desc Әкімшілерге арналған тест сервері
+Admin_Direct_Header IP арқылы қосылу
+Admin_Direct_Desc Сервердің IP мен портын енгізіңіз
+Admin_Local_Header Жергілікті сервер
+Admin_Local_Desc Тестке арналған жергілікті сервер
+Admin_Youtube_Desc Түсірілімге арналған медиа-сервер
+Admin_Connect_Button Қосылу
+Admin_Connect_Bad_Address Мекенжайды ip:port түрінде енгізіңіз.
+Admin_Logs_File Лог файлы
+Admin_Logs_Reload Жаңарту
+Admin_Folder Қалта
+Admin_Refresh Жаңарту
+Admin_Create Жасау
+Admin_Save Сақтау
+Admin_Name_Placeholder Атауы...
+Admin_Maps_New_Header Карта жасау
+Admin_Maps_New_Desc Жаңа бос карта
+Admin_Maps_Window_Header Жаңа карта
+Admin_Maps_Files Файлдар
+Admin_Map_Size_SMALL Кішкентай
+Admin_Map_Size_MEDIUM Орташа
+Admin_Map_Size_LARGE Үлкен
+Admin_Map_Size_MB {0} МБ
+Admin_Map_Not_Editable Картаны өңдеуге болмайды.
+Admin_Map_Enter_Name Карта атауын енгізіңіз.
+Admin_Map_Exists Мұндай атаулы карта бар.
+Admin_Studio_Header Жобалар
+Admin_Studio_New_Header Жаңа жоба
+Admin_Studio_New_Desc Студияның бос сахнасы
+Admin_Studio_Rename Атын өзгерту
+Admin_Studio_Open_Failed Жобаны ашу мүмкін болмады: {0}
+Admin_Studio_Enter_Name Жоба атауын енгізіңіз.
+Admin_Studio_Rename_Failed Жобаның атын өзгерту мүмкін болмады: {0}
+Admin_Studio_Create_Failed Жобаны жасау мүмкін болмады: {0}
+Admin_Studio_Broken Файл бүлінген
+
+Discord_Menu Басты мәзірде
+Discord_Game Ойында
+Discord_Playing {0} серверінде ойнап жүр
+Discord_Unknown Белгісіз мәртебе
+

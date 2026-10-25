@@ -1,0 +1,107 @@
+Quit_Button Шығу
+
+Tab_Market МАРКЕТ
+Tab_Top Топтар
+Tab_Block БЛОК
+Tab_Report ШАҒЫМДАР
+Control_Return ЖАЛҒАСТЫРУ
+Control_Settings БАПТАУЛАР
+Control_Respawn ӨЛУ
+Control_Exit ШЫҒУ
+Confirm_Respawn Өлу керек пе?
+Confirm_Exit Шығу керек пе?
+Confirm_Question Сенімдісіз бе?
+Confirm_Yes Иә
+Confirm_Cancel Бас тарту
+
+Market_Filter_All Барлығы
+Market_Filter_Available Қолжетімді
+Market_Filter_Privileges Привилегиялар
+Market_Filter_Kits Наборлар
+Market_Filter_Items Заттар
+Market_Filter_Vehicles Көлік
+Market_Window_Header Тауарды қарау
+Market_Term {0} КҮНГЕ
+Market_Improvements жақсартулар
+Market_Type_Privilege ПРИВИЛЕГИЯ
+Market_Type_Kit НАБОР
+Market_Type_Item ЗАТ
+Market_Type_Vehicle КӨЛІК
+Market_Buy САТЫП АЛУ
+Market_Buy_For {0} САТЫП АЛУ
+Market_Claim АЛУ
+Market_Take АЛУ
+Market_Owned ҚОЛЖЕТІМДІ
+Market_Expires БІТЕДІ: {0}
+Market_Cooldown КД: {0}
+Market_Time {0}к. {1}сағ.
+Market_Kit_Unavailable_Header Набор қолжетімсіз
+Market_Kit_Unavailable_Text Наборды {0} кейін сатып алуға болады
+
+Top_Place Орын
+Top_Name Ойыншы
+Top_Rank Дәреже
+Top_Exp Ұпай
+Top_Kills Өлтіру
+Top_Heads Хедшот
+Top_Deads Өлім
+Top_Farm Ресурстар
+Top_Raids Рейдтер
+Top_Hours Сағат
+
+Block_Available Қолжетімді
+Block_Locked Бұғатталған\n{0}
+Block_Days {0} к.
+Block_Hours {0} сағ.
+Block_Minutes {0} мин
+Block_Seconds {0} с
+
+Report_Step_Player 1.   Ойыншыны таңдаңыз
+Report_Step_Reason 2.   Себебін таңдаңыз
+Report_Step_Send 3.   Шағым жіберіңіз
+Report_Search Ойыншы іздеу...
+Report_Info_Header ОЙЫНДЫ ЖАҚСАРТУҒА КӨМЕКТЕСІҢІЗ
+Report_Info_Text Шағымдарыңыз адал әрі жайлы ойынды сақтауға көмектеседі. Барлық өтініштерді әкімшілік қарайды.
+Report_Rule_0 Шағымдарды тек орынды пайдаланыңыз
+Report_Rule_1 Жалған шағымдар шектеуге әкелуі мүмкін
+Report_Rule_2 БҰЗУШЫЛЫҚТЫ ДӘЛ СИПАТТАЙТЫН СЕБЕПТІ ТАҢДАҢЫЗ
+Report_Rule_3 Көмегіңізге рахмет!
+Report_Reason_cheat_aim Ату
+Report_Reason_cheat_aim_Hint Мүлт жібермей атады, көздегіш өзі бағытталады
+Report_Reason_cheat_wall Вх / қабырғалар
+Report_Reason_cheat_wall_Hint Қабырға арқылы көреді және атады, менің қайда екенімді біледі
+Report_Reason_cheat_macro Макрос
+Report_Reason_cheat_macro_Hint Тебу жоқ, кезек бір нүктеге түседі
+Report_Reason_buguse_texture Текстуралар
+Report_Reason_buguse_texture_Hint Текстуралар арқылы өтеді, жартас ішінен атады
+Report_Reason_buguse_build Құрылыс
+Report_Reason_buguse_build_Hint Ереже бойынша кіруге болмайтын база
+Report_Reason_buguse_dupe Дюп
+Report_Reason_buguse_dupe_Hint Заттарды көбейтеді
+Report_Reason_buguse_under Карта астында
+Report_Reason_buguse_under_Hint Карта астында немесе оның шекарасынан тыс жүр
+Report_Reason_teaming Тиминг
+Report_Reason_teaming_Hint Тыйым салынған жерде бөтендермен бірікті
+Report_Reason_misc_chat Чат
+Report_Reason_misc_chat_Hint Мәтіндік чаттағы мінез-құлық
+Report_Reason_misc_voice Дауыс
+Report_Reason_misc_voice_Hint Дауыстық чаттағы мінез-құлық
+Report_Reason_misc_ads Жарнама
+Report_Reason_misc_ads_Hint Басқа жобаға шақырады, сілтемелермен спамдайды
+Report_Sending Жіберілуде...
+Report_Login Шағым жіберу үшін кіріңіз
+Report_Select_Player Ойыншыны таңдаңыз
+Report_Select_Reason Себебін таңдаңыз
+Report_Send Шағым жіберу
+Report_Next Келесі шағым {0} кейін
+Report_Accepted #{0} шағым қабылданды
+Report_No_Connection Шағым жіберілмеді: сервермен байланыс жоқ
+Report_Quota Шағым шегі бітті, {0} кейін қайталаңыз
+Report_Self Өзіңізге шағымдануға болмайды
+Report_Not_Found Мұндай ойыншы жоба базасында жоқ
+Report_Unknown_Reason Себепті сервер қабылдамады
+Report_Failed Шағым жіберілмеді
+Report_Limits_Quota Қалған шағымдар: {0}
+Report_Limits_Both Қалған шағымдар: {0}, келесісі {1} кейін
+Report_Seconds {0} с
+Report_Minutes {0} мин

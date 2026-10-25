@@ -1,0 +1,313 @@
+Tab_Main Główna
+Tab_Play Graj
+Tab_Market Sklep
+Tab_Inventory Ekwipunek
+Tab_Settings Ustawienia
+Tab_Exit Wyjdź
+
+Banned Masz bana na tym serwerze jeszcze przez {0}. Powód: {1}
+Banned_Unban Unbana możesz wykupić w profilu na stronie: {0}
+Kicked Zostałeś wyrzucony z tego serwera. Powód: {0}
+Whitelisted Nie ma cię na liście zaproszonych tego serwera!
+Password Nieprawidłowe hasło!
+Full Serwer jest pełny!
+
+Hash_Level Ten serwer używa zmodyfikowanej mapy.
+
+Hash_Assembly Ten serwer używa zmodyfikowanego kodu.
+
+Hash_Resources Niezgodność wbudowanych zasobów. Sprawdzenie plików gry powinno rozwiązać problem.
+
+SkinColorWithinThresholdOfTerrainColor Kolor skóry postaci jest zbyt podobny do jednego z kolorów terenu mapy. Zmień kolor skóry lub wybierz inną postać.
+
+Steam_ID_Mismatch Twoje konto Steam nie zgadza się z tym, którego użyto do połączenia z serwerem.
+Connect_Rate_Limiting Zbyt wiele prób dołączenia, przepraszamy! Spróbuj ponownie za kilka minut.
+Bad_Packet_Rate_Limiting Coś poszło nie tak z twoim połączeniem, przepraszamy! Spróbuj ponownie za kilka minut.
+
+Version Ten serwer działa na wersji gry {0}, a ty masz wersję {1}.
+Pro_Server Ten serwer jest tylko dla graczy z Prime.
+Pro_Character Wybierz poprawną postać.
+
+Pro_Desync Serwer i twój klient nie zgadzają się co do twojej postaci.
+
+Pro_Appearance Wybierz poprawną twarz, fryzurę, brodę, kolor skóry i kolor włosów.
+Auth_Verification Weryfikacja przepustki nie powiodła się!
+Auth_No_Steam Nie jesteś połączony ze Steam!
+Auth_License_Expired Twoja przepustka wygasła!
+
+Auth_Elsewhere Grasz teraz na innym serwerze!
+
+Auth_Timed_Out Serwer "Steam VAC" nie odpowiedział na twoje żądanie!
+
+Auth_Used Twoja przepustka już wygasła!
+Auth_No_User Nie jesteś połączony z kontem Steam!
+
+Auth_Pub_Ban Odebrano ci możliwość gry na publicznych serwerach!
+
+Auth_Network_Identity_Failure Uwierzytelnianie nie powiodło się, ponieważ zmienił się identyfikator Steam serwera. Mógł zostać zrestartowany albo zmienił się jego token logowania. Odświeżenie listy serwerów powinno to naprawić.
+
+Auth_Econ_Serialize Nie udało się zserializować biletu "Steam Economy"!
+Auth_Econ_Deserialize Nie udało się zdeserializować biletu "Steam Economy"!
+Auth_Econ_Verify Nie udało się zweryfikować biletu "Steam Economy"!
+
+Auth_Empty Serwer Steam nie odpowiedział na twoje żądanie!
+
+Already_Connected Już łączysz się z tym serwerem!
+Already_Pending Już czekasz w kolejce do tego serwera!
+Late_Pending Straciłeś miejsce w kolejce!
+Not_Pending Nie grasz na tym serwerze!
+Name_Player_Short Twoja nazwa Steam jest za krótka!
+Name_Player_Long Twoja nazwa Steam jest za długa!
+
+Name_Player_Invalid Twoja nazwa Steam zawiera niedozwolone znaki!
+
+Name_Player_Number Twoja nazwa Steam nie może składać się tylko z cyfr!
+Name_Character_Short Twoje imię jest za krótkie!
+Name_Character_Long Twoje imię jest za długie!
+
+Name_Character_Invalid Twoje imię zawiera niedozwolone znaki!
+
+Name_Character_Number Twoje imię nie może składać się tylko z cyfr!
+
+Timed_Out Przekroczono czas połączenia!
+
+Timed_Out_Login Serwer nie odpowiedział po wpuszczeniu cię z kolejki. Prawdopodobnie błąd serwera/pluginu albo problem z siecią.
+
+Map Ten serwer działa na mapie, której nie masz!
+
+Shutdown Ten serwer został wyłączony przez administratora!
+Shutdown_Reason Ten serwer został wyłączony, ponieważ: "{0}"
+PingV2 Odrzucono, ponieważ twój ping ({0}ms) przekroczył maksimum serwera o {1}ms.
+Ping Zostałeś wyrzucony z tego serwera za zbyt duże opóźnienie!
+Plugin Ten serwer ma plugin, który odrzucił twoje połączenie!
+Plugin_Reason Pluginy: {0}
+Barricade Ten serwer ma barykady, których nie masz!
+Structure Ten serwer ma konstrukcje, których nie masz!
+Vehicle Ten serwer ma pojazdy, których nie masz!
+Client_Module_Desync Ten serwer nie ma modułu, którego używasz.
+Server_Module_Desync Ten serwer używa modułu, którego nie masz.
+
+Level_Version Ten serwer działa na innej wersji mapy: {0}
+
+Econ_Hash Ten serwer działa na innej wersji ekwipunku.
+
+Master_Bundle_Hash Błąd paczki zasobów: {0}
+
+Failure_Unknown Nieznany błąd: {0} Powód: {1}
+Reject_Unknown Odrzucono z nieznanego powodu: {0}
+Workshop_Advertisement_Mismatch Serwer był wyświetlany bez elementów warsztatu, ale zażądał pobrania z warsztatu.
+
+Late_Pending_Steam_Auth Serwer gry nie otrzymał odpowiedzi od serwerów uwierzytelniania Steam.
+
+Late_Pending_Steam_Econ Serwer gry nie otrzymał odpowiedzi od serwerów ekonomii Steam.
+
+Late_Pending_Steam_Groups Serwer gry nie otrzymał odpowiedzi od serwerów grup Steam.
+
+Name_Private_Long Twoje imię w grupie jest za długie.
+
+Name_Private_Invalid Twoje imię w grupie zawiera niedozwolone znaki.
+
+Name_Private_Number Twoje imię w grupie nie może być samą liczbą.
+
+Server_Map_Advertisement_Mismatch Serwer pokazywał inną mapę niż ta, którą chce załadować.
+Server_MaxPlayers_Advertisement_Mismatch Serwer pokazywał inną maksymalną liczbę graczy niż ustawiona.
+Server_CameraMode_Advertisement_Mismatch Serwer pokazywał inny tryb kamery niż ustawiony.
+Server_PvP_Advertisement_Mismatch Serwer pokazywał inny tryb PVP lub PVE niż ustawiony.
+
+HWID_Modified Wykryto spoofer identyfikatora sprzętu (HWID).
+Cert_Invalid Nie udało się potwierdzić logowania. Uruchom grę ponownie przez launcher.
+Cert_Expired Przepustka odnowiona, połącz się ponownie.
+Device_Revoked Logowanie na tym PC zostało cofnięte. Zaloguj się przez launcher.
+Already_Playing Już grasz na serwerze {0}. Wyjdź z niego i połącz się za minutę.
+
+SteamNetworkingSockets_EndReason_App_1001 Wszystkie miejsca dla graczy, w kolejce i oczekujących połączeń są zajęte.
+SteamNetworkingSockets_EndReason_App_1002 Serwer jest w trakcie wyłączania.
+SteamNetworkingSockets_EndReason_App_1003 Zbyt wiele prób połączenia z twojego adresu. Poczekaj minutę i spróbuj ponownie.
+SteamNetworkingSockets_EndReason_App_1004 Serwer przyjmuje połączenia tylko przez IPv4.
+SteamNetworkingSockets_EndReason_Code {0} (kod {1})
+SteamNetworkingSockets_EndReason_App_Unknown Gra zerwała połączenie z nieznanego powodu.
+SteamNetworkingSockets_EndReason_AppException_Generic Gra zakończyła połączenie w nietypowy sposób.
+SteamNetworkingSockets_EndReason_AppException_Unknown Gra przerwała połączenie z nieznanego powodu.
+SteamNetworkingSockets_EndReason_Local_OfflineMode Nie można połączyć się w trybie offline.
+SteamNetworkingSockets_EndReason_Local_RelayConnectivity Nie udało się połączyć z siecią przekaźników.
+SteamNetworkingSockets_EndReason_Local_NetworkConfig Nie udało się rozpocząć łączenia z serwerem.
+SteamNetworkingSockets_EndReason_Local_Rights Połączenie odrzucone: brak uprawnień.
+SteamNetworkingSockets_EndReason_Local_Unknown Nieznany błąd połączenia lokalnego.
+SteamNetworkingSockets_EndReason_Remote_Timeout Utracono połączenie z hostem.
+SteamNetworkingSockets_EndReason_Remote_BadCrypt Nie można ustanowić szyfrowania z hostem.
+SteamNetworkingSockets_EndReason_Remote_BadCert Nie można zaufać certyfikatowi szyfrowania hosta.
+SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion Serwer używa innej wersji protokołu sieciowego.
+SteamNetworkingSockets_EndReason_Remote_Unknown Nieznany błąd połączenia zdalnego.
+SteamNetworkingSockets_EndReason_Misc_InternalError Wewnętrzny błąd sieci.
+
+SteamNetworkingSockets_EndReason_Misc_Timeout Nie udało się połączyć z serwerem: brak odpowiedzi.
+
+SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Problemy z połączeniem sieciowym.
+SteamNetworkingSockets_EndReason_Misc_Unknown Inny nieznany błąd połączenia.
+SteamNetworkingSockets_EndReason_Unknown Połączenie przerwane z nieznanego powodu.
+
+
+Dismiss_Notification_Label Zamknij
+Copy_Notification_Label Kopiuj
+
+Language_Restart_Header Uwaga
+Language_Restart_Message Uruchom grę ponownie, aby zmienić język.
+
+Launcher_Header Logowanie przez launcher
+Launcher_Content Zaloguj się do gry przez launcher RustX: bez tego nie działają serwery, sklep, ekwipunek, portfel i zgłoszenia.
+Launcher_Button Otwórz launcher
+Launcher_Close Zamknij
+Launcher_No_Token Brak połączenia ze stroną. Spróbuj za minutę.
+Launcher_Not_Found Nie znaleziono launchera. Pobierz go na {0}.
+
+Refresh_Label NIE UDAŁO SIĘ POBRAĆ DANYCH Z SERWERA
+Refresh_Label_Cached NIE UDAŁO SIĘ POBRAĆ DANYCH Z SERWERA [POKAZANO CACHE]
+Refresh_Button ODŚWIEŻ
+
+Prime_Header Serwer Prime
+Prime_Text Ten serwer ma status Prime. Aby na niego wejść, też musisz mieć ten status.<br><br>Jak go zdobyć, dowiesz się pod przyciskiem „Więcej”.
+Prime_Denied Ten serwer jest tylko dla graczy z Prime, a ty go jeszcze nie masz.<br><br>Jak go zdobyć, dowiesz się pod przyciskiem „Więcej”.
+Prime_Close Zamknij
+Prime_More Więcej
+
+News_Header Aktualizacja v{0}
+News_Date_Format dd.MM.yyyy
+
+// Главная, футер
+Main_QuickConnect Szybkie połączenie
+Main_NewSkins Nowe kity już w sklepie!
+News_More WIĘCEJ
+Balance_TopUp_Question Chcesz doładować saldo?
+
+// Играть
+Play_Connect Graj
+Play_Refresh ODŚWIEŻ
+Play_Filter_Prime Tylko PRIME
+Play_Filter_Full Pełne
+Play_Filter_Empty Puste
+Play_Filter_AllMaps Wszystkie mapy
+Play_Filter_AllModes Wszystkie tryby
+Play_Filter_AllRegions Wszystkie regiony
+Play_Sort_Name NAZWA SERWERA
+Play_Sort_Map MAPA
+Play_Sort_Mode TRYB
+Play_Sort_Online GRACZE
+Play_Sort_Ping PING
+Play_Sort_Region REGION
+Play_Sort_Prime PRIME
+Play_Mode_Vanilla Vanilla
+Play_Mode_Casual Casual
+Play_Mode_Fun Fun
+Play_Mode_Moded Modded
+Server_Header Połączenie z serwerem
+Server_Password wpisz hasło:
+Server_Connect POŁĄCZ
+
+// Магазин, инвентарь, окно товара
+Econ_Filter_ALL Wszystko
+Econ_Filter_GUNS Broń
+Econ_Filter_ARMORS Pancerz
+Econ_Filter_TOOLS Narzędzia
+Econ_Filter_BUILDINGS Budowle
+Econ_Filter_CASES Skrzynki
+Econ_Filter_PACKS Kity
+Econ_Filter_AVAILABLE Dostępne dla mnie
+Econ_Filter_EQUIPPED Założone
+Find_Label SZUKAJ...
+Market_Buy Kup
+Econ_Type_Pack Kit
+Econ_Type_Case Skrzynka
+Rarity_Common Zwykły
+Rarity_Uncommon Niezwykły
+Rarity_Rare Rzadki
+Rarity_Epic Epicki
+Rarity_Legendary Legendarny
+Rarity_Contraband Zakazany
+Econ_Skin_Header Podgląd przedmiotu
+Econ_Pack_Header Podgląd kitu
+Econ_Case_Header Podgląd skrzynki
+Econ_Case_Content Zawartość
+Econ_Pack_Worth Zawartość warta {0}
+Econ_Buy_For Kup za {0}
+Econ_Sell_For Sprzedaj za {0}
+Econ_Sell Sprzedaj
+Econ_Equip Załóż
+Econ_Unequip Zdejmij
+Econ_Case_Open Otwórz
+Econ_Case_Again Otwórz jeszcze
+Econ_Case_Take Odbierz
+Econ_Case_Won Wylosowano:
+Econ_Case_Opening Otwieramy...
+Econ_Case_Opened_Header Skrzynka już otwarta
+Econ_Case_Opened_Text Ta skrzynka jest już otwarta, wylosowany przedmiot jest w ekwipunku.
+Econ_Case_Failed_Header Skrzynka się nie otworzyła
+Econ_Case_Failed_Text Nie udało się otworzyć skrzynki.\nZostała w ekwipunku, spróbuj później.
+Confirm_Question Na pewno?
+Confirm_Yes Tak
+Confirm_Cancel Anuluj
+Buy_Failed_Header Zakup nieudany
+Buy_Failed_No_Connection Brak połączenia z serwerem.\nPieniądze nie zostały pobrane, spróbuj ponownie.
+Buy_Failed_Unknown Nie udało się kupić.\nPieniądze nie zostały pobrane, spróbuj później.
+
+// Баланс, окна
+Balance_Header Saldo
+Balance_TopUp DOŁADUJ
+Balance_Value SALDO: {0}
+Balance_Not_Enough Masz za mało środków!
+Balance_Unavailable_Header Saldo niedostępne
+Balance_Unavailable_Text Nie udało się pobrać salda.\nSpróbuj ponownie za minutę.
+Window_Close ZAMKNIJ
+Alert_Copy KOPIUJ
+Alert_Header Uwaga
+Update_Header Dostępna aktualizacja gry
+Update_Text Zaktualizuj grę. Zamknij ją, otwórz launcher, kliknij „Aktualizuj grę” i wracaj!
+
+// Админ-панель
+Admin_Tab_Connect Połączenie
+Admin_Tab_Studio Studio
+Admin_Tab_Maps Mapy
+Admin_Tab_Logs Logi paczek
+Admin_Servers Serwery adminów
+Admin_Youtube_Servers Serwery YouTube
+Admin_Test_Header Serwer admina
+Admin_Test_Desc Serwer testowy dla adminów
+Admin_Direct_Header Połączenie po IP
+Admin_Direct_Desc Wpisz IP i port serwera
+Admin_Local_Header Serwer lokalny
+Admin_Local_Desc Lokalny serwer do testów
+Admin_Youtube_Desc Serwer media do nagrań
+Admin_Connect_Button Połącz
+Admin_Connect_Bad_Address Wpisz adres w formacie ip:port.
+Admin_Logs_File Plik logu
+Admin_Logs_Reload Odśwież
+Admin_Folder Folder
+Admin_Refresh Odśwież
+Admin_Create Utwórz
+Admin_Save Zapisz
+Admin_Name_Placeholder Nazwa...
+Admin_Maps_New_Header Utwórz mapę
+Admin_Maps_New_Desc Nowa pusta mapa
+Admin_Maps_Window_Header Nowa mapa
+Admin_Maps_Files Pliki
+Admin_Map_Size_SMALL Mała
+Admin_Map_Size_MEDIUM Średnia
+Admin_Map_Size_LARGE Duża
+Admin_Map_Size_MB {0} MB
+Admin_Map_Not_Editable Tej mapy nie można edytować.
+Admin_Map_Enter_Name Wpisz nazwę mapy.
+Admin_Map_Exists Mapa o tej nazwie już istnieje.
+Admin_Studio_Header Projekty
+Admin_Studio_New_Header Nowy projekt
+Admin_Studio_New_Desc Pusta scena studia
+Admin_Studio_Rename Zmień nazwę
+Admin_Studio_Open_Failed Nie udało się otworzyć projektu: {0}
+Admin_Studio_Enter_Name Wpisz nazwę projektu.
+Admin_Studio_Rename_Failed Nie udało się zmienić nazwy projektu: {0}
+Admin_Studio_Create_Failed Nie udało się utworzyć projektu: {0}
+Admin_Studio_Broken Plik uszkodzony
+
+Discord_Menu W menu głównym
+Discord_Game W grze
+Discord_Playing Gra na {0}
+Discord_Unknown Nieznany status
+

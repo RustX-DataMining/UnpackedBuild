@@ -1,0 +1,20 @@
+Remove_Friend УДАЛИТЬ ИЗ ГРУППЫ
+Report ЖАЛОБА
+Profile ПРОФИЛЬ
+Create_Group СОЗДАТЬ ГРУППУ
+Group_Accept ВСТУПИТЬ
+Group_Deny ОТКАЗ
+Search_Placeholder Поиск игрока...
+Search_Clear ОЧИСТИТЬ ПОИСК
+
+Delete_Group УДАЛИТЬ ГРУППУ - {0} [{1}]
+Leave_Group ВЫЙТИ ИЗ ГРУППЫ - {0} [{1}]
+Add_Friend ДОБАВИТЬ В ГРУППУ [{0}]
+Chat_Mute МУТ ЧАТА
+Chat_Unmute ВЫКЛ -> МУТ ЧАТА
+Voice_Mute МУТ ГОЛОСА
+Voice_Unmute ВЫКЛ -> МУТ ГОЛОСА
+Teleport_Combat НЕДОСТУПНО В БОЮ
+Teleport_Raid НЕДОСТУПНО ПРИ РЕЙДЕ
+Teleport_Cooldown ТЕЛЕПОРТАЦИЯ {0}с
+Teleport_Request ЗАПРОСИТЬ ТЕЛЕПОРТАЦИЮ

@@ -1,0 +1,15 @@
+GUID e503ba1abc104b1e9f0d145492d11951
+Type Structure
+Useable Structure
+Construct Roof
+ID 7246
+
+Size_Z 0.45
+
+Health 500
+Range 8
+
+Requires_Pillars false
+
+Explosion 36
+Armor_Tier 0

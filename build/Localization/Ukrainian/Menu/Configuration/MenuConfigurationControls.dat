@@ -1,0 +1,121 @@
+Sensitivity_Field_Label Чутливість
+Invert_Toggle_Label Інверсія по вертикалі
+Invert_Flight_Toggle_Label Інверсія в польоті
+Scroll_Hotbar_Toggle_Label Прокрутка хотбару коліщатком миші
+Aiming_Label Прицілитися
+Crouching_Label Присісти
+Sprinting_Label Бігти
+Voice_Mode_Label Режим мікрофона
+
+SensitivityScalingMode_Label Режим масштабування
+SensitivityScalingMode_ProjectionRatio Фокусне
+SensitivityScalingMode_ZoomFactor Коефіцієнтне
+SensitivityScalingMode_Legacy Класичне
+SensitivityScalingMode_None Вимкнути
+
+ProjectionRatioCoefficient_Label Коефіцієнт проєкції
+
+Hold Утримувати клавішу
+Toggle Натиснути клавішу
+
+Layout_0 РУХ
+Layout_1 ПОЗИЦІЯ
+Layout_2 ДІЯ
+Layout_3 ПРЕДМЕТИ
+Layout_4 КОМУНІКАЦІЯ
+Layout_5 ІНТЕРФЕЙС
+Layout_6 ТРАНСПОРТ
+Layout_7 РЕДАКТОР
+Layout_8 МОДИ І ПЛАГІНИ
+Layout_9 ПАНЕЛЬ ШВИДКОГО ДОСТУПУ
+
+Key_0_Button Ліворуч [{0}]
+Key_1_Button Праворуч [{0}]
+Key_2_Button Уперед [{0}]
+Key_3_Button Назад [{0}]
+Key_4_Button Стрибок [{0}]
+Key_5_Button Вільний огляд [{0}]
+Key_6_Button Нахил праворуч [{0}]
+Key_7_Button Стрільба, використання [{0}]
+Key_8_Button Прицілювання [{0}]
+Key_9_Button Використати, оглянути [{0}]
+Key_10_Button Присісти [{0}]
+Key_11_Button Лягти [{0}]
+Key_12_Button Біг [{0}]
+Key_13_Button Перезаряджання [{0}]
+Key_14_Button Модифікація [{0}]
+Key_15_Button Режим стрільби [{0}]
+Key_16_Button Таблиця [{0}]
+Key_17_Button Інвентар [{0}]
+Key_18_Button Створення [{0}]
+Key_19_Button Навички [{0}]
+Key_20_Button Карта [{0}]
+Key_21_Button Відхилити [{0}]
+Key_22_Button Мікрофон [{0}] 
+Key_23_Button Модернізація [{0}]
+Key_24_Button Захоплення [{0}]
+Key_25_Button Фокусування [{0}]
+Key_26_Button Інструмент #1 [{0}]
+Key_27_Button Інструмент #2 [{0}]
+Key_28_Button Інструмент #3 [{0}]
+Key_29_Button Перемкнути HUD [{0}]
+Key_30_Button Швидка дія [{0}]
+Key_31_Button Глобальний чат [{0}]
+Key_32_Button Локальний чат [{0}]
+Key_33_Button Груповий чат [{0}]
+Key_34_Button Рухи, анімація [{0}]
+Key_35_Button Перемкнути ПНВ [{0}]
+Key_36_Button Ліхтар, лазер [{0}]
+Key_37_Button Вид від 3-ї особи [{0}]
+Key_38_Button Прибрати з рук [{0}]
+Key_39_Button Зміна пози [{0}]
+Key_40_Button Крен ліворуч [{0}]
+Key_41_Button Крен праворуч [{0}]
+Key_42_Button Тангаж угору [{0}]
+Key_43_Button Тангаж униз [{0}]
+Key_44_Button Рискання ліворуч [{0}]
+Key_45_Button Рискання праворуч [{0}]
+Key_46_Button Збільшити тягу [{0}]
+Key_47_Button Зменшити тягу [{0}]
+Key_48_Button Оглянути [{0}]
+Key_49_Button Повернути предмет [{0}]
+Key_50_Button Інструмент #4 [{0}]
+Key_51_Button Підйом [{0}]
+Key_52_Button Зниження [{0}]
+Key_53_Button Закрити [{0}]
+Key_54_Button Прийняти [{0}]
+Key_55_Button Термінал [{0}]
+Key_56_Button Зробити знімок [{0}]
+Key_57_Button Перезавантажити ресурси [{0}]
+Key_58_Button Буфер обміну [{0}]
+Key_59_Button Гаряча клавіша #1 [{0}]
+Key_60_Button Гаряча клавіша #2 [{0}]
+Key_61_Button Гаряча клавіша #3 [{0}]
+Key_62_Button Гаряча клавіша #4 [{0}]
+Key_63_Button Гаряча клавіша #5 [{0}]
+Key_64_Button Предмет #1 [{0}]
+Key_65_Button Предмет #2 [{0}]
+Key_66_Button Предмет #3 [{0}]
+Key_67_Button Предмет #4 [{0}]
+Key_68_Button Предмет #5 [{0}]
+Key_69_Button Предмет #6 [{0}]
+Key_70_Button Предмет #7 [{0}]
+Key_71_Button Предмет #8 [{0}]
+Key_72_Button Предмет #9 [{0}]
+Key_73_Button Предмет #10 [{0}]
+Key_74_Button Відпустити курсор [{0}]
+Key_75_Button Пропуск меню створення [{0}]
+Key_76_Button Скасувати [{0}]
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Base_Header ОСНОВНЕ
+Sprinting_Help Біг: тримати клавішу або натиснути один раз, щоб увімкнути.
+Crouching_Help Присід: тримати клавішу або натиснути один раз, щоб увімкнути.
+Aiming_Help Прицілювання: тримати клавішу або натиснути один раз, щоб увімкнути.
+Voice_Mode_Help Мікрофон: говорити, поки тримаєте клавішу, або вмикати й вимикати натисканням.
+SensitivityScalingMode_Help Як змінюється чутливість під час прицілювання. Фокусне: за кутом огляду з коефіцієнтом проєкції. Коефіцієнтне: за кратністю прицілу. Класичне: як було раніше. Вимкнути: не змінюється.
+Sensitivity_Field_Help На скільки градусів повертається камера за один піксель руху миші.
+ProjectionRatioCoefficient_Help Множник чутливості під час прицілювання в режимі Фокусне.
+Invert_Toggle_Help Миша вгору - погляд униз.
+Invert_Flight_Toggle_Help Миша вгору - ніс униз у повітряному транспорті.
+Scroll_Hotbar_Toggle_Help Коліщатко миші перемикає предмети на панелі швидкого доступу.

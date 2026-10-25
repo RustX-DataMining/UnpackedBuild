@@ -1,0 +1,60 @@
+Inventory_Header Ekwipunek
+Inventory_Drop_All WYRZUĆ WSZYSTKO
+Item_Equip WEŹ
+Item_Unload ROZŁADUJ
+Item_Drop WYRZUĆ
+Item_Strip ZDEJMIJ WSZYSTKO
+FastCraft_Header Szybki craft
+Area_Header W pobliżu
+Take_All WEŹ WSZYSTKO
+Storage_Header Schowek
+Control_Header Sterowanie
+Turn_On Włącz
+Turn_Off Wyłącz
+
+Cupboard_Header Utrzymanie bazy
+Cupboard_Info Trzymaj tu potrzebną ilość surowców, żeby baza z czasem nie niszczała.\nGdy w szafce zabraknie surowców, baza zacznie niszczeć i w końcu zostanie zniszczona.
+Cupboard_Requires Zużycie na 24 godziny:
+Cupboard_Protected Ochrona zapewniona na: {0}
+Cupboard_Decay Twoja baza niszczeje
+Time_Days {0}d
+Time_Hours {0}h
+Time_Minutes {0}m
+Time_Seconds {0}s
+
+Research_Header Stół badań
+Research_Info Używaj stołu badań, żeby poznawać, jak tworzyć nowe przedmioty ze scrapu
+Research_Item Przedmiot do badania
+Research_Scrap_Header Scrap do badania
+Research_Scrap_Text Scrap jest potrzebny do stworzenia schematu przedmiotu, włóż go tutaj.
+Research_Cost_Header Koszt badania
+Research_Cost_Text Ile scrapu potrzebujesz, żeby zrobić schemat tego przedmiotu
+Research_Start rozpocznij badanie
+Research_Studied już odkryte
+Research_Workbench workbench poziom {0}
+
+Furnace_Fuel Paliwo
+Furnace_Input Surowce
+Furnace_Output Wynik
+Recycler_Input Wejście
+Recycler_Output Wyjście
+Recycler_Info Włóż przedmioty do recyklingu. Włącz urządzenie, aby zacząć
+Sleeper_Clothes Ubranie
+Sleeper_Belt Pasek
+
+Vending_Item Przedmiot
+Vending_Price Cena
+Vending_Buy KUP
+Vending_Header_Player Sklep gracza
+Vending_Header_Clothing Sklep z ekwipunkiem
+Vending_Header_Resources Sklep z surowcami
+Vending_Header_Components Sklep z komponentami
+Vending_Header_Barricades Sklep budowlany
+Vending_Header_Tools Sklep z narzędziami
+Vending_Header_Weapons Sklep z bronią
+
+Workbench_Learned ODKRYTE
+Workbench_Learn ODKRYJ
+Workbench_Close ZAMKNIJ
+Workbench_No_Path BRAK ŚCIEŻKI
+Workbench_No_Scrap ZA MAŁO

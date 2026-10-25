@@ -1,0 +1,16 @@
+GUID 4a15e3fe37494fb7a7e7c05e801ae9e3
+Type Structure
+Useable Structure
+Construct Roof
+ID 7206
+
+Size_Z 0.45
+
+Health 10
+Range 8
+
+Requires_Pillars false
+
+Explosion 29
+Vulnerable
+Fire_Vulnerable

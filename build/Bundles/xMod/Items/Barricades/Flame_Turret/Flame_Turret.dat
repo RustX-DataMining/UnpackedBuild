@@ -1,0 +1,56 @@
+GUID 91ed264062cc43fc925070b80e3f17a8
+Type Trap
+Rarity Rare
+Useable Barricade
+Build FlameTurret
+ID 5268
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Health 300
+Range 4
+Radius 0.45
+Offset 0.60
+
+Flame_Sweep_Angle 60
+Flame_Sweep_Speed 20
+Flame_Firing_Speed_Multiplier 2
+Flame_Range 4
+Flame_Half_Angle 22.5
+Flame_Radius 0.65
+Flame_Spray_Angle 12
+Flame_Damage_Per_Second 30
+Flame_Damage_Interval 0.25
+Flame_Fuel_Interval 1
+Flame_Ground_Fire
+Flame_Ground_Fire_Effect_ID 41420
+Flame_Ground_Fire_Min_Count 1
+Flame_Ground_Fire_Max_Count 2
+Flame_Ground_Fire_Min_Burn_Time 3
+Flame_Ground_Fire_Max_Burn_Time 6
+Flame_Ground_Fire_Spawn_Interval 0.75
+Flame_Ground_Fire_Radius 0.7
+Flame_Ground_Fire_Damage 7
+Flame_Ground_Fire_Damage_Interval 0.8
+Flame_Explosion_Damage 100
+Flame_Explosion_Radius 10
+
+Explosion 41421
+Vulnerable
+Only_Floor
+Allow_Placement_On_Vehicle false
+Has_Clip_Prefab false
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 5307
+Blueprint_0_Supply_0_Amount 200
+Blueprint_0_Supply_1_ID 5324
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 5318
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 27
+

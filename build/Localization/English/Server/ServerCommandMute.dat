@@ -1,0 +1,11 @@
+MuteCommandText mute
+MuteInfoText mute <player>/<minutes, 0 = forever>/[reason]/[voice: true]
+MuteHelpText Mute player chat, and voice if last argument is true
+
+UsageText Usage: /{0}
+NoPlayerErrorText Player {0} not found
+MutedText {0}: chat muted {1}
+MutedVoiceText {0}: chat and voice muted {1}
+ForeverText forever
+MinutesText for {0} min
+ReasonText (reason: {0})

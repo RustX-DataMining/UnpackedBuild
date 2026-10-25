@@ -1,0 +1,21 @@
+Buffer_Toggle_Label Тік синхрондау
+User_Interface_Scale_Field_Label Интерфейс өлшемі
+UseTargetFrameRate_Toggle_Label Кадр жиілігін шектеу
+TargetFrameRate_Field_Label Ең жоғары\nкадр жиілігі
+UseUnfocusedTargetFrameRate_Toggle_Label Жиналған ойынның кадр жиілігін шектеу
+UnfocusedTargetFrameRate_Field_Label Жиналған ойынның\nең жоғары\nкадр жиілігі
+
+Fullscreen_Mode_Label Экран режимі
+Fullscreen_Mode_Exclusive Толық экран
+Fullscreen_Mode_Borderless Жақтаусыз терезе
+Fullscreen_Mode_Windowed Терезе
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Resolutions_Header АЖЫРАТЫМДАР
+User_Interface_Scale_Field_Help Интерфейс өлшемі: 1 - қалыпты, көбірек - ірірек.
+TargetFrameRate_Field_Help Шектеу қосулы болса, секундына ең көп кадр саны.
+UnfocusedTargetFrameRate_Field_Help Ойын жиналған кезде секундына ең көп кадр саны.
+Fullscreen_Mode_Help Ойын экранды қалай алады: толық экран, бүкіл экранға жақтаусыз терезе немесе қарапайым терезе.
+Buffer_Toggle_Help Кадрларды монитор жиілігіне бейімдейді: сурет жыртылмайды, бірақ кідіріс сәл жоғары. Қосулы тұрғанда кадр шектеуі әрекет етпейді.
+UseTargetFrameRate_Toggle_Help ДК аз қызып, аз шуылдауы үшін секундына кадрды шектейді. Мәзірде кадр онсыз да 60-тан аспайды.
+UseUnfocusedTargetFrameRate_Toggle_Help Жиналған ойынға арналған жеке кадр шектеуі. Өшірулі болса - ойын жиналғанда 30-дан аспайды.

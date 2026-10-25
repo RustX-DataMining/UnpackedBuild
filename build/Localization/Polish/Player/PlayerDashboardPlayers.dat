@@ -1,0 +1,20 @@
+Remove_Friend USUŃ Z GRUPY
+Report ZGŁOŚ
+Profile PROFIL
+Create_Group UTWÓRZ GRUPĘ
+Group_Accept DOŁĄCZ
+Group_Deny ODMÓW
+Search_Placeholder Szukaj gracza...
+Search_Clear WYCZYŚĆ
+
+Delete_Group USUŃ GRUPĘ - {0} [{1}]
+Leave_Group OPUŚĆ GRUPĘ - {0} [{1}]
+Add_Friend DODAJ DO GRUPY [{0}]
+Chat_Mute MUTE CZATU
+Chat_Unmute WYŁ -> MUTE CZATU
+Voice_Mute MUTE GŁOSU
+Voice_Unmute WYŁ -> MUTE GŁOSU
+Teleport_Combat NIEDOSTĘPNE W WALCE
+Teleport_Raid NIEDOSTĘPNE PODCZAS RAIDU
+Teleport_Cooldown TELEPORT {0}s
+Teleport_Request POPROŚ O TELEPORT

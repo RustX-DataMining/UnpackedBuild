@@ -1,0 +1,15 @@
+Restart_Label Restart za
+Wipe_Label Wipe za
+Update_Label Aktualizacja za
+
+Restart_Cancelled Restart anulowany
+Wipe_Cancelled Wipe anulowany
+Update_Cancelled Aktualizacja anulowana
+
+Restart_Chat Restart serwera za {0}
+Wipe_Chat Wipe serwera za {0}
+Update_Chat Aktualizacja serwera za {0}
+
+Restart_Chat_Cancelled Restart serwera anulowany
+Wipe_Chat_Cancelled Wipe serwera anulowany
+Update_Chat_Cancelled Aktualizacja serwera anulowana

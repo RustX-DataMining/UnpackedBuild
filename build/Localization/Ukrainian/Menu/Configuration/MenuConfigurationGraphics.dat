@@ -1,0 +1,98 @@
+Ambient_Occlusion_Label Фонове затінення
+Bloom_Toggle_Label Світіння
+Chromatic_Aberration_Toggle_Label Хроматична аберація
+Film_Grain_Toggle_Label Зернистість
+Grass_Displacement_Toggle_Label Об'ємна трава
+Wind_Toggle_Label Ефект вітру
+Ragdolls_Toggle_Label Тіла
+Debris_Toggle_Label Уламки
+Puddle_Toggle_Label Калюжі
+Triplanar_Toggle_Label Текстури схилів
+
+Far_Clip_Slider_Label Дальність видимості [{0}%]
+Distance_Slider_Label Дальність промальовування [{0}%]
+Landmark_Slider_Label Дальність далеких об'єктів [{0}%]
+
+Anti_Aliasing_Button_Label Згладжування
+Anisotropic_Filtering_Button_Label Анізотропна фільтрація
+Effect_Button_Label Якість ефектів
+Foliage_Button_Label Якість трави і каміння
+Sun_Shafts_Button_Label Якість сонячних променів
+Lighting_Button_Label Якість освітлення
+Reflection_Button_Label Якість просторових відбиттів
+Planar_Reflection_Button_Label Якість поверхневих відбиттів
+Water_Button_Label Якість води
+Scope_Button_Label Якість оптики
+Outline_Button_Label Якість обведення
+Terrain_Button_Label Якість ландшафту
+Render_Mode_Button_Label Режим обробки
+Landmark_Button_Label Далекі об'єкти
+
+
+
+
+
+
+FXAA FXAA
+
+AF_Disabled Вимкнути
+AF_Per_Texture За текстурою
+AF_Forced_On Примусово
+
+
+Forward Згладжений
+Deferred Різкий
+
+Off Вимкнути
+Low Низька
+Medium Середня
+High Висока
+Ultra Максимальна
+
+Preset_Button_Label Пресет
+Preset_Potato Картопля
+Preset_Low Низький
+Preset_Medium Середній
+Preset_High Високий
+Preset_Ultra Ультра
+Preset_Custom Свій
+Color_Grading_Toggle_Label Колір картинки
+
+GfxBench_Start Замір графіки: близько {0} с. Не чіпай мишу, камеру закріплено.
+GfxBench_Step Замір {0}/{1}: {2}
+GfxBench_Done Замір готовий, налаштування повернуто. Файл: {0}
+GfxBench_Failed Замір готовий, але файл не зберігся.
+GfxBench_Busy Замір уже йде.
+GfxBench_Not_Now Замір: треба бути живим і не в транспорті.
+SMAA SMAA
+Render_Scale_Slider_Label Масштаб рендеру [{0}%]
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Preset_Button_Help Виставляє всі налаштування графіки разом: від Картоплі для слабких ПК до Ультра. Якщо змінити будь-яке налаштування вручну, пресет стане Своїм.
+Ambient_Occlusion_Help М'які тіні в кутах, щілинах і на стиках. Додає картинці об'єму, коштує трохи FPS.
+Bloom_Toggle_Help Світіння навколо яскравих джерел світла і відблисків.
+Color_Grading_Toggle_Help Фінальна обробка кольору: тонмапінг і насиченість. Без неї картинка пласка й тьмяна.
+Chromatic_Aberration_Toggle_Help Кольорові краї в об'єктів ближче до країв екрана, як у дешевого об'єктива.
+Film_Grain_Toggle_Help Легкий шум поверх картинки, як на плівці.
+Grass_Displacement_Toggle_Help Трава приминається під гравцями і транспортом.
+Wind_Toggle_Help Дерева, кущі й трава гойдаються на вітрі.
+Ragdolls_Toggle_Help Тіла гравців і тварин після смерті падають за фізикою. Вимкнено - тіла не з'являються.
+Debris_Toggle_Help Уламки під час руйнування будівель і об'єктів.
+Puddle_Toggle_Help Калюжі та брижі від крапель під час дощу.
+Triplanar_Toggle_Help Прибирає розтягнуті текстури на крутих схилах і скелях.
+Far_Clip_Slider_Help Як далеко взагалі видно світ: далі все ховає туман. Більше - видно далі, але нижчий FPS.
+Distance_Slider_Help На якій відстані будівлі, дерева і предмети малюються повністю. Помітно впливає на FPS.
+Landmark_Slider_Help Як далеко видно спрощені далекі будівлі та скелі.
+Render_Scale_Slider_Help Роздільність світу відносно екрана: вище 100% згладжує краї й траву, нижче 100% дає FPS.
+Landmark_Button_Help Спрощені будинки і скелі за дальністю промальовування. Сильно впливає на FPS.
+Anti_Aliasing_Button_Help Згладжує зубчасті краї. FXAA м'якше, SMAA чіткіше, на FPS обидва майже не впливають.
+Effect_Button_Help Скільки живуть частинки: дим, іскри, пил. Нижче - ефекти зникають швидше.
+Foliage_Button_Help Густота трави та дрібного каміння. Сильно впливає на FPS.
+Sun_Shafts_Button_Help Сонячні промені крізь листя і хмари.
+Lighting_Button_Help Якість і дальність тіней. Помітно впливає на FPS.
+Planar_Reflection_Button_Help Відбиття світу у воді. Сильно впливає на FPS.
+Water_Button_Help Прозорість води, піна біля берега, хвилі. Найдорожче налаштування: сильно впливає на FPS.
+Scope_Button_Help Чіткість картинки в оптичному прицілі.
+Outline_Button_Help Якість обведення предметів і транспорту, на які ви дивитеся.
+Terrain_Button_Help Деталізація поверхні ландшафту вдалині.
+Anisotropic_Filtering_Button_Help Чіткість текстур під кутом, наприклад землі вдалині. На FPS майже не впливає.

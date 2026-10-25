@@ -1,0 +1,7 @@
+UnmuteCommandText unmute
+UnmuteInfoText unmute <player>
+UnmuteHelpText Remove chat and voice mute
+
+NoPlayerErrorText Player {0} not found
+UnmutedText {0}: mute removed
+NotMutedText {0}: not muted

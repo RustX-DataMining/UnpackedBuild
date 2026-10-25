@@ -1,0 +1,20 @@
+Remove_Friend REMOVE FROM GROUP
+Report REPORT
+Profile PROFILE
+Create_Group CREATE GROUP
+Group_Accept JOIN
+Group_Deny DECLINE
+Search_Placeholder Search player...
+Search_Clear CLEAR SEARCH
+
+Delete_Group DELETE GROUP - {0} [{1}]
+Leave_Group LEAVE GROUP - {0} [{1}]
+Add_Friend ADD TO GROUP [{0}]
+Chat_Mute MUTE CHAT
+Chat_Unmute OFF -> MUTE CHAT
+Voice_Mute MUTE VOICE
+Voice_Unmute OFF -> MUTE VOICE
+Teleport_Combat UNAVAILABLE IN COMBAT
+Teleport_Raid UNAVAILABLE DURING RAID
+Teleport_Cooldown TELEPORT {0}s
+Teleport_Request REQUEST TELEPORT

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 88132659
+CRC: 3443411477
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 351bbad0d92026419d9706327e07d11d
+    Hash: 6eded26d7b041b7088882d2c1bf799fe
   TypeTreeHash:
     serializedVersion: 2
     Hash: dfc7c90d6ae52ae6370266f52f97a35f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 351bbad0d92026419d9706327e07d11d
+    Hash: 6eded26d7b041b7088882d2c1bf799fe
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -501,6 +501,7 @@ Assets:
 - Assets/xCore/Effects/Physics/FootStep/metalhigh_run/footstep_metal_high_run_06.ogg
 - Assets/xCore/Effects/Physics/BulletImpact/dirt/bullet_impact_dirt_05.ogg
 - Assets/xCore/Sounds/Popup/ui_menu_popup_01.ogg
+- Assets/xCore/Effects/Weather/RainCurtain.png
 - Assets/xCore/Effects/Physics/FootStep/grass_walk/footstep_grass_walk_06.ogg
 - Assets/xCore/Effects/General/buakbossflashbang/effect.prefab
 - Assets/xCore/Effects/Physics/LegacyImpact/LegacyImpact_Concrete.asset
@@ -851,11 +852,12 @@ Assets:
 - Assets/xCore/Effects/Physics/BulletImpact/dirt/BulletImpact_Dirt.asset
 - Assets/xCore/Effects/Physics/Swim/mediumwading/footstep_water_splash_med_wading_08.ogg
 - Assets/xCore/Effects/Physics/MeleeImpact/MetalLight/metal_impact_light_08.ogg
-- Assets/xCore/Effects/Physics/FootStep/gravel_walk/footstep_gravel_walk_05.ogg
+- Assets/xCore/Effects/Weather/RainRing.png
 - Assets/xCore/Effects/Physics/FootStep/sand_run/footstep_sand_run_16.ogg
-- Assets/xCore/Effects/Physics/FootStep/sand_walk/footstep_sand_walk_07.ogg
+- Assets/xCore/Effects/Physics/FootStep/gravel_walk/footstep_gravel_walk_05.ogg
 - Assets/xCore/Effects/Physics/shotgunshellbounce/metal/ShotgunShell_Land_Metal_01.ogg
 - Assets/xCore/Effects/Physics/Swim/heavywading/Swim_HeavyWading.asset
+- Assets/xCore/Effects/Physics/FootStep/sand_walk/footstep_sand_walk_07.ogg
 - Assets/xCore/Effects/Explosions/birch_5/Material.mat
 - Assets/xCore/Effects/Explosions/pine_0/Material.mat
 - Assets/xCore/Effects/Physics/shotgunshellbounce/metal/ShotgunShell_Land_Metal_04.ogg
@@ -1083,6 +1085,7 @@ Assets:
 - Assets/xCore/Sounds/Inventory/LightMetalEquipment/foley_soldier_gear_equipment_metal_cloth_heavy_movement_light_05.ogg
 - Assets/xCore/Effects/Physics/FootStep/mud_run/footstep_mud_run_03.ogg
 - Assets/xCore/Effects/Physics/BulletImpact/concrete/bullet_impact_concrete_brick_02.ogg
+- Assets/xCore/Effects/Weather/RainDrop.mat
 - Assets/xCore/Effects/Physics/MeleeImpact/Golf/Sports - Golf Drive Wood 01.ogg
 - Assets/xCore/Effects/Explosions/maple_2/effect.prefab
 - Assets/xCore/Effects/Physics/BulletImpact/woodheavy/bullet_impact_wood_heavy_02.ogg
@@ -1328,6 +1331,7 @@ Assets:
 - Assets/xCore/Effects/Physics/FootStep/sand_walk/footstep_sand_walk_06.ogg
 - Assets/xCore/Effects/Physics/BipedLand/mud/footstep_mud_land_02.ogg
 - Assets/xCore/Effects/Physics/FootStep/dirtloose_walk/Footstep_DirtLoose_Walk.asset
+- Assets/xCore/Effects/Weather/RainRing.mat
 - Assets/xCore/Effects/Physics/FootStep/Concrete_Run/footstep_concrete_run_12.ogg
 - Assets/xCore/Effects/Impacts/Flesh_Dynamic/Particle.png
 - Assets/xCore/Effects/Physics/FootStep/metalhigh_run/footstep_metal_high_run_13.ogg
@@ -1350,6 +1354,7 @@ Assets:
 - Assets/xCore/Effects/Physics/BulletImpact/water/bullet_impact_water_04.ogg
 - Assets/xCore/Effects/Physics/BulletImpact/concrete/bullet_impact_concrete_brick_01.ogg
 - Assets/xCore/Effects/Physics/BulletImpact/mud/bullet_impact_mud_03.ogg
+- Assets/xCore/Effects/Weather/RainDrop.png
 - Assets/xCore/Effects/Physics/BulletImpact/dirt/bullet_impact_dirt_03.ogg
 - Assets/xCore/Effects/Explosions/bomb_1/effect.prefab
 - Assets/xCore/Effects/Physics/BipedLand/snow/BipedLand_Snow.asset
@@ -1573,6 +1578,7 @@ Assets:
 - Assets/xCore/Effects/Impacts/Gravel_Dynamic/effect.prefab
 - Assets/xCore/Effects/Physics/FootStep/metallow_walk/footstep_metal_low_walk_10.ogg
 - Assets/xCore/Effects/Physics/BipedLand/metal/footstep_metal_land_v2_06.ogg
+- Assets/xCore/Effects/Weather/RainCurtain.mat
 - Assets/xCore/Effects/Explosions/birch_5/Texture.png
 - Assets/xCore/Terrain/Foliage/pebbles/Pebble_02_Material.mat
 - Assets/xCore/Effects/Impacts/Wood_Static/Material_Decal.mat

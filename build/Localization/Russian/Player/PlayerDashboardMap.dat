@@ -20,3 +20,10 @@ Death_Killer_Breath Удушье
 Death_Killer_Vehicle Транспорт
 Death_Weapon_Hands Руки
 Death_Weapon_Default Оружие
+Death_Header Смерть
+Death_Distance_Prefix Дистанция
+Death_Killer_Prefix Вас убил
+Death_Weapon_Prefix Используя:
+Death_Report Жалоба
+Respawn_Button Возродиться
+Respawn_Button_Timer Ожидайте {0} сек...

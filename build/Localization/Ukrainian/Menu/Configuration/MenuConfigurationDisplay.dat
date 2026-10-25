@@ -1,0 +1,21 @@
+Buffer_Toggle_Label Вертикальна синхронізація
+User_Interface_Scale_Field_Label Розмір інтерфейсу
+UseTargetFrameRate_Toggle_Label Обмежити частоту кадрів
+TargetFrameRate_Field_Label Максимальна\nчастота кадрів
+UseUnfocusedTargetFrameRate_Toggle_Label Обмежити частоту кадрів згорнутої гри
+UnfocusedTargetFrameRate_Field_Label Максимальна\nчастота кадрів\nзгорнутої гри
+
+Fullscreen_Mode_Label Режим екрана
+Fullscreen_Mode_Exclusive Повноекранний
+Fullscreen_Mode_Borderless Віконний без рамки
+Fullscreen_Mode_Windowed Віконний
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Resolutions_Header РОЗДІЛЬНІСТЬ
+User_Interface_Scale_Field_Help Розмір інтерфейсу: 1 - звичайний, більше - крупніше.
+TargetFrameRate_Field_Help Скільки кадрів на секунду максимум, якщо обмеження ввімкнене.
+UnfocusedTargetFrameRate_Field_Help Скільки кадрів на секунду максимум, поки гра згорнута.
+Fullscreen_Mode_Help Як гра займає екран: повноекранний режим, вікно без рамки на весь екран або звичайне вікно.
+Buffer_Toggle_Help Підлаштовує кадри під частоту монітора: немає розривів картинки, але трохи вища затримка. Поки ввімкнена, обмеження кадрів не діє.
+UseTargetFrameRate_Toggle_Help Обмежує кадри на секунду, щоб ПК менше грівся і шумів. У меню кадрів і так не більше 60.
+UseUnfocusedTargetFrameRate_Toggle_Help Окреме обмеження кадрів для згорнутої гри. Вимкнено - поки гра згорнута, не більше 30.

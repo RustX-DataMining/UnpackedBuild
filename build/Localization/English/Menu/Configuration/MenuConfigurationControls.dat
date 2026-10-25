@@ -1,40 +1,33 @@
-Sensitivity_Field_Label Mouse Aim Sensitivity (Degrees per Pixel)
+Sensitivity_Field_Label Mouse Sensitivity
 Invert_Toggle_Label Invert Look
 Invert_Flight_Toggle_Label Invert Flight
 Scroll_Hotbar_Toggle_Label Scroll Wheel Hotbar
 Aiming_Label Aiming
 Crouching_Label Crouching
-Proning_Label Proning
 Sprinting_Label Sprinting
-Leaning_Label Leaning
 Voice_Mode_Label Voice Chat Mode
 
 SensitivityScalingMode_Label Sensitivity Scaling Mode
 SensitivityScalingMode_ProjectionRatio Focal Length
-SensitivityScalingMode_ProjectionRatio_Tooltip Scale by ratio between active FOV projected onto screen and configured FOV projected onto screen.
 SensitivityScalingMode_ZoomFactor Zoom Factor
-SensitivityScalingMode_ZoomFactor_Tooltip Multiply sensitivity according to scope/optic zoom. For example an 8x zoom has 1/8th sensitivity.
 SensitivityScalingMode_Legacy Legacy
-SensitivityScalingMode_Legacy_Tooltip Preserve how sensitivity felt prior to 3.22.8.0 update.
 SensitivityScalingMode_None Disabled
-SensitivityScalingMode_None_Tooltip Sensitivity is unmodified while aiming. Not recommended.
 
 ProjectionRatioCoefficient_Label Projection Ratio Coefficient
-ProjectionRatioCoefficient_Tooltip Multiplier for "Focal Length" sensitivity scaling.
 
 Hold Hold
 Toggle Toggle
 
-Layout_0 Movement
-Layout_1 Stance
-Layout_2 Use
-Layout_3 Items
-Layout_4 Communication
-Layout_5 Interface
-Layout_6 Vehicle
-Layout_7 Editor
-Layout_8 Mods/Plugins
-Layout_9 Hotbar
+Layout_0 MOVEMENT
+Layout_1 STANCE
+Layout_2 ACTIONS
+Layout_3 ITEMS
+Layout_4 COMMUNICATION
+Layout_5 INTERFACE
+Layout_6 VEHICLE
+Layout_7 EDITOR
+Layout_8 MODS AND PLUGINS
+Layout_9 HOTBAR
 
 Key_0_Button Left [{0}]
 Key_1_Button Right [{0}]
@@ -113,3 +106,16 @@ Key_73_Button Item #10 [{0}]
 Key_74_Button Release Cursor [{0}]
 Key_75_Button Context Action Skip Crafting Menu [{0}]
 Key_76_Button Cancel [{0}]
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Base_Header GENERAL
+Sprinting_Help Sprint: hold the key, or press once to toggle.
+Crouching_Help Crouch: hold the key, or press once to toggle.
+Aiming_Help Aim: hold the key, or press once to toggle.
+Voice_Mode_Help Microphone: talk while holding the key, or press to turn it on and off.
+SensitivityScalingMode_Help How sensitivity changes while aiming. Focal Length: by field of view with the projection ratio coefficient. Zoom Factor: by scope zoom. Legacy: as it used to be. Disabled: unchanged.
+Sensitivity_Field_Help How many degrees the camera turns per pixel of mouse movement.
+ProjectionRatioCoefficient_Help Aiming sensitivity multiplier for the Focal Length mode.
+Invert_Toggle_Help Moving the mouse up looks down.
+Invert_Flight_Toggle_Help Mouse up pitches the nose down in aircraft.
+Scroll_Hotbar_Toggle_Help The mouse wheel switches hotbar items.

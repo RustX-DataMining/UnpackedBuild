@@ -1,0 +1,18 @@
+// Общее для экрана настроек: вкладки, сброс, ВКЛ/ВЫКЛ галочек (ToggleBlockUI), окно персонажа, окно подсказки без наведения (SettingHelp)
+Tab_Graphics ГРАФИКА
+Tab_Controls БАСҚАРУ
+Tab_Display ЭКРАН
+Tab_Options ОЙЫН
+Tab_Audio ДЫБЫС
+Tab_Character КЕЙІПКЕР
+Reset БАПТАУЛАРДЫ ТАСТАУ
+Toggle_On ҚОС
+Toggle_Off ӨШІР
+Help_Header Кеңес
+Help_Default Курсорды баптауға апарыңыз, сонда мұнда оның не өзгертетіні жазылады.
+Character_Name Кейіпкер аты
+Character_Face Бет түрі
+Character_Hair Шаш үлгісі
+Character_Skin_Color Тері түсі
+Character_Hair_Color Шаш түсі
+Character_Name_Placeholder Кейіпкер атын енгізіңіз

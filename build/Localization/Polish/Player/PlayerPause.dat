@@ -1,0 +1,107 @@
+Quit_Button Wyjdź
+
+Tab_Market SKLEP
+Tab_Top Ranking
+Tab_Block BLOKADA
+Tab_Report ZGŁOSZENIA
+Control_Return KONTYNUUJ
+Control_Settings USTAWIENIA
+Control_Respawn ZGIŃ
+Control_Exit WYJDŹ
+Confirm_Respawn Zginąć?
+Confirm_Exit Wyjść?
+Confirm_Question Na pewno?
+Confirm_Yes Tak
+Confirm_Cancel Anuluj
+
+Market_Filter_All Wszystko
+Market_Filter_Available Dostępne
+Market_Filter_Privileges Przywileje
+Market_Filter_Kits Kity
+Market_Filter_Items Przedmioty
+Market_Filter_Vehicles Pojazdy
+Market_Window_Header Podgląd towaru
+Market_Term NA {0} DNI
+Market_Improvements ulepszenia
+Market_Type_Privilege PRZYWILEJ
+Market_Type_Kit KIT
+Market_Type_Item PRZEDMIOT
+Market_Type_Vehicle POJAZD
+Market_Buy KUP
+Market_Buy_For KUP ZA {0}
+Market_Claim ODBIERZ
+Market_Take WEŹ
+Market_Owned AKTYWNY
+Market_Expires WYGASA: {0}
+Market_Cooldown CD: {0}
+Market_Time {0}d {1}h
+Market_Kit_Unavailable_Header Kit niedostępny
+Market_Kit_Unavailable_Text Kit będzie można kupić za {0}
+
+Top_Place Miejsce
+Top_Name Gracz
+Top_Rank Ranga
+Top_Exp Punkty
+Top_Kills Zabójstwa
+Top_Heads Headshoty
+Top_Deads Śmierci
+Top_Farm Surowce
+Top_Raids Raidy
+Top_Hours Godziny
+
+Block_Available Dostępne
+Block_Locked Blokada\n{0}
+Block_Days {0} d
+Block_Hours {0} h
+Block_Minutes {0} min
+Block_Seconds {0} s
+
+Report_Step_Player 1.   Wybierz gracza
+Report_Step_Reason 2.   Wybierz powód
+Report_Step_Send 3.   Wyślij zgłoszenie
+Report_Search Szukaj gracza...
+Report_Info_Header POMÓŻ NAM ULEPSZYĆ GRĘ
+Report_Info_Text Twoje zgłoszenia pomagają nam utrzymać uczciwą i komfortową grę. Wszystkie zgłoszenia rozpatruje administracja.
+Report_Rule_0 Zgłaszaj tylko prawdziwe naruszenia
+Report_Rule_1 Fałszywe zgłoszenia mogą skończyć się ograniczeniem
+Report_Rule_2 WYBIERAJ POWÓD, KTÓRY DOKŁADNIE OPISUJE NARUSZENIE
+Report_Rule_3 Dziękujemy za pomoc!
+Report_Reason_cheat_aim Aim
+Report_Reason_cheat_aim_Hint Nie pudłuje, celownik sam się naprowadza
+Report_Reason_cheat_wall ESP / ściany
+Report_Reason_cheat_wall_Hint Widzi i strzela przez ściany, wie, gdzie jestem
+Report_Reason_cheat_macro Makro
+Report_Reason_cheat_macro_Hint Brak odrzutu, seria trafia w jeden punkt
+Report_Reason_buguse_texture Tekstury
+Report_Reason_buguse_texture_Hint Przechodzi przez tekstury, strzela ze skały
+Report_Reason_buguse_build Zabudowa
+Report_Reason_buguse_build_Hint Baza, do której nie da się wejść zgodnie z zasadami
+Report_Reason_buguse_dupe Dupe
+Report_Reason_buguse_dupe_Hint Powiela przedmioty
+Report_Reason_buguse_under Pod mapą
+Report_Reason_buguse_under_Hint Jest pod mapą lub poza jej granicami
+Report_Reason_teaming Teaming
+Report_Reason_teaming_Hint Połączył się z obcymi tam, gdzie jest to zabronione
+Report_Reason_misc_chat Czat
+Report_Reason_misc_chat_Hint Zachowanie na czacie tekstowym
+Report_Reason_misc_voice Głos
+Report_Reason_misc_voice_Hint Zachowanie na czacie głosowym
+Report_Reason_misc_ads Reklama
+Report_Reason_misc_ads_Hint Zaprasza na inny projekt, spamuje linkami
+Report_Sending Wysyłanie...
+Report_Login Zaloguj się, aby wysłać zgłoszenie
+Report_Select_Player Wybierz gracza
+Report_Select_Reason Wybierz powód
+Report_Send Wyślij zgłoszenie
+Report_Next Następne zgłoszenie za {0}
+Report_Accepted Zgłoszenie #{0} przyjęte
+Report_No_Connection Zgłoszenie nie wysłane: brak połączenia z serwerem
+Report_Quota Limit zgłoszeń wyczerpany, spróbuj za {0}
+Report_Self Nie możesz zgłosić siebie
+Report_Not_Found Takiego gracza nie ma w bazie projektu
+Report_Unknown_Reason Serwer nie przyjął powodu
+Report_Failed Zgłoszenie nie wysłane
+Report_Limits_Quota Pozostało zgłoszeń: {0}
+Report_Limits_Both Pozostało zgłoszeń: {0}, następne za {1}
+Report_Seconds {0} s
+Report_Minutes {0} min

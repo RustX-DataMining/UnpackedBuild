@@ -1,6 +1,5 @@
 InvalidParameterErrorText Failed to find parameters in format [SteamID | Player]/[VehicleID | Name].
 InvalidNumberErrorText Failed to convert {0} into a number.
-InvalidVehicleIDErrorText Failed to convert {0} into a VehicleID.
 
 NoVehicleIDErrorText Failed to find any vehicle called {0}.
 NoPlayerErrorText Failed to find anyone called {0}.

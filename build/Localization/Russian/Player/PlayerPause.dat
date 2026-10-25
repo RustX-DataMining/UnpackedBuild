@@ -1,45 +1,107 @@
-Return_Button_Text Продолжить
-Return_Button_Tooltip Возобновить игру
-Options_Button_Text Опции
-Options_Button_Tooltip Опции
-Graphics_Button_Text Графика
-Graphics_Button_Tooltip Графика
-Display_Button_Text Дисплей
-Display_Button_Tooltip Дисплей
-Controls_Button_Text Управление
-Controls_Button_Tooltip Управление
-Audio_Button_Text Звук
-Audio_Button_Tooltip Звук
-Exit_Button_Text Отключиться
-Exit_Button_Timer Ожидайте [{0}]
-Exit_Button_Tooltip Вернуться в главное меню
 Quit_Button Выйти
-Quit_Button_Timer Ожидайте [{0}]
-Quit_Button_Tooltip Выйти на рабочий стол
-Suicide_Button_Text Самоубийство
-Suicide_Button_Tooltip Покончить с собой
-Suicide_Button_Confirm Да
-Suicide_Button_Confirm_Tooltip Да, я грешник
-Suicide_Button_Deny Нет
-Suicide_Button_Deny_Tooltip Нет, я передумал
-Suicide_Disabled  
 
-Spy_Refresh_Button_Text Шпионить
-Spy_Refresh_Button_Tooltip Обновить снимок с экрана игрока
-Spy_Slay_Button_Text Заблокировать
-Spy_Slay_Button_Tooltip Убить, а затем заблокировать игрока
+Tab_Market МАРКЕТ
+Tab_Top Топы
+Tab_Block БЛОК
+Tab_Report ЖАЛОБЫ
+Control_Return ПРОДОЛЖИТЬ
+Control_Settings НАСТРОЙКИ
+Control_Respawn УМЕРЕТЬ
+Control_Exit ВЫЙТИ
+Confirm_Respawn Умереть?
+Confirm_Exit Выйти?
+Confirm_Question Вы уверены?
+Confirm_Yes Да
+Confirm_Cancel Отмена
 
-Server_WithVersion {0} v{1} на {2} [{3}]
-VAC_Secure VAC
-VAC_Insecure No VAC
-BattlEye_Secure BattlEye
-BattlEye_Insecure No BattlEye
-Streamer Режиме стримера
-Offline Не в сети
+Market_Filter_All Все
+Market_Filter_Available Доступное
+Market_Filter_Privileges Привилегии
+Market_Filter_Kits Наборы
+Market_Filter_Items Предметы
+Market_Filter_Vehicles Транспорт
+Market_Window_Header Просмотр товара
+Market_Term НА {0} ДНЕЙ
+Market_Improvements улучшения
+Market_Type_Privilege ПРИВИЛЕГИЯ
+Market_Type_Kit НАБОР
+Market_Type_Item ПРЕДМЕТ
+Market_Type_Vehicle ТРАНСПОРТ
+Market_Buy КУПИТЬ
+Market_Buy_For КУПИТЬ ЗА {0}
+Market_Claim ЗАБРАТЬ
+Market_Take ВЗЯТЬ
+Market_Owned ДОСТУПНО
+Market_Expires ИСТЕЧЁТ: {0}
+Market_Cooldown КД: {0}
+Market_Time {0}д. {1}ч.
+Market_Kit_Unavailable_Header Набор недоступен
+Market_Kit_Unavailable_Text Набор можно будет купить через {0}
 
-Favorite_On_Button_Text Добавить
-Favorite_Off_Button_Text Удалить
-Favorite_Button_Tooltip Добавить или удалить из списка избранных серверов
+Top_Place Место
+Top_Name Игрок
+Top_Rank Звание
+Top_Exp Очков
+Top_Kills Убийств
+Top_Heads Хедшотов
+Top_Deads Смертей
+Top_Farm Ресурсы
+Top_Raids Рейды
+Top_Hours Часов
 
-Quicksave_Button Быстрое сохранение
-Quicksave_Button_Tooltip Ручное сохранение
+Block_Available Доступно
+Block_Locked Блокировка\n{0}
+Block_Days {0} д.
+Block_Hours {0} ч.
+Block_Minutes {0} мин
+Block_Seconds {0} с
+
+Report_Step_Player 1.   Выберите игрока
+Report_Step_Reason 2.   Выберите причину
+Report_Step_Send 3.   Отправьте жалобу
+Report_Search Поиск игрока...
+Report_Info_Header ПОМОГИТЕ СДЕЛАТЬ ИГРУ ЛУЧШЕ
+Report_Info_Text Ваши жалобы помогают нам поддерживать честную и комфортную игру. Все обращения рассматриваются администрацией.
+Report_Rule_0 Используйте жалобы только по делу
+Report_Rule_1 Ложные жалобы могут привести к ограничению
+Report_Rule_2 ВЫБИРАЙТЕ ПРИЧИНУ, КОТОРАЯ ТОЧНО ОПИСЫВАЕТ НАРУШЕНИЕ
+Report_Rule_3 Благодарим за вашу помощь!
+Report_Reason_cheat_aim Стрельба
+Report_Reason_cheat_aim_Hint Стреляет без промаха, прицел наводится сам
+Report_Reason_cheat_wall Вх / стены
+Report_Reason_cheat_wall_Hint Видит и стреляет сквозь стены, знает, где я
+Report_Reason_cheat_macro Макрос
+Report_Reason_cheat_macro_Hint Отдачи нет, очередь ложится в одну точку
+Report_Reason_buguse_texture Текстуры
+Report_Reason_buguse_texture_Hint Проход через текстуры, стреляет из скалы
+Report_Reason_buguse_build Застройка
+Report_Reason_buguse_build_Hint База, в которую нельзя попасть по правилам
+Report_Reason_buguse_dupe Дюп
+Report_Reason_buguse_dupe_Hint Размножает предметы
+Report_Reason_buguse_under Под картой
+Report_Reason_buguse_under_Hint Находится под картой или вне её границ
+Report_Reason_teaming Тиминг
+Report_Reason_teaming_Hint Объединился с чужими там, где это запрещено
+Report_Reason_misc_chat Чат
+Report_Reason_misc_chat_Hint Поведение в текстовом чате
+Report_Reason_misc_voice Голос
+Report_Reason_misc_voice_Hint Поведение в голосовом чате
+Report_Reason_misc_ads Реклама
+Report_Reason_misc_ads_Hint Зовёт на другой проект, спамит ссылками
+Report_Sending Отправка...
+Report_Login Войдите, чтобы отправить жалобу
+Report_Select_Player Выберите игрока
+Report_Select_Reason Выберите причину
+Report_Send Отправить жалобу
+Report_Next Следующая жалоба через {0}
+Report_Accepted Жалоба #{0} принята
+Report_No_Connection Жалоба не ушла: нет связи с сервером
+Report_Quota Лимит жалоб исчерпан, попробуйте через {0}
+Report_Self На себя пожаловаться нельзя
+Report_Not_Found Такого игрока нет в базе проекта
+Report_Unknown_Reason Причина не принята сервером
+Report_Failed Жалоба не отправлена
+Report_Limits_Quota Осталось жалоб: {0}
+Report_Limits_Both Осталось жалоб: {0}, следующая через {1}
+Report_Seconds {0} с
+Report_Minutes {0} мин

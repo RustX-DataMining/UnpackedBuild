@@ -1,0 +1,15 @@
+GUID c871fb93c415411db98997e73ad54b5e
+Type Structure
+Useable Structure
+Construct Wall
+ID 7259
+
+Size_Z 0.45
+
+Health 500
+Range 8
+
+Requires_Pillars false
+
+Explosion 36
+Armor_Tier 0

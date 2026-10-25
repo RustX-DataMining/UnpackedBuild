@@ -5,35 +5,6 @@ Tab_Inventory Inventory
 Tab_Settings Settings
 Tab_Exit Exit
 
-PlayButtonText Play
-PlayButtonTooltip Play
-SurvivorsButtonText Survivors
-SurvivorsButtonTooltip Survivors
-ConfigurationButtonText Configuration
-ConfigurationButtonTooltip Configuration
-WorkshopButtonText Workshop
-WorkshopButtonTooltip Workshop
-ExitButtonText Exit
-ExitButtonTooltip Exit
-BackButtonText Back
-BackButtonTooltip Back
-NewsTooltip Click here to comment or view the rest of the announcement.
-
-Curated_Workshop_Title Curated: {0}
-Highlighted_Workshop_Title Featured: {0}
-Featured_Workshop_Title Popular: {0}
-Featured_Workshop_Dismiss Dismiss
-ReadMore_Link_On [Expand]
-ReadMore_Link_Off [Collapse]
-Featured_Workshop_Link View on Workshop
-Featured_Workshop_Sub Subscribe
-Featured_Workshop_Unsub Unsubscribe
-Subscribe_Tooltip Subscribe to {0}
-Unsubscribe_Tooltip Unsubscribe from {0}
-Featured_Workshop_Stockpile_Link View {0} in Stockpile
-News_Author {0} - {1}
-News_Comments_Link View Comments
-
 Banned You are banned from this server for another {0} because: {1}
 Banned_Unban You can buy an unban in your profile: {0}
 Kicked You were kicked from this server because: {0}
@@ -57,14 +28,12 @@ Version This server is running version {0} of the game, whereas you are running 
 Pro_Server You need Prime to join this server.
 Pro_Character Please select a valid character.
 
-Pro_Desync Your client and the server disagree about whether you have Gold.
+Pro_Desync Your client and the server disagree about your character.
 
 Pro_Appearance Please select a valid face, hair, beard, skin color and hair color.
 Auth_Verification Your authentication ticket verification failed.
 Auth_No_Steam You are not connected to Steam.
 Auth_License_Expired Your authentication ticket has expired.
-
-Auth_VAC_Ban You are banned from playing on VAC secure servers.
 
 Auth_Elsewhere You are already playing on another server.
 
@@ -106,9 +75,10 @@ Timed_Out_Login This server did not respond after accepting you from the queue. 
 
 Map This server is running a map you don't have.
 
-Shutdown This server has been shutdown.
-Shutdown_Reason This server has been shutdown because: {0}
+Shutdown This server has been shut down.
+Shutdown_Reason This server has been shut down because: {0}
 PingV2 Rejected because your calculated ping ({0}ms) exceeded the server maximum of {1}ms.
+Ping You were kicked from this server for high latency.
 Plugin This server is running a plugin which filtered out your account.
 Plugin_Reason Plugin: {0}
 Barricade Your files are missing a custom barricade asset ({0}) this server is using.
@@ -116,12 +86,6 @@ Structure Your files are missing a custom structure asset ({0}) this server is u
 Vehicle Your files are missing a custom vehicle asset ({0}) this server is using.
 Client_Module_Desync This server is missing a custom module your files are using.
 Server_Module_Desync Your files are missing a custom module this server is using.
-
-BattlEye_Broken BattlEye: Service is not installed or not running properly, please restart from the launcher. If you uninstalled BattlEye or skipped the installation step then you can reinstall it by running the Install_BattlEye.bat script from your Unturned/BattlEye folder.
-
-BattlEye_Update BattlEye: Service requires an update, please restart from the launcher.
-
-BattlEye_Unknown BattlEye: Unknown request, please restart from the launcher.
 
 Level_Version This server has {1} version {0} installed, whereas you have version {2}.
 
@@ -131,7 +95,6 @@ Master_Bundle_Hash Asset bundle error: {0}
 
 Failure_Unknown Unknown failure: {0} Reason: {1}
 Reject_Unknown Rejected for unknown reason: {0}
-Workshop_Download_Restriction Server was not authorized by the creators of {0} workshop item(s) to use their content.
 Workshop_Advertisement_Mismatch Server was listed without workshop items, but requested workshop downloads.
 
 Late_Pending_Steam_Auth The game server did not receive a response from the Steam authentication servers.
@@ -147,8 +110,6 @@ Name_Private_Invalid Your friends-only private nickname contains invalid letters
 Name_Private_Number Your friends-only private nickname cannot be just a number.
 
 Server_Map_Advertisement_Mismatch Server advertised a different map than the one it requested to load.
-Server_VAC_Advertisement_Mismatch Server advertised a different VAC-protected status than what is currently active.
-Server_BattlEye_Advertisement_Mismatch Server advertised a different BattlEye-protected status than what is currently active.
 Server_MaxPlayers_Advertisement_Mismatch Server advertised a different max player count than what it is currently set to.
 Server_CameraMode_Advertisement_Mismatch Server advertised a different camera mode than what it is currently set to.
 Server_PvP_Advertisement_Mismatch Server advertised a different PvP or PvE combat mode than what it is currently set to.
@@ -161,47 +122,32 @@ Already_Playing You are already playing on server {0}. Leave it and connect agai
 
 SteamNetworkingSockets_EndReason_App_1001 All player slots, queue slots, and pending connection slots are full.
 SteamNetworkingSockets_EndReason_App_1002 Server is in the process of shutting down.
-SteamNetworkingSockets_EndReason_App_Unknown Game ended connection for unknown reason: {0}
+SteamNetworkingSockets_EndReason_App_1003 Too many connection attempts from your address. Wait a minute and try again.
+SteamNetworkingSockets_EndReason_App_1004 The server only accepts IPv4 connections.
+SteamNetworkingSockets_EndReason_Code {0} (code {1})
+SteamNetworkingSockets_EndReason_App_Unknown Game ended connection for unknown reason.
 SteamNetworkingSockets_EndReason_AppException_Generic Game ended the connection in an unusual manner.
-SteamNetworkingSockets_EndReason_AppException_Unknown Game ended connection for an exceptional unknown reason: {0}
+SteamNetworkingSockets_EndReason_AppException_Unknown Game ended connection for an exceptional unknown reason.
 SteamNetworkingSockets_EndReason_Local_OfflineMode Cannot connect while running in offline mode.
-SteamNetworkingSockets_EndReason_Local_RelayConnectivity Unable to connect to the Steam relay network.
+SteamNetworkingSockets_EndReason_Local_RelayConnectivity Unable to connect to the relay network.
 SteamNetworkingSockets_EndReason_Local_NetworkConfig Unable to start connecting to the server.
-SteamNetworkingSockets_EndReason_Local_Rights Rejected by Steam due to insufficient permissions.
-SteamNetworkingSockets_EndReason_Local_Unknown Unknown local connection error: {0}
+SteamNetworkingSockets_EndReason_Local_Rights Connection rejected due to insufficient permissions.
+SteamNetworkingSockets_EndReason_Local_Unknown Unknown local connection error.
 SteamNetworkingSockets_EndReason_Remote_Timeout Lost connection to host.
 SteamNetworkingSockets_EndReason_Remote_BadCrypt Unable to establish encryption with host.
 SteamNetworkingSockets_EndReason_Remote_BadCert Unable to trust host encryption certificate.
 SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion Server is running a different network protocol version.
-SteamNetworkingSockets_EndReason_Remote_Unknown Unknown remote connection error: {0}
+SteamNetworkingSockets_EndReason_Remote_Unknown Unknown remote connection error.
 SteamNetworkingSockets_EndReason_Misc_InternalError Network internal error.
 
 SteamNetworkingSockets_EndReason_Misc_Timeout Unable to connect to the server: no response.
 
-SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steam is experiencing connectivity issues.
-SteamNetworkingSockets_EndReason_Misc_Unknown Unknown miscellaneous connection error: {0}
-SteamNetworkingSockets_EndReason_Unknown Connected ended for unknown reason: {0}
+SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Network connectivity issues.
+SteamNetworkingSockets_EndReason_Misc_Unknown Unknown miscellaneous connection error.
+SteamNetworkingSockets_EndReason_Unknown Connection ended for unknown reason.
 
-UGC_NeedsToAcceptWorkshopLegalAgreement Failed to create or update item because you need to accept the newest Steam Workshop legal agreement.
-UGC_UnknownResult Failed to create or update item. Steam error code: {0}
-UGC_IOError Failed to create or update item because of an unknown I/O issue.
-UGC_Success Successfully submitted to Steam!
-
-Pro_Title Permanent Gold Upgrade
-Pro_Button Gain access to extra character customization, premium servers, character slots and more by upgrading to a Gold account! Further details available on the store page.
-Pro_Button_Tooltip Click here to view the store page.
-
-BattlEye_Header Warning: BattlEye Disabled
-BattlEye_Body BattlEye anti-cheat is not running so you cannot join BattlEye protected servers. If you uninstalled BattlEye or skipped the installation step then you can reinstall it by running the Install_BattlEye.bat script from your Unturned/BattlEye folder.
-
-UpdateAvailable An update to version {0} is available! If you have automatic updates enabled it will download and install after you close the game.
-RollbackAvailable Sorry for the hassle, but a rollback to version {0} has been detected. Usually this means a game-breaking bug has been found and some time is needed to properly fix it.<br>If you have automatic updates enabled it will download and install after you close the game. Apologies again - precautions will be taken to avoid the same problem in the future!
-
-Overlay Steam overlay needs to be enabled.
-Dismiss_Notification_Label Confirm
-Dismiss_Notification_Tooltip Dismiss notification.
-Copy_Notification_Label Copy to Clipboard
-Copy_Notification_Tooltip Copy message to system clipboard.
+Dismiss_Notification_Label Close
+Copy_Notification_Label Copy
 
 Language_Restart_Header Attention
 Language_Restart_Message Restart the game to apply the new language.
@@ -222,3 +168,145 @@ Prime_Text This server has Prime status. To join it, your account needs Prime to
 Prime_Denied This server is for Prime players only, and your account does not have Prime yet.<br><br>Press "More" to find out how to get it.
 Prime_Close Close
 Prime_More More
+
+News_Header Update v{0}
+News_Date_Format MMM d, yyyy
+
+// Главная, футер
+Main_QuickConnect Quick connect
+Main_NewSkins New kits are in the shop!
+News_More MORE
+Balance_TopUp_Question Want to top up your balance?
+
+// Играть
+Play_Connect Play
+Play_Refresh REFRESH
+Play_Filter_Prime PRIME only
+Play_Filter_Full Full
+Play_Filter_Empty Empty
+Play_Filter_AllMaps All maps
+Play_Filter_AllModes All modes
+Play_Filter_AllRegions All regions
+Play_Sort_Name SERVER NAME
+Play_Sort_Map MAP
+Play_Sort_Mode MODE
+Play_Sort_Online PLAYERS
+Play_Sort_Ping PING
+Play_Sort_Region REGION
+Play_Sort_Prime PRIME
+Play_Mode_Vanilla Vanilla
+Play_Mode_Casual Casual
+Play_Mode_Fun Fun
+Play_Mode_Moded Modded
+Server_Header Connect to server
+Server_Password enter password:
+Server_Connect CONNECT
+
+// Магазин, инвентарь, окно товара
+Econ_Filter_ALL All
+Econ_Filter_GUNS Weapons
+Econ_Filter_ARMORS Armor
+Econ_Filter_TOOLS Tools
+Econ_Filter_BUILDINGS Buildings
+Econ_Filter_CASES Cases
+Econ_Filter_PACKS Kits
+Econ_Filter_AVAILABLE Affordable
+Econ_Filter_EQUIPPED Equipped
+Find_Label SEARCH...
+Market_Buy Buy
+Econ_Type_Pack Kit
+Econ_Type_Case Case
+Rarity_Common Common
+Rarity_Uncommon Uncommon
+Rarity_Rare Rare
+Rarity_Epic Epic
+Rarity_Legendary Legendary
+Rarity_Contraband Contraband
+Econ_Skin_Header Item preview
+Econ_Pack_Header Kit preview
+Econ_Case_Header Case preview
+Econ_Case_Content Contents
+Econ_Pack_Worth Contents worth {0}
+Econ_Buy_For Buy for {0}
+Econ_Sell_For Sell for {0}
+Econ_Sell Sell
+Econ_Equip Equip
+Econ_Unequip Unequip
+Econ_Case_Open Open
+Econ_Case_Again Open again
+Econ_Case_Take Take
+Econ_Case_Won You got:
+Econ_Case_Opening Opening...
+Econ_Case_Opened_Header Case already opened
+Econ_Case_Opened_Text This case is already opened, the item is in your inventory.
+Econ_Case_Failed_Header The case did not open
+Econ_Case_Failed_Text Could not open the case.\nIt is still in your inventory, try again later.
+Confirm_Question Are you sure?
+Confirm_Yes Yes
+Confirm_Cancel Cancel
+Buy_Failed_Header Purchase failed
+Buy_Failed_No_Connection No connection to the server.\nNo money was charged, try again.
+Buy_Failed_Unknown The purchase failed.\nNo money was charged, try again later.
+
+// Баланс, окна
+Balance_Header Balance
+Balance_TopUp TOP UP
+Balance_Value BALANCE: {0}
+Balance_Not_Enough You do not have enough funds!
+Balance_Unavailable_Header Balance unavailable
+Balance_Unavailable_Text Could not get your balance.\nTry again in a minute.
+Window_Close CLOSE
+Alert_Copy COPY
+Alert_Header Attention
+Update_Header Game update available
+Update_Text Please update the game. Close it, open the launcher, click "Update game" and come back!
+
+// Админ-панель
+Admin_Tab_Connect Connect
+Admin_Tab_Studio Studio
+Admin_Tab_Maps Maps
+Admin_Tab_Logs Bundle logs
+Admin_Servers Admin servers
+Admin_Youtube_Servers YouTube servers
+Admin_Test_Header Admin server
+Admin_Test_Desc Test server for admins
+Admin_Direct_Header Connect by IP
+Admin_Direct_Desc Enter the server IP and port
+Admin_Local_Header Local server
+Admin_Local_Desc Local server for testing
+Admin_Youtube_Desc Media server for filming
+Admin_Connect_Button Connect
+Admin_Connect_Bad_Address Enter the address as ip:port.
+Admin_Logs_File Log file
+Admin_Logs_Reload Reload
+Admin_Folder Folder
+Admin_Refresh Refresh
+Admin_Create Create
+Admin_Save Save
+Admin_Name_Placeholder Name...
+Admin_Maps_New_Header Create map
+Admin_Maps_New_Desc New empty map
+Admin_Maps_Window_Header New map
+Admin_Maps_Files Files
+Admin_Map_Size_SMALL Small
+Admin_Map_Size_MEDIUM Medium
+Admin_Map_Size_LARGE Large
+Admin_Map_Size_MB {0} MB
+Admin_Map_Not_Editable This map cannot be edited.
+Admin_Map_Enter_Name Enter a map name.
+Admin_Map_Exists A map with this name already exists.
+Admin_Studio_Header Projects
+Admin_Studio_New_Header New project
+Admin_Studio_New_Desc Empty studio scene
+Admin_Studio_Rename Rename
+Admin_Studio_Open_Failed Could not open the project: {0}
+Admin_Studio_Enter_Name Enter a project name.
+Admin_Studio_Rename_Failed Could not rename the project: {0}
+Admin_Studio_Create_Failed Could not create the project: {0}
+Admin_Studio_Broken File is corrupted
+
+Discord_Menu In the main menu
+Discord_Game In game
+Discord_Playing Playing on {0}
+Discord_Unknown Unknown status
+

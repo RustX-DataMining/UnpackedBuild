@@ -1,0 +1,15 @@
+Restart_Label Restart in
+Wipe_Label Wipe in
+Update_Label Update in
+
+Restart_Cancelled Restart cancelled
+Wipe_Cancelled Wipe cancelled
+Update_Cancelled Update cancelled
+
+Restart_Chat Server restart in {0}
+Wipe_Chat Server wipe in {0}
+Update_Chat Server update in {0}
+
+Restart_Chat_Cancelled Server restart cancelled
+Wipe_Chat_Cancelled Server wipe cancelled
+Update_Chat_Cancelled Server update cancelled

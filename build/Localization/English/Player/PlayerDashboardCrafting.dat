@@ -1,23 +1,25 @@
-Type_0_Tooltip Tools
-Type_1_Tooltip Apparel
-Type_2_Tooltip Supplies
-Type_3_Tooltip Gear
-Type_4_Tooltip Ammunition
-Type_5_Tooltip Barricades
-Type_6_Tooltip Structures
-Type_7_Tooltip Utilities
-Type_8_Tooltip Furniture
-Type_9_Tooltip Repair
+Craft_Tab_Favorite FAVORITES
+Craft_Tab_Common COMMON
+Craft_Tab_Buildings BUILDING
+Craft_Tab_Explosives EXPLOSIVES
+Craft_Tab_Resources RESOURCES
+Craft_Tab_Clothes CLOTHING
+Craft_Tab_Tools TOOLS
+Craft_Tab_Medical MEDICAL
+Craft_Tab_Weapons WEAPONS
+Craft_Tab_Ammo AMMO
+Craft_Tab_Other OTHER
 
-Skill_1 Requires Crafting {0}
-Skill_2 Requires Cooking {0} + Heat
-Skill_3 Requires Engineer {0}
+Supply_Count Amount
+Supply_Name Resource
+Supply_Total Total
+Supply_Have Have
 
-Search_Field_Hint Blueprint Name Filter
-Search Search
-Search_Tooltip Search
-Hide_Uncraftable_Toggle_Label Hide Uncraftable Blueprints
-No_Blueprints No blueprints available matching these filters.
+Search_Placeholder Search recipe...
+Search_Clear CLEAR
 
-Craft Craft
-Craft_All Craft All
+Select_Blueprint Select a recipe to view
+Need_Workbench Workbench #{0} needed
+Not_Studied Not researched
+Create Craft
+Not_Enough Not enough materials

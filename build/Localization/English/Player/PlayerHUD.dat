@@ -1,0 +1,81 @@
+Life_Bleeding Bleeding
+Life_Radiation Radiation
+Life_Oxygen Oxygen
+Life_Combat Combat block
+Life_Raid Raid block
+Life_Fuel Fuel
+Life_Durability Durability
+Life_Block_Seconds {0} s
+Interactive_Fuel Fuel
+Interactive_Durability Durability
+Interactive_GasMask Anti-rad
+Invite_Group Invite to squad
+Group_Invite you were invited to a team
+Knockdown_Header YOU ARE WOUNDED
+Knockdown_Description you will die in {0} seconds\nunless someone helps you
+Feed_Join Joined: {0}
+Feed_Exit Left: {0}
+Rank_Next Next rank: {0}
+Rank_Max {0}: maximum rank
+Teleport_Input_Header INCOMING TP REQUEST
+Teleport_Output_Header OUTGOING TP REQUEST
+Teleport_Delay TELEPORT IN {0}s
+Teleport_Accept {0} ACCEPT
+Teleport_Deny {0} DECLINE
+Teleport_Cancel {0} CANCEL
+Teleport_Accepted TELEPORT ACCEPTED
+Teleport_Waiting WAITING FOR ANSWER
+Voteday_Header VOTE FOR DAY
+Voteday_Hint Press F1 to vote
+
+Radial_Refuel Refuel
+Radial_Vehicle_Enter Get in
+Radial_Vehicle_Push Push
+Radial_Vehicle_Push_Hint Push the vehicle
+Radial_Vehicle_Refuel_Hint Refuel the vehicle
+Radial_Generator_On Generator on
+Radial_Generator_On_Hint Turn the generator on
+Radial_Generator_Off Generator off
+Radial_Generator_Off_Hint Turn the generator off
+Radial_Generator_Refuel_Hint Refuel the generator
+Radial_Pickup PICK UP
+Radial_Remove_Lock REMOVE LOCK
+Radial_Change_Skin CHANGE
+Radial_No_Skins No skins
+Radial_Default_Skin DEFAULT
+Radial_Skin_Current Applied
+Radial_Destroy Demolish
+Radial_Rotate Rotate
+Radial_Ammo Ammo
+Radial_Fuel Fuel
+
+Admin_Tab_Items ITEMS
+Admin_Tab_Vehicles VEHICLES
+Admin_Tab_Camera CAMERA
+Admin_Tab_Commands COMMANDS
+Admin_Filter_Common COMMON
+Admin_Filter_Buildings BUILDING
+Admin_Filter_Explosives EXPLOSIVES
+Admin_Filter_Resources RESOURCES
+Admin_Filter_Clothes CLOTHING
+Admin_Filter_Tools TOOLS
+Admin_Filter_Medical MEDICAL
+Admin_Filter_Weapons WEAPONS
+Admin_Filter_Ammo AMMO
+Admin_Filter_Other OTHER
+Admin_Search Search item...
+Admin_Freecam_1 Freecam and spectate (Shift+F1)
+Admin_Freecam_2 Spectate (Shift+F2)
+Admin_Freecam_3 Lock (Shift+F3)
+Admin_Freecam_4 Focus (Shift+F4)
+Admin_Panorama Save panorama
+Admin_Panorama_Saved Panorama saved: {0}
+Admin_Panorama_Failed Panorama was not saved, see the log
+Admin_Command_Day Day
+Admin_Command_Night Night
+Admin_Command_Clear Clear weather
+Admin_Command_Storm Storm
+Admin_Command_Voteday Vote for day
+Admin_Command_Heal Heal
+Admin_Command_Teleport TP to marker
+Admin_Command_God God mode

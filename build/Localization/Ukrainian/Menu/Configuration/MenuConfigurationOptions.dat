@@ -1,0 +1,77 @@
+FOV_Slider_LabelV2_Name Поле зору
+FOV_Slider_LabelV2_Value Гориз. {0}, верт. {1}
+Debug_Toggle_Label Лічильник FPS і пінг
+Gore_Toggle_Label Кров
+
+
+Filter_Toggle_Label Фільтрування чату
+
+Chat_Text_Toggle_Label Текстовий чат
+Chat_Voice_In_Toggle_Label Чути інших гравців
+Chat_Voice_Out_Toggle_Label Говорити в грі через мікрофон
+VoiceAlwaysRecording_Label Тримати мікрофон готовим
+ShowOutboundVoiceChatOffHint_Label Показувати підказку "Вихідний голос вимкнено"
+Hints_Toggle_Label Підказки редактора
+Streamer_Toggle_Label Режим стрімера
+Pause_When_Unfocused_Label Пауза при натисканні\nAlt + Tab
+Nametag_Fade_Out_Label Зникнення тегів\nз іменами
+ScreenshotSupersampling_Label Увімкнути суперсемплінг скриншотів
+
+UseStaticCrosshair_Label Регулювання прицілу
+StaticCrosshairSize_Label Розмір перехрестя
+CrosshairShape_Line Лінійна
+CrosshairShape_Classic Класична
+CrosshairShape_Label Форма перехрестя
+
+Metric_On Метрична
+Metric_Off Імперська
+Metric_Label Система вимірювання
+
+
+
+Hitmarker_Static Статичний маркер
+Hitmarker_Dynamic Динамічний маркер
+Hitmarker_Label Фіксація маркера влучання
+HitmarkerStyle_Animated Анімований
+HitmarkerStyle_Classic Класичний
+HitmarkerStyle_Label Стиль маркера влучання
+
+VehicleThirdPersonCameraMode_RotationDetached Відв'язати камеру
+VehicleThirdPersonCameraMode_RotationAttached Прив'язати камеру
+VehicleThirdPersonCameraMode_Label Стиль камери від третьої особи в транспорті
+AircraftThirdPersonCameraMode_Label Стиль камери від третьої особи в транспорті під час польоту
+FlashbangBrightness_Label Інтенсивність світлошумової гранати [{0}]
+CameraShakeIntensity_Label Інтенсивність струсу камери вибухом [{0}]
+
+DamageFlinchMode_RollOnly Тільки нахил
+DamageFlinchMode_Directional Спрямований
+DamageFlinchMode_Label Режим здригання
+DamageFlinchIntensity_Label Інтенсивність здригання [{0}]
+
+// подсказки (HelpWindow справа) и заголовки разделов
+FOV_Help Кут огляду камери. Ширше - більше видно з боків, але все здається меншим.
+StaticCrosshairSize_Help Розмір прицілу, якщо ввімкнено регулювання прицілу.
+FlashbangBrightness_Help Наскільки сильно засліплює світлошумова граната.
+CameraShakeIntensity_Help Сила трясіння камери від вибухів і пострілів.
+DamageFlinchIntensity_Help Наскільки сильно смикається камера, коли вас поранено.
+Debug_Toggle_Help Лічильник FPS і пінг у куті екрана.
+Gore_Toggle_Help Бризки та плями крові під час влучань.
+Filter_Toggle_Help Приховує лайку в чаті. Розпалювання ненависті приховується завжди, навіть без фільтра.
+Chat_Text_Toggle_Help Показувати повідомлення інших гравців у текстовому чаті.
+Chat_Voice_In_Toggle_Help Чути голосовий чат інших гравців.
+Chat_Voice_Out_Toggle_Help Дозволити говорити в грі через мікрофон.
+VoiceAlwaysRecording_Help Між фразами мікрофон не вимикається, а приглушується: початок і кінець фрази не обрізаються.
+ShowOutboundVoiceChatOffHint_Help Значок на екрані, коли ваш мікрофон вимкнено.
+Hints_Toggle_Help Підказки щодо клавіш інструментів у редакторі карт.
+Streamer_Toggle_Help Приховує імена та аватари інших гравців, щоб їх не було видно на стрімі.
+Pause_When_Unfocused_Help Відкриває меню паузи, коли ви згортаєте гру. Сервер при цьому не зупиняється.
+Nametag_Fade_Out_Help Імена учасників групи стають прозорішими біля центру прицілу, щоб не заважати цілитися.
+ScreenshotSupersampling_Help Скриншоти в подвійній роздільності: краї чистіші, але знімок робиться довше.
+UseStaticCrosshair_Help Приціл постійного розміру замість того, що змінюється від розкиду зброї.
+CrosshairShape_Help Вигляд прицілу: лінії або класичний.
+Metric_Help У яких одиницях показувати відстань і швидкість.
+Hitmarker_Help Де показувати позначку влучання: на прицілі чи в місці влучання.
+HitmarkerStyle_Help Вигляд позначки влучання: анімована або класична.
+VehicleThirdPersonCameraMode_Help Камера від третьої особи в наземному транспорті: вільна або повертається разом із ним.
+AircraftThirdPersonCameraMode_Help Камера від третьої особи в повітряному транспорті: вільна або повертається разом із ним.
+DamageFlinchMode_Help Як смикається камера при пораненні: тільки нахил або в бік, звідки прийшла шкода.

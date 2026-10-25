@@ -1,0 +1,10 @@
+StatsCommandText stats
+StatsInfoText stats <player>/<+amount|-amount>
+StatsHelpText Add or remove player experience
+
+NotRunningErrorText Failed to change experience while not running.
+RatingDisabledErrorText Rating is disabled on this server
+UsageText Usage: /stats <player>/<+amount|-amount>
+NoPlayerErrorText Failed to find anyone called {0}.
+InvalidNumberErrorText Failed to convert {0} into a number.
+ChangedText Player {0} experience changed by {1}

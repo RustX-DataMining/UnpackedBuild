@@ -1,0 +1,29 @@
+Home_SlotFree_Content Wolny slot\npostaw claim
+Home_SlotFree_Label Dostępne
+Home_SlotBlocked_Content Brak uprawnień\nslot niedostępny
+Home_SlotBlocked_Label Zablokowane
+Home_CombatBlock_Content Combat block\nteleport niedostępny
+Home_RaidBlock_Content Raid block\nteleport niedostępny
+Home_Unavailable_Label Niedostępne
+Home_Cooldown_Label Pozostały czas
+Home_Available_Label Dostępne
+Home_Teleport_Label Teleport do domu
+
+Death_Distance {0} m
+Death_Killer_Bleeding Krwawienie
+Death_Killer_Bones Złamanie
+Death_Killer_Food Głód
+Death_Killer_Water Pragnienie
+Death_Killer_Animal Zwierzę
+Death_Killer_Infection Infekcja
+Death_Killer_Breath Uduszenie
+Death_Killer_Vehicle Pojazd
+Death_Weapon_Hands Ręce
+Death_Weapon_Default Broń
+Death_Header Śmierć
+Death_Distance_Prefix Dystans
+Death_Killer_Prefix Zabił cię
+Death_Weapon_Prefix Użyto:
+Death_Report Zgłoś
+Respawn_Button Odrodź się
+Respawn_Button_Timer Czekaj {0} s...

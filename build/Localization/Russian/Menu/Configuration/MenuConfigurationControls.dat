@@ -1,26 +1,19 @@
 Sensitivity_Field_Label Чувствительность
-Invert_Toggle_Label Инвентирование
-Invert_Flight_Toggle_Label Инвентирование в полёте
-Scroll_Hotbar_Toggle_Label Прокрутка хотбара на колесико
+Invert_Toggle_Label Инверсия по вертикали
+Invert_Flight_Toggle_Label Инверсия в полёте
+Scroll_Hotbar_Toggle_Label Прокрутка хотбара колесом мыши
 Aiming_Label Прицелиться
 Crouching_Label Присесть
-Proning_Label Прилечь
 Sprinting_Label Бежать
-Leaning_Label Наклониться
 Voice_Mode_Label Режим микрофона
 
 SensitivityScalingMode_Label Режим масштабирования
 SensitivityScalingMode_ProjectionRatio Фокусное
-SensitivityScalingMode_ProjectionRatio_Tooltip Чувствительность по соотношению c полем зрения.
 SensitivityScalingMode_ZoomFactor Коэффициентное
-SensitivityScalingMode_ZoomFactor_Tooltip Чувствительность зависит от кратности прицела.
 SensitivityScalingMode_Legacy Классическое
-SensitivityScalingMode_Legacy_Tooltip Чувствительность как до обновления 3.22.8.0.
 SensitivityScalingMode_None Выключить
-SensitivityScalingMode_None_Tooltip Чувствительность при прицеливании не изменяется.
 
 ProjectionRatioCoefficient_Label Коэффициент проекции
-ProjectionRatioCoefficient_Tooltip Множитель чувствительности для "Фокусного" режима масштабирования.
 
 Hold Удерживать клавишу
 Toggle Нажать клавишу
@@ -113,3 +106,16 @@ Key_73_Button Предмет #10 [{0}]
 Key_74_Button Отпустить курсор [{0}]
 Key_75_Button Пропуск меню создания [{0}]
 Key_76_Button Отменить [{0}]
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Base_Header ОСНОВНОЕ
+Sprinting_Help Бег: держать клавишу или нажать один раз, чтобы включить.
+Crouching_Help Присед: держать клавишу или нажать один раз, чтобы включить.
+Aiming_Help Прицеливание: держать клавишу или нажать один раз, чтобы включить.
+Voice_Mode_Help Микрофон: говорить, пока держите клавишу, или включать и выключать нажатием.
+SensitivityScalingMode_Help Как меняется чувствительность при прицеливании. Фокусное: по углу обзора с коэффициентом проекции. Коэффициентное: по кратности прицела. Классическое: как было раньше. Выключить: не меняется.
+Sensitivity_Field_Help На сколько градусов поворачивается камера за один пиксель движения мыши.
+ProjectionRatioCoefficient_Help Множитель чувствительности при прицеливании в режиме Фокусное.
+Invert_Toggle_Help Мышь вверх - взгляд вниз.
+Invert_Flight_Toggle_Help Мышь вверх - нос вниз в воздушном транспорте.
+Scroll_Hotbar_Toggle_Help Колесо мыши переключает предметы на панели быстрого доступа.

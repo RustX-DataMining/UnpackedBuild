@@ -1,0 +1,21 @@
+Buffer_Toggle_Label Synchronizacja pionowa
+User_Interface_Scale_Field_Label Rozmiar interfejsu
+UseTargetFrameRate_Toggle_Label Ogranicz liczbę klatek
+TargetFrameRate_Field_Label Maksymalna\nliczba klatek
+UseUnfocusedTargetFrameRate_Toggle_Label Ogranicz klatki zminimalizowanej gry
+UnfocusedTargetFrameRate_Field_Label Maksymalne klatki\nzminimalizowanej\ngry
+
+Fullscreen_Mode_Label Tryb ekranu
+Fullscreen_Mode_Exclusive Pełny ekran
+Fullscreen_Mode_Borderless Okno bez ramki
+Fullscreen_Mode_Windowed Okno
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Resolutions_Header ROZDZIELCZOŚCI
+User_Interface_Scale_Field_Help Rozmiar interfejsu: 1 - normalny, więcej - większy.
+TargetFrameRate_Field_Help Maksymalna liczba klatek na sekundę, gdy limit jest włączony.
+UnfocusedTargetFrameRate_Field_Help Maksymalna liczba klatek na sekundę, gdy gra jest zminimalizowana.
+Fullscreen_Mode_Help Jak gra zajmuje ekran: pełny ekran, okno bez ramki na cały ekran albo zwykłe okno.
+Buffer_Toggle_Help Dopasowuje klatki do odświeżania monitora: bez rozrywania obrazu, ale z nieco większym opóźnieniem. Gdy włączona, limit klatek nie działa.
+UseTargetFrameRate_Toggle_Help Ogranicza klatki na sekundę, żeby PC mniej się grzał i hałasował. W menu i tak najwyżej 60.
+UseUnfocusedTargetFrameRate_Toggle_Help Osobny limit klatek dla zminimalizowanej gry. Wyłączony - gdy gra jest zminimalizowana, najwyżej 30.

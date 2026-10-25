@@ -1,0 +1,121 @@
+Sensitivity_Field_Label Сезімталдық
+Invert_Toggle_Label Тік бойынша инверсия
+Invert_Flight_Toggle_Label Ұшудағы инверсия
+Scroll_Hotbar_Toggle_Label Хотбарды тінтуір дөңгелегімен айналдыру
+Aiming_Label Көздеу
+Crouching_Label Отыру
+Sprinting_Label Жүгіру
+Voice_Mode_Label Микрофон режимі
+
+SensitivityScalingMode_Label Масштабтау режимі
+SensitivityScalingMode_ProjectionRatio Фокустық
+SensitivityScalingMode_ZoomFactor Коэффициенттік
+SensitivityScalingMode_Legacy Классикалық
+SensitivityScalingMode_None Өшіру
+
+ProjectionRatioCoefficient_Label Проекция коэффициенті
+
+Hold Пернені ұстап тұру
+Toggle Пернені басу
+
+Layout_0 ҚОЗҒАЛЫС
+Layout_1 ҚАЛЫП
+Layout_2 ӘРЕКЕТ
+Layout_3 ЗАТТАР
+Layout_4 БАЙЛАНЫС
+Layout_5 ИНТЕРФЕЙС
+Layout_6 КӨЛІК
+Layout_7 РЕДАКТОР
+Layout_8 МОДТАР МЕН ПЛАГИНДЕР
+Layout_9 ЖЫЛДАМ ҚОЛ ЖЕТКІЗУ ПАНЕЛІ
+
+Key_0_Button Солға [{0}]
+Key_1_Button Оңға [{0}]
+Key_2_Button Алға [{0}]
+Key_3_Button Артқа [{0}]
+Key_4_Button Секіру [{0}]
+Key_5_Button Еркін қарау [{0}]
+Key_6_Button Оңға еңкею [{0}]
+Key_7_Button Ату, қолдану [{0}]
+Key_8_Button Көздеу [{0}]
+Key_9_Button Қолдану, қарау [{0}]
+Key_10_Button Отыру [{0}]
+Key_11_Button Жату [{0}]
+Key_12_Button Жүгіру [{0}]
+Key_13_Button Қайта оқтау [{0}]
+Key_14_Button Модификация [{0}]
+Key_15_Button Ату режимі [{0}]
+Key_16_Button Кесте [{0}]
+Key_17_Button Инвентарь [{0}]
+Key_18_Button Жасау [{0}]
+Key_19_Button Дағдылар [{0}]
+Key_20_Button Карта [{0}]
+Key_21_Button Қабылдамау [{0}]
+Key_22_Button Микрофон [{0}]
+Key_23_Button Жетілдіру [{0}]
+Key_24_Button Ұстау [{0}]
+Key_25_Button Фокустау [{0}]
+Key_26_Button Құрал #1 [{0}]
+Key_27_Button Құрал #2 [{0}]
+Key_28_Button Құрал #3 [{0}]
+Key_29_Button HUD ауыстыру [{0}]
+Key_30_Button Жылдам әрекет [{0}]
+Key_31_Button Жалпы чат [{0}]
+Key_32_Button Жергілікті чат [{0}]
+Key_33_Button Топтық чат [{0}]
+Key_34_Button Қимылдар, анимация [{0}]
+Key_35_Button ПНВ ауыстыру [{0}]
+Key_36_Button Шам, лазер [{0}]
+Key_37_Button 3-жақтан көрініс [{0}]
+Key_38_Button Қолдан алу [{0}]
+Key_39_Button Қалыпты ауыстыру [{0}]
+Key_40_Button Солға крен [{0}]
+Key_41_Button Оңға крен [{0}]
+Key_42_Button Тангаж жоғары [{0}]
+Key_43_Button Тангаж төмен [{0}]
+Key_44_Button Солға бұрылу [{0}]
+Key_45_Button Оңға бұрылу [{0}]
+Key_46_Button Тартуды арттыру [{0}]
+Key_47_Button Тартуды азайту [{0}]
+Key_48_Button Қарау [{0}]
+Key_49_Button Затты бұру [{0}]
+Key_50_Button Құрал #4 [{0}]
+Key_51_Button Көтерілу [{0}]
+Key_52_Button Төмендеу [{0}]
+Key_53_Button Жабу [{0}]
+Key_54_Button Қабылдау [{0}]
+Key_55_Button Терминал [{0}]
+Key_56_Button Сурет түсіру [{0}]
+Key_57_Button Ассеттерді қайта жүктеу [{0}]
+Key_58_Button Алмасу буфері [{0}]
+Key_59_Button Жылдам перне #1 [{0}]
+Key_60_Button Жылдам перне #2 [{0}]
+Key_61_Button Жылдам перне #3 [{0}]
+Key_62_Button Жылдам перне #4 [{0}]
+Key_63_Button Жылдам перне #5 [{0}]
+Key_64_Button Зат #1 [{0}]
+Key_65_Button Зат #2 [{0}]
+Key_66_Button Зат #3 [{0}]
+Key_67_Button Зат #4 [{0}]
+Key_68_Button Зат #5 [{0}]
+Key_69_Button Зат #6 [{0}]
+Key_70_Button Зат #7 [{0}]
+Key_71_Button Зат #8 [{0}]
+Key_72_Button Зат #9 [{0}]
+Key_73_Button Зат #10 [{0}]
+Key_74_Button Курсорды босату [{0}]
+Key_75_Button Жасау мәзірін өткізу [{0}]
+Key_76_Button Бас тарту [{0}]
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Base_Header НЕГІЗГІ
+Sprinting_Help Жүгіру: пернені ұстап тұру немесе қосу үшін бір рет басу.
+Crouching_Help Отыру: пернені ұстап тұру немесе қосу үшін бір рет басу.
+Aiming_Help Көздеу: пернені ұстап тұру немесе қосу үшін бір рет басу.
+Voice_Mode_Help Микрофон: пернені ұстап тұрғанда сөйлеу немесе басу арқылы қосу және өшіру.
+SensitivityScalingMode_Help Көздеу кезінде сезімталдық қалай өзгереді. Фокустық: көру бұрышы мен проекция коэффициенті бойынша. Коэффициенттік: оптиканың еселігі бойынша. Классикалық: бұрынғыдай. Өшіру: өзгермейді.
+Sensitivity_Field_Help Тінтуір бір пиксельге жылжығанда камера неше градусқа бұрылады.
+ProjectionRatioCoefficient_Help Фокустық режимде көздеу кезіндегі сезімталдық көбейткіші.
+Invert_Toggle_Help Тінтуір жоғары - көзқарас төмен.
+Invert_Flight_Toggle_Help Тінтуір жоғары - әуе көлігінің тұмсығы төмен.
+Scroll_Hotbar_Toggle_Help Тінтуір дөңгелегі жылдам қол жеткізу панеліндегі заттарды ауыстырады.

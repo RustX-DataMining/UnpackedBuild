@@ -1,37 +1,22 @@
 FOV_Slider_LabelV2_Name Field of View
-FOV_Slider_LabelV2_Value Horizontal [{0}°] Vertical [{1}°]
+FOV_Slider_LabelV2_Value Horizontal {0}, vertical {1}
 Debug_Toggle_Label Show FPS/Ping
-Splashscreen_Toggle_Label Splashscreen
-Timer_Toggle_Label Arena Timer Warning
-Physics_Toggle_Label Item Physics
 Gore_Toggle_Label Show Blood Splatters
 
 Filter_Toggle_Label Censor Text Profanity
-Filter_Toggle_Tooltip Note: hate speech is censored regardless of whether profanity filter is enabled.
 
 Chat_Text_Toggle_Label Show Inbound Text Chat
 Chat_Voice_In_Toggle_Label Enable Inbound Voice Chat
 Chat_Voice_Out_Toggle_Label Enable Outbound Voice Chat
 VoiceAlwaysRecording_Label Keep Microphone Ready
-VoiceAlwaysRecording_Tooltip Avoid hitches related to starting and stopping recording by muting rather than stopping.
 ShowOutboundVoiceChatOffHint_Label Show Outbound Voice Off Hint
-ShowOutboundVoiceChatOffHint_Tooltip Shows a muted icon in HUD when outbound voice chat is off.
-Hints_Toggle_Label Show Hints
+Hints_Toggle_Label Editor Hints
 Streamer_Toggle_Label Streamer Mode
-Featured_Workshop_Toggle_Label Featured Workshop
-Show_Hotbar_Toggle_Label Show Hotbar
 Pause_When_Unfocused_Label Pause While Alt-Tabbing
 Nametag_Fade_Out_Label Fade Out Name Tags
-Nametag_Fade_Out_Tooltip Makes group member name labels more transparent near the center of your crosshair.
-ScreenshotSizeMultiplier_Label Screenshot Resolution Multiplier
-ScreenshotSizeMultiplier_Tooltip Higher values take significantly longer to render.
 ScreenshotSupersampling_Label Enable Screenshot Supersampling
-ScreenshotSupersampling_Tooltip Render screenshots with 2x supersampling to reduce aliasing.
-ScreenshotsWhileLoading_Label Show Screenshots on Loading Screen
-ScreenshotsWhileLoading_Tooltip Enable your own screenshots on the startup loading screen.
 
 UseStaticCrosshair_Label Enable Custom Sized Crosshair
-UseStaticCrosshair_Tooltip Use custom crosshair size rather than size calculated from spread.
 StaticCrosshairSize_Label Custom Crosshair Size
 CrosshairShape_Line Line
 CrosshairShape_Classic Classic
@@ -39,22 +24,12 @@ CrosshairShape_Label Crosshair Shape
 
 Metric_On Metric
 Metric_Off Imperial
-Metric_Tooltip Affects display of distance and speed.
 Metric_Label Unit System
 
-Talk_On Instant Talking
-Talk_Off Animated Talking
-Talk_Tooltip Instant disables dialogue pauses and the per-letter animation.
-Talk_Label NPC Text Animation
 
-UI_Free Light
-UI_Pro Dark
-UI_Tooltip Light is more useful when combined with the UI color options from the Gold Upgrade.
-UI_Label Interface Theme
 
 Hitmarker_Static Static Hitmarkers
 Hitmarker_Dynamic Dynamic Hitmarkers
-Hitmarker_Tooltip Static places hitmarkers in the center of the screen, whereas Dynamic tracks the 3D hit.
 Hitmarker_Label Hitmarker Positioning
 HitmarkerStyle_Animated Animated
 HitmarkerStyle_Classic Classic
@@ -72,15 +47,30 @@ DamageFlinchMode_Directional Directional
 DamageFlinchMode_Label Flinch Mode
 DamageFlinchIntensity_Label Flinch Intensity [{0}]
 
-Crosshair_Box Crosshair Color
-Hitmarker_Box Hitmarker Color
-Critical_Hitmarker_Box Critical Hitmarker Color
-Cursor_Box Cursor Color
-Background_Box Interface Background Color
-Foreground_Box Interface Foreground Color
-Font_Box Font Color
-Shadow_Box Shadow Color
-Bad_Color_Box Negative Color
-
-DontShowOnlineSafetyMenuAgain_Label Don't show Online Safety menu again
-DontShowOnlineSafetyMenuAgain_Tooltip If checked, the Online Safety menu won't be shown the next time you open multiplayer. (Unless you haven't opened it before.)
+// подсказки (HelpWindow справа) и заголовки разделов
+FOV_Help Camera field of view. Wider shows more at the sides, but everything looks smaller.
+StaticCrosshairSize_Help Crosshair size when the custom-sized crosshair is on.
+FlashbangBrightness_Help How strongly a flashbang blinds you.
+CameraShakeIntensity_Help Strength of camera shake from explosions and shots.
+DamageFlinchIntensity_Help How much the camera jerks when you take damage.
+Debug_Toggle_Help FPS counter and ping in the corner of the screen.
+Gore_Toggle_Help Blood splatters and stains on hits.
+Filter_Toggle_Help Hides profanity in chat. Hate speech is always hidden, even with the filter off.
+Chat_Text_Toggle_Help Show other players' messages in text chat.
+Chat_Voice_In_Toggle_Help Hear other players' voice chat.
+Chat_Voice_Out_Toggle_Help Allow speaking in game through your microphone.
+VoiceAlwaysRecording_Help Between phrases the microphone is muted instead of stopped, so the start and end of phrases are not cut off.
+ShowOutboundVoiceChatOffHint_Help An icon on screen when your microphone is off.
+Hints_Toggle_Help Tool key hints in the map editor.
+Streamer_Toggle_Help Hides other players' names and avatars so they are not shown on stream.
+Pause_When_Unfocused_Help Opens the pause menu when you alt-tab. The server keeps running.
+Nametag_Fade_Out_Help Group members' name tags fade near the crosshair so they do not get in the way of aiming.
+ScreenshotSupersampling_Help Screenshots at double resolution: cleaner edges, but taking one takes longer.
+UseStaticCrosshair_Help A fixed-size crosshair instead of one that changes with weapon spread.
+CrosshairShape_Help Crosshair look: lines or classic.
+Metric_Help Units for distance and speed.
+Hitmarker_Help Where to show the hit marker: on the crosshair or at the hit point.
+HitmarkerStyle_Help Hit marker look: animated or classic.
+VehicleThirdPersonCameraMode_Help Third-person camera in ground vehicles: free or turning with the vehicle.
+AircraftThirdPersonCameraMode_Help Third-person camera in aircraft: free or turning with the aircraft.
+DamageFlinchMode_Help How the camera flinches when hit: roll only, or toward where the damage came from.

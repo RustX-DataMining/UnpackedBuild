@@ -1,0 +1,16 @@
+Title YOU HAVE BEEN CALLED FOR A CHECK<br><size=50%><color=#FFE1DB>LEAVING THE SERVER OR REFUSING = BAN</color></size>
+Timer_Caption ON CHECK
+Moderator Checked by: <color=#FFFFFF>{0}</color>
+Rules Rule [5.4]: every player must have Discord
+Step1 Join the «Waiting for check» voice channel on the RustX Discord server
+Step2 Or enter your Discord and a moderator will message you
+Copy COPY LINK
+Copied COPIED
+Placeholder Discord username
+Send SEND
+Status_Sending Sending...
+Status_Sent The moderator got your Discord: {0}
+Footer_Blocked Movement is blocked until the check is over
+Footer_Chat Chat and voice work
+
+Kick_Ban Banned after a check

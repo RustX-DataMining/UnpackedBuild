@@ -1,0 +1,16 @@
+GUID cab9a1a8affd4c0daa628851e20116aa
+Type Structure
+Useable Structure
+Construct Floor_Poly
+ID 7221
+
+Size_Z 0.45
+
+Health 250
+Range 8
+
+Requires_Pillars false
+
+Explosion 29
+Armor_Tier 0
+Fire_Vulnerable

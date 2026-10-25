@@ -1,0 +1,60 @@
+Inventory_Header Инвентарь
+Inventory_Drop_All БӘРІН ТАСТАУ
+Item_Equip АЛУ
+Item_Unload ОҚТАН БОСАТУ
+Item_Drop ЛАҚТЫРУ
+Item_Strip БӘРІН ШЕШУ
+FastCraft_Header Жылдам крафт
+Area_Header Жақын маңда
+Take_All БӘРІН АЛУ
+Storage_Header Қойма
+Control_Header Басқару
+Turn_On Қосу
+Turn_Off Өшіру
+
+Cupboard_Header Базаны ұстауды басқару
+Cupboard_Info Уақыт өте база бұзылмауы үшін ресурстардың қажетті мөлшерін ұстаңыз.\nШкафта ресурс жетпесе, база бұзыла бастайды және ақыры жойылады.
+Cupboard_Requires 24 сағаттағы шығын:
+Cupboard_Protected Қорғаныс мерзімі: {0}
+Cupboard_Decay Базаңыз шіріп жатыр
+Time_Days {0}к
+Time_Hours {0}сағ
+Time_Minutes {0}м
+Time_Seconds {0}с
+
+Research_Header Зерттеу үстелі
+Research_Info Скраптан жаңа заттар жасауды үйрену үшін зерттеу үстелін пайдалан
+Research_Item Зерттелетін зат
+Research_Scrap_Header Зерттеуге арналған скрап
+Research_Scrap_Text Заттың рецептін жасау үшін скрап керек, оны осында салыңыз.
+Research_Cost_Header Зерттеу бағасы
+Research_Cost_Text Осы заттың сызбасын жасауға қанша металлолом керек
+Research_Start зерттеуді бастау
+Research_Studied зерттелген
+Research_Workbench верстак деңгейі {0}
+
+Furnace_Fuel Жанармай
+Furnace_Input Ресурстар
+Furnace_Output Нәтиже
+Recycler_Input Кіріс
+Recycler_Output Шығыс
+Recycler_Info Өңдеуге заттарды салыңыз. Процесті бастау үшін құрылғыны қосыңыз
+Sleeper_Clothes Киім
+Sleeper_Belt Белдік
+
+Vending_Item Зат
+Vending_Price Баға
+Vending_Buy САТЫП АЛУ
+Vending_Header_Player Ойыншы дүкені
+Vending_Header_Clothing Жабдық дүкені
+Vending_Header_Resources Ресурс дүкені
+Vending_Header_Components Компонент дүкені
+Vending_Header_Barricades Құрылыс дүкені
+Vending_Header_Tools Құрал дүкені
+Vending_Header_Weapons Қару дүкені
+
+Workbench_Learned ЗЕРТТЕЛДІ
+Workbench_Learn ЗЕРТТЕУ
+Workbench_Close ЖАБУ
+Workbench_No_Path ЖОЛ ЖОҚ
+Workbench_No_Scrap ЖЕТПЕЙДІ

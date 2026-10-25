@@ -1,0 +1,16 @@
+GUID c37a5caef54f4fd681546a61786a45f0
+Type Structure
+Useable Structure
+Construct Wall_Half
+ID 7232
+
+Size_Z 0.45
+
+Health 250
+Range 8
+
+Requires_Pillars false
+
+Explosion 29
+Armor_Tier 0
+Fire_Vulnerable

@@ -1,29 +1,29 @@
 GUID e93b6139b3ba4de0ba6cbd70d4bb706d
-Type Sentry
-Rarity Epic
+Type Trap
+Rarity Rare
 Useable Barricade
-Build Sentry
+Build Guntrap
 ID 5259
 
 Size_X 2
 Size_Y 2
 Size_Z 0.55
 
-Can_Player_Equip false
-
 Health 300
 Range 4
 Radius 0.75
 Offset 0.75
 
-Storage_X 2
-Storage_Y 2
-Display
-Locked
-Mode Hostile
+Pellets 20
+Pellet_Damage 9
+Pellet_Spread_Angle 12
+Pellet_Range 20
+Fire_Interval 0.5
+Pellet_Leg_Multiplier 0.75
+Pellet_Arm_Multiplier 0.9
+Pellet_Spine_Multiplier 1
+Pellet_Skull_Multiplier 1.2
 
 Explosion 36
-
-Should_Close_When_Outside_Range true
-Infinite_Quality true
-Requires_Power False
+Vulnerable
+Allow_Placement_On_Vehicle false

@@ -1,0 +1,16 @@
+Title ВАС ВИКЛИКАЛИ НА ПЕРЕВІРКУ<br><size=50%><color=#FFE1DB>ВИХІД ІЗ СЕРВЕРА АБО ВІДМОВА = БАН</color></size>
+Timer_Caption НА ПЕРЕВІРЦІ
+Moderator Перевіряє: <color=#FFFFFF>{0}</color>
+Rules Правило [5.4]: у кожного гравця має бути Discord
+Step1 Зайдіть у голосовий канал «Очікування перевірки» на Discord-сервері RustX
+Step2 Або вкажіть свій Discord, модератор напише вам сам
+Copy СКОПІЮВАТИ ПОСИЛАННЯ
+Copied СКОПІЙОВАНО
+Placeholder Discord-юзернейм
+Send НАДІСЛАТИ
+Status_Sending Надсилаємо...
+Status_Sent Модератор отримав ваш Discord: {0}
+Footer_Blocked Рух заблоковано до кінця перевірки
+Footer_Chat Чат і голос працюють
+
+Kick_Ban Бан за підсумками перевірки

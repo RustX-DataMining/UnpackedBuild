@@ -1,0 +1,28 @@
+Conditions Тапсырма:
+Rewards Сыйлық:
+
+Condition_Experience {0}/{1} Тәжірибе
+Condition_Reputation {0}/{1} Бедел
+Condition_Item {0}/{1} {2}
+Condition_Currency {0} Валюта
+
+Condition_AnimalKills {0}/{1} Жануар өлтірілді
+Condition_ObjectKills {0}/{1} Нысан жойылды
+Condition_PlayerKills {0}/{1} Ойыншы өлтірілді
+Condition_TreeKills {0}/{1} {2}
+Condition_ZombieKills {0}/{1} Зомби өлтірілді
+
+Reward_Experience {0} Тәжірибе
+Reward_Reputation {0} Бедел
+Reward_Item {1} x{0}
+Reward_Item_Random Кездейсоқ зат x{0}
+Reward_Vehicle {0} x1
+Reward_Currency {0} Валюта
+Reward_Health {0} Денсаулық
+Reward_Food {0} Тамақ
+Reward_Water {0} Су
+Reward_Virus {0} Иммунитет
+Reward_Stamina {0} Төзімділік
+
+Accept Қабылдау
+Return Жабу

@@ -1,0 +1,24 @@
+Volume_Slider_Label Głośność ogólna [{0}]
+Game_Volume_Slider_Label Głośność gry [{0}]
+Unfocused_Volume_Slider_Label Głośność zminimalizowanej gry [{0}]
+Music_Master_Volume_Slider_Label Głośność muzyki [{0}]
+Loading_Screen_Music_Volume_Slider_Label Głośność muzyki na ekranie ładowania [{0}]
+Death_Music_Volume_Slider_Label Głośność muzyki po śmierci [{0}]
+Main_Menu_Music_Volume_Slider_Label Głośność muzyki w menu głównym [{0}]
+Ambient_Music_Volume_Slider_Label Głośność muzyki\nw tle gry [{0}]
+Voice_Slider_Label Głośność czatu głosowego [{0}]
+Atmosphere_Volume_Slider_Label Głośność otoczenia w grze [{0}]
+Music_Header MUZYKA
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Sounds_Header DŹWIĘKI
+Volume_Slider_Help Ogólna głośność wszystkich dźwięków gry.
+Unfocused_Volume_Slider_Help Głośność, gdy gra jest zminimalizowana lub okno nie jest aktywne.
+Game_Volume_Slider_Help Dźwięki gry: kroki, strzały, wybuchy, pojazdy.
+Voice_Slider_Help Głośność głosów innych graczy.
+Atmosphere_Volume_Slider_Help Dźwięki otoczenia: wiatr, deszcz, ptaki, szum lasu.
+Music_Master_Volume_Slider_Help Ogólna głośność całej muzyki.
+Loading_Screen_Music_Volume_Slider_Help Muzyka na ekranie ładowania.
+Death_Music_Volume_Slider_Help Muzyka po śmierci.
+Main_Menu_Music_Volume_Slider_Help Muzyka w menu głównym.
+Ambient_Music_Volume_Slider_Help Muzyka w tle podczas gry.

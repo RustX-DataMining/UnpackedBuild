@@ -1,0 +1,98 @@
+Ambient_Occlusion_Label Okluzja otoczenia
+Bloom_Toggle_Label Poświata
+Chromatic_Aberration_Toggle_Label Aberracja chromatyczna
+Film_Grain_Toggle_Label Ziarno
+Grass_Displacement_Toggle_Label Trawa przestrzenna
+Wind_Toggle_Label Efekt wiatru
+Ragdolls_Toggle_Label Ciała
+Debris_Toggle_Label Odłamki
+Puddle_Toggle_Label Kałuże
+Triplanar_Toggle_Label Tekstury zboczy
+
+Far_Clip_Slider_Label Zasięg widoczności [{0}%]
+Distance_Slider_Label Zasięg rysowania [{0}%]
+Landmark_Slider_Label Zasięg dalekich obiektów [{0}%]
+
+Anti_Aliasing_Button_Label Wygładzanie
+Anisotropic_Filtering_Button_Label Filtrowanie anizotropowe
+Effect_Button_Label Jakość efektów
+Foliage_Button_Label Jakość trawy i kamieni
+Sun_Shafts_Button_Label Jakość promieni słońca
+Lighting_Button_Label Jakość oświetlenia
+Reflection_Button_Label Jakość odbić ekranowych
+Planar_Reflection_Button_Label Jakość odbić powierzchni
+Water_Button_Label Jakość wody
+Scope_Button_Label Jakość optyki
+Outline_Button_Label Jakość obrysu
+Terrain_Button_Label Jakość terenu
+Render_Mode_Button_Label Tryb renderowania
+Landmark_Button_Label Dalekie obiekty
+
+
+
+
+
+
+FXAA FXAA
+
+AF_Disabled Wyłączone
+AF_Per_Texture Według tekstury
+AF_Forced_On Wymuszone
+
+
+Forward Wygładzony
+Deferred Ostry
+
+Off Wyłączone
+Low Niska
+Medium Średnia
+High Wysoka
+Ultra Maksymalna
+
+Preset_Button_Label Preset
+Preset_Potato Ziemniak
+Preset_Low Niski
+Preset_Medium Średni
+Preset_High Wysoki
+Preset_Ultra Ultra
+Preset_Custom Własny
+Color_Grading_Toggle_Label Kolorystyka obrazu
+
+GfxBench_Start Test grafiki: około {0} s. Nie ruszaj myszą, kamera jest zablokowana.
+GfxBench_Step Test {0}/{1}: {2}
+GfxBench_Done Test gotowy, ustawienia przywrócone. Plik: {0}
+GfxBench_Failed Test gotowy, ale pliku nie zapisano.
+GfxBench_Busy Test już trwa.
+GfxBench_Not_Now Test: musisz żyć i nie być w pojeździe.
+SMAA SMAA
+Render_Scale_Slider_Label Skala renderowania [{0}%]
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Preset_Button_Help Ustawia wszystkie opcje grafiki naraz: od Ziemniaka dla słabych PC do Ultra. Zmiana dowolnej opcji ręcznie zmienia preset na Własny.
+Ambient_Occlusion_Help Miękkie cienie w kątach, szczelinach i łączeniach. Dodaje obrazowi głębi, kosztuje trochę FPS.
+Bloom_Toggle_Help Poświata wokół jasnych źródeł światła i odblasków.
+Color_Grading_Toggle_Help Końcowa obróbka koloru: tonemapping i nasycenie. Bez niej obraz jest płaski i matowy.
+Chromatic_Aberration_Toggle_Help Kolorowe krawędzie obiektów przy brzegach ekranu, jak w tanim obiektywie.
+Film_Grain_Toggle_Help Lekki szum na obrazie, jak na kliszy.
+Grass_Displacement_Toggle_Help Trawa ugina się pod graczami i pojazdami.
+Wind_Toggle_Help Drzewa, krzaki i trawa kołyszą się na wietrze.
+Ragdolls_Toggle_Help Ciała graczy i zwierząt po śmierci padają zgodnie z fizyką. Wyłączone - ciała się nie pojawiają.
+Debris_Toggle_Help Odłamki przy niszczeniu budowli i obiektów.
+Puddle_Toggle_Help Kałuże i kręgi od kropel podczas deszczu.
+Triplanar_Toggle_Help Usuwa rozciągnięte tekstury na stromych zboczach i skałach.
+Far_Clip_Slider_Help Jak daleko w ogóle widać świat: dalej wszystko zasłania mgła. Więcej - widać dalej, ale niższe FPS.
+Distance_Slider_Help Z jakiej odległości budowle, drzewa i przedmioty rysują się w pełni. Wyraźnie wpływa na FPS.
+Landmark_Slider_Help Jak daleko widać uproszczone dalekie budowle i skały.
+Render_Scale_Slider_Help Rozdzielczość świata względem ekranu: powyżej 100% wygładza krawędzie i trawę, poniżej 100% daje FPS.
+Landmark_Button_Help Uproszczone domy i skały poza zasięgiem rysowania. Mocno wpływa na FPS.
+Anti_Aliasing_Button_Help Wygładza poszarpane krawędzie. FXAA jest miększe, SMAA ostrzejsze, oba prawie nie wpływają na FPS.
+Effect_Button_Help Jak długo żyją cząsteczki: dym, iskry, pył. Niżej - efekty znikają szybciej.
+Foliage_Button_Help Gęstość trawy i drobnych kamieni. Mocno wpływa na FPS.
+Sun_Shafts_Button_Help Promienie słońca przez liście i chmury.
+Lighting_Button_Help Jakość i zasięg cieni. Wyraźnie wpływa na FPS.
+Planar_Reflection_Button_Help Odbicia świata w wodzie. Mocno wpływa na FPS.
+Water_Button_Help Przezroczystość wody, piana przy brzegu, fale. Najdroższa opcja: mocno wpływa na FPS.
+Scope_Button_Help Ostrość obrazu w celowniku optycznym.
+Outline_Button_Help Jakość obrysu przedmiotów i pojazdów, na które patrzysz.
+Terrain_Button_Help Szczegółowość powierzchni terenu w oddali.
+Anisotropic_Filtering_Button_Help Ostrość tekstur pod kątem, np. ziemi w oddali. Prawie nie wpływa na FPS.

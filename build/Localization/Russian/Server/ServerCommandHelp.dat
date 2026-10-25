@@ -1,7 +1,0 @@
-NoCommandErrorText Не удалось найти команду с именем {0}.
-
-HelpCommandText Help
-HelpInfoText Help [Команда]
-HelpHelpText Это предоставляет информацию о командах.
-
-HelpText Команды:

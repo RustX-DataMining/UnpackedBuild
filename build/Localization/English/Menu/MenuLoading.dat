@@ -1,31 +1,59 @@
-VAC_Secure VAC Secure
-VAC_Insecure VAC Insecure
-BattlEye_Secure BattlEye Required
-BattlEye_Insecure BattlEye Disabled
-Streamer Streamer Mode
-Offline Offline
-
-Loading_Level_Play Loading {0} v{1} on {2} [{3}]
-Loading_Level_Edit Loading {0}
-
 Loading Loading
 Loading_Connect Connecting
-Loading_Blueprints Linking blueprints
-Loading_Spawns Linking spawns
+Loading_Prepare Preparing...
+Loading_Assets Loading assets: {0}%
+Loading_Blueprints Loading blueprints
+Loading_Spawns Loading spawn points
 Loading_Misc Loading miscellaneous
 Loading_MainMenu Loading main menu
-Loading_Asset_Bundles Loaded {0} of {1} asset bundles
-Loading_Search Searched {0} of {1} locations and found {2} asset files
-Loading_Read Read {0} of {1} asset file contents into memory
-Loading_Asset_Definitions Loaded {0} of {1} assets
-Download_Progress Downloading {0}
 Level_Load Loading level: {0}%
-Queue_Position Queue Position: #{0}
-Queue_Cancel Cancel
-Queue_Cancel_Tooltip Leave queue
+Queue_Position Queue position: #{0}
 
-PingMismatchWarning Warning: the in-game ping ({0} ms) is higher than the server browser ping ({1} ms), likely due to a DDoS protection mechanism. High ping may cause laggier gameplay than expected.
+Cancel Cancel
+Players Players
+Mode Mode
+Map Map
+Region Region
+Tags Tags
 
-Creators Created by:
-Collaborators Created in collaboration with:
-Thanks Special thanks to:
+// {0} - взаимодействие, {1} - карта, {2} - игроки, {3} - ПНВ (LoadingUI подставляет бинды)
+Tip_1 Place a Tool Cupboard first: strangers can't build within its radius
+Tip_2 Keep wood and wall materials in the cupboard, or your base will start to decay
+Tip_3 Explosives can't hurt a cupboard, only weapons and tools can. Hide it deep
+Tip_4 Upgrade with the Mallet: wood, stone, metal, HQM - each tier is tougher
+Tip_5 A Code Lock lets your group in, a Solo Lock lets in only you
+Tip_6 Turrets only work within range of a fueled generator, no wires needed
+Tip_7 Generators are fueled with Low Grade Fuel straight from your inventory
+Tip_8 Put matching ammo into a turret and it will reload by itself
+Tip_9 Break someone's wall or door and you get a raid block: no building, no teleport
+Tip_10 Hurting a player starts a combat block: no going home until it ends
+Tip_11 Press {0} on a bed or sleeping bag to make it your home
+Tip_12 Teleport home from the map {1}. Not available in vehicles or under a block
+Tip_13 Request a teleport to a friend from the player list {2} if the server has TPA
+Tip_14 Create a group in the player list {2}: pick a player and invite them
+Tip_15 Put an item and scrap into the Research Table: the item burns, the blueprint stays
+Tip_16 At the workbench you learn blueprints for scrap along the tech tree
+Tip_17 Learned items can only be crafted near a workbench of the right level
+Tip_18 Break roadside barrels: they hold components and scrap
+Tip_19 Recycle components to get scrap and resources
+Tip_20 Hit the X on trees and the glowing spot on rocks for a bigger yield
+Tip_21 The Jackhammer always hits the bonus spot: the best tool for ore
+Tip_22 You can chop cacti for cloth
+Tip_23 Furnaces burn wood and smelt ore into metal and sulfur, leaving charcoal
+Tip_24 Gunpowder is made of charcoal and sulfur. Don't toss your charcoal
+Tip_25 Bandages stop bleeding, syringes restore health fast
+Tip_26 Watch your food and water: hunger and thirst kill slowly but surely
+Tip_27 A hazmat suit keeps you safe in radiation zones
+Tip_28 Turn on night vision with {3}: nights and tunnels are hard without it
+Tip_29 After death your gear waits in a box where you fell, but not for long
+Tip_30 When you log off you leave a sleeper that can be looted. Log off at home
+Tip_31 A keycard opens monument doors of its color and lasts 5 uses
+Tip_32 A locked crate opens 8 minutes after you hack it. Hold your ground
+Tip_33 A supply signal calls an airdrop where it lands
+Tip_34 The MLRS needs an aim module and rockets, and you pick the target on the map
+Tip_35 Weapons don't work in the safe town, and turrets won't fire there
+Tip_36 Free kits are in the pause menu Shop tab, each with its own cooldown
+Tip_37 See which items are still wipe-blocked on the Block tab of the pause menu
+Tip_38 Spotted a cheater? Report them on the Reports tab of the pause menu
+Tip_39 In the evening you can vote for daytime: watch for the prompt on screen
+Tip_40 Trust no one: even an unarmed player can be a threat

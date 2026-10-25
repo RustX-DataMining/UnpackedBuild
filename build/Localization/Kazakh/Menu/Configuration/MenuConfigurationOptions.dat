@@ -1,0 +1,77 @@
+FOV_Slider_LabelV2_Name Көру өрісі
+FOV_Slider_LabelV2_Value Көлд. {0}, тік {1}
+Debug_Toggle_Label FPS санауышы мен пинг
+Gore_Toggle_Label Қан
+
+
+Filter_Toggle_Label Чатты сүзгілеу
+
+Chat_Text_Toggle_Label Мәтіндік чат
+Chat_Voice_In_Toggle_Label Басқа ойыншыларды есту
+Chat_Voice_Out_Toggle_Label Ойында микрофон арқылы сөйлеу
+VoiceAlwaysRecording_Label Микрофонды дайын ұстау
+ShowOutboundVoiceChatOffHint_Label "Шығыс дауыс өшірулі" кеңесін көрсету
+Hints_Toggle_Label Редактор кеңестері
+Streamer_Toggle_Label Стример режимі
+Pause_When_Unfocused_Label Alt + Tab басқанда\nүзіліс
+Nametag_Fade_Out_Label Ат тегтерінің\nжоғалуы
+ScreenshotSupersampling_Label Скриншоттардың суперсэмплингін қосу
+
+UseStaticCrosshair_Label Көздегішті реттеу
+StaticCrosshairSize_Label Айқыш өлшемі
+CrosshairShape_Line Сызықты
+CrosshairShape_Classic Классикалық
+CrosshairShape_Label Айқыш пішіні
+
+Metric_On Метрлік
+Metric_Off Империялық
+Metric_Label Өлшем жүйесі
+
+
+
+Hitmarker_Static Статикалық маркер
+Hitmarker_Dynamic Динамикалық маркер
+Hitmarker_Label Тию маркерін бекіту
+HitmarkerStyle_Animated Анимацияланған
+HitmarkerStyle_Classic Классикалық
+HitmarkerStyle_Label Тию маркерінің стилі
+
+VehicleThirdPersonCameraMode_RotationDetached Камераны ажырату
+VehicleThirdPersonCameraMode_RotationAttached Камераны байлау
+VehicleThirdPersonCameraMode_Label Көліктегі үшінші жақтан камера стилі
+AircraftThirdPersonCameraMode_Label Ұшу кезіндегі үшінші жақтан камера стилі
+FlashbangBrightness_Label Жарық-шу гранатасының қарқыны [{0}]
+CameraShakeIntensity_Label Жарылыстан камера шайқалуының қарқыны [{0}]
+
+DamageFlinchMode_RollOnly Тек еңкею
+DamageFlinchMode_Directional Бағытталған
+DamageFlinchMode_Label Селт ету режимі
+DamageFlinchIntensity_Label Селт ету қарқыны [{0}]
+
+// подсказки (HelpWindow справа) и заголовки разделов
+FOV_Help Камераның көру бұрышы. Кеңірек - бүйірден көбірек көрінеді, бірақ бәрі кішірек болып көрінеді.
+StaticCrosshairSize_Help Көздегішті реттеу қосулы болса, көздегіш өлшемі.
+FlashbangBrightness_Help Жарық-шу гранатасы қаншалықты қатты соқыр етеді.
+CameraShakeIntensity_Help Жарылыстар мен атыстан камера шайқалуының күші.
+DamageFlinchIntensity_Help Сізді жаралағанда камера қаншалықты қатты селт етеді.
+Debug_Toggle_Help Экран бұрышындағы FPS санауышы мен пинг.
+Gore_Toggle_Help Тигенде қан шашырандылары мен дақтары.
+Filter_Toggle_Help Чаттағы балағатты жасырады. Өшпенділікті қоздыру сүзгісіз де әрқашан жасырылады.
+Chat_Text_Toggle_Help Мәтіндік чатта басқа ойыншылардың хабарларын көрсету.
+Chat_Voice_In_Toggle_Help Басқа ойыншылардың дауыстық чатын есту.
+Chat_Voice_Out_Toggle_Help Ойында микрофон арқылы сөйлеуге рұқсат беру.
+VoiceAlwaysRecording_Help Сөз тіркестерінің арасында микрофон өшпейді, тек басылады: тіркестің басы мен соңы кесілмейді.
+ShowOutboundVoiceChatOffHint_Help Микрофоныңыз өшірулі кезде экрандағы белгі.
+Hints_Toggle_Help Карта редакторындағы құралдар пернелері бойынша кеңестер.
+Streamer_Toggle_Help Басқа ойыншылардың аттары мен аватарларын стримде көрінбеуі үшін жасырады.
+Pause_When_Unfocused_Help Ойынды жиғанда үзіліс мәзірін ашады. Сервер бұл кезде тоқтамайды.
+Nametag_Fade_Out_Help Көздеуге кедергі жасамауы үшін топ мүшелерінің аттары көздегіш ортасында мөлдірленеді.
+ScreenshotSupersampling_Help Екі есе ажыратымдылықтағы скриншоттар: жиектері таза, бірақ сурет ұзағырақ түсіріледі.
+UseStaticCrosshair_Help Қарудың шашырауынан өзгеретін көздегіштің орнына тұрақты өлшемді көздегіш.
+CrosshairShape_Help Көздегіш түрі: сызықтар немесе классикалық.
+Metric_Help Қашықтық пен жылдамдықты қандай бірліктерде көрсету.
+Hitmarker_Help Тию белгісін қайда көрсету: көздегіште немесе тиген жерде.
+HitmarkerStyle_Help Тию белгісінің түрі: анимацияланған немесе классикалық.
+VehicleThirdPersonCameraMode_Help Жердегі көліктегі үшінші жақтан камера: еркін немесе онымен бірге бұрылады.
+AircraftThirdPersonCameraMode_Help Әуе көлігіндегі үшінші жақтан камера: еркін немесе онымен бірге бұрылады.
+DamageFlinchMode_Help Жараланғанда камера қалай селт етеді: тек еңкею немесе зақым келген жаққа.

@@ -6,7 +6,16 @@ UseUnfocusedTargetFrameRate_Toggle_Label Ограничить частоту к�
 UnfocusedTargetFrameRate_Field_Label Максимальная\nчастота кадров\nсвёрнутой игры
 
 Fullscreen_Mode_Label Режим экрана
-Fullscreen_Mode_Tooltip Фактор отображения игры на экране
 Fullscreen_Mode_Exclusive Полноэкранный
 Fullscreen_Mode_Borderless Оконный без рамки
 Fullscreen_Mode_Windowed Оконный
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Resolutions_Header РАЗРЕШЕНИЯ
+User_Interface_Scale_Field_Help Размер интерфейса: 1 - обычный, больше - крупнее.
+TargetFrameRate_Field_Help Сколько кадров в секунду максимум, если ограничение включено.
+UnfocusedTargetFrameRate_Field_Help Сколько кадров в секунду максимум, пока игра свёрнута.
+Fullscreen_Mode_Help Как игра занимает экран: полноэкранный режим, окно без рамки на весь экран или обычное окно.
+Buffer_Toggle_Help Подстраивает кадры под частоту монитора: нет разрывов картинки, но чуть выше задержка. Пока включена, ограничение кадров не действует.
+UseTargetFrameRate_Toggle_Help Ограничивает кадры в секунду, чтобы ПК меньше грелся и шумел. В меню кадры и так не выше 60.
+UseUnfocusedTargetFrameRate_Toggle_Help Своё ограничение кадров для свёрнутой игры. Выключено - пока игра свёрнута, не больше 30.

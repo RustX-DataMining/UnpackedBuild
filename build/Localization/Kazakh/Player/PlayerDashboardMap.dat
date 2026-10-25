@@ -1,0 +1,29 @@
+Home_SlotFree_Content Бос слот\nclaim орнатыңыз
+Home_SlotFree_Label Қолжетімді
+Home_SlotBlocked_Content Құқық жоқ\nслот қолжетімсіз
+Home_SlotBlocked_Label Бұғатталған
+Home_CombatBlock_Content Боевой блок\nтелепорт қолжетімсіз
+Home_RaidBlock_Content Рейд-блок\nтелепорт қолжетімсіз
+Home_Unavailable_Label Қолжетімсіз
+Home_Cooldown_Label Қалған уақыт
+Home_Available_Label Қолжетімді
+Home_Teleport_Label Үйге телепорт
+
+Death_Distance {0} м
+Death_Killer_Bleeding Қан кету
+Death_Killer_Bones Сыну
+Death_Killer_Food Аштық
+Death_Killer_Water Шөлдеу
+Death_Killer_Animal Жануар
+Death_Killer_Infection Инфекция
+Death_Killer_Breath Тұншығу
+Death_Killer_Vehicle Көлік
+Death_Weapon_Hands Қолдар
+Death_Weapon_Default Қару
+Death_Header Өлім
+Death_Distance_Prefix Қашықтық
+Death_Killer_Prefix Сізді өлтірді
+Death_Weapon_Prefix Қолданғаны:
+Death_Report Шағым
+Respawn_Button Қайта туу
+Respawn_Button_Timer {0} сек күтіңіз...

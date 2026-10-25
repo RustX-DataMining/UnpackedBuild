@@ -1,0 +1,15 @@
+Restart_Label Рестартқа дейін
+Wipe_Label Вайпқа дейін
+Update_Label Жаңартуға дейін
+
+Restart_Cancelled Рестарт болдырылмады
+Wipe_Cancelled Вайп болдырылмады
+Update_Cancelled Жаңарту болдырылмады
+
+Restart_Chat Сервер рестартына {0} қалды
+Wipe_Chat Сервер вайпына {0} қалды
+Update_Chat Сервер жаңартуына {0} қалды
+
+Restart_Chat_Cancelled Сервер рестарты болдырылмады
+Wipe_Chat_Cancelled Сервер вайпы болдырылмады
+Update_Chat_Cancelled Сервер жаңартуы болдырылмады

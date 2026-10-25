@@ -1,0 +1,16 @@
+Title СІЗДІ ТЕКСЕРУГЕ ШАҚЫРДЫ<br><size=50%><color=#FFE1DB>СЕРВЕРДЕН ШЫҒУ НЕМЕСЕ БАС ТАРТУ = БАН</color></size>
+Timer_Caption ТЕКСЕРУДЕ
+Moderator Тексеруші: <color=#FFFFFF>{0}</color>
+Rules Ереже [5.4]: әр ойыншының Discord-ы болуы керек
+Step1 RustX Discord-серверіндегі «Тексеруді күту» дауыстық арнасына кіріңіз
+Step2 Немесе Discord-ыңызды көрсетіңіз, модератордың өзі сізге жазады
+Copy СІЛТЕМЕНІ КӨШІРУ
+Copied КӨШІРІЛДІ
+Placeholder Discord юзернеймі
+Send ЖІБЕРУ
+Status_Sending Жіберіп жатырмыз...
+Status_Sent Модератор Discord-ыңызды алды: {0}
+Footer_Blocked Тексеру біткенше қозғалыс бұғатталған
+Footer_Chat Чат пен дауыс жұмыс істейді
+
+Kick_Ban Тексеру нәтижесі бойынша бан

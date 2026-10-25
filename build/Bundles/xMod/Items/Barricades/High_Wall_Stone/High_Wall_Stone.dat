@@ -16,6 +16,7 @@ Offset 3.4
 Player_Damage 15
 Zombie_Damage 175
 Animal_Damage 175
+Only_Ground
 
 Explosion 28
 

@@ -1,0 +1,25 @@
+Craft_Tab_Favorite ТАҢДАУЛЫ
+Craft_Tab_Common ЖАЛПЫ
+Craft_Tab_Buildings ҚҰРЫЛЫС
+Craft_Tab_Explosives ЖАРЫЛҒЫШ
+Craft_Tab_Resources РЕСУРСТАР
+Craft_Tab_Clothes КИІМ
+Craft_Tab_Tools ҚҰРАЛДАР
+Craft_Tab_Medical МЕДИЦИНА
+Craft_Tab_Weapons ҚАРУ
+Craft_Tab_Ammo ОҚ-ДӘРІ
+Craft_Tab_Other БАСҚА
+
+Supply_Count Саны
+Supply_Name Ресурс
+Supply_Total Барлығы
+Supply_Have Бар
+
+Search_Placeholder Рецепт іздеу...
+Search_Clear ТАЗАЛАУ
+
+Select_Blueprint Қарау үшін рецептті таңдаңыз
+Need_Workbench #{0} верстак керек
+Not_Studied Зерттелмеген
+Create Жасау
+Not_Enough Материал жеткіліксіз

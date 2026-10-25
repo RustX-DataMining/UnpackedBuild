@@ -1,0 +1,59 @@
+Loading Ładowanie
+Loading_Connect Łączenie
+Loading_Prepare Przygotowanie...
+Loading_Assets Ładowanie zasobów: {0}%
+Loading_Blueprints Ładowanie schematów
+Loading_Spawns Ładowanie punktów odrodzenia
+Loading_Misc Ładowanie pozostałych
+Loading_MainMenu Ładowanie menu głównego
+Level_Load Ładowanie mapy: {0}%
+Queue_Position Miejsce w kolejce: #{0}
+
+Cancel Anuluj
+Players Gracze
+Mode Tryb
+Map Mapa
+Region Region
+Tags Tagi
+
+// {0} - взаимодействие, {1} - карта, {2} - игроки, {3} - ПНВ (LoadingUI подставляет бинды)
+Tip_1 Szafkę stawiaj najpierw: w jej zasięgu obcy nie mogą budować
+Tip_2 Trzymaj w szafce drewno i materiały ścian, inaczej budowle zaczną niszczeć
+Tip_3 Szafki nie zniszczą materiały wybuchowe, tylko broń i narzędzia. Chowaj ją głęboko
+Tip_4 Ulepszaj budowle młotkiem: drewno, kamień, metal, HQM - każdy poziom mocniejszy
+Tip_5 Zamek z kodem wpuszcza ciebie i grupę, zamek solo - tylko ciebie
+Tip_6 Turret strzela tylko w zasięgu zatankowanego generatora, kable niepotrzebne
+Tip_7 Generator tankuje się paliwem niskiej jakości prosto z ekwipunku
+Tip_8 Włóż do turreta amunicję do jego broni, a przeładuje się sam
+Tip_9 Zniszczysz cudzą ścianę lub drzwi - dostajesz raid block: bez budowania i teleportu
+Tip_10 Obrażenia gracza włączają combat block: dopóki trwa, nie wrócisz do domu
+Tip_11 Naciśnij {0} na łóżku lub śpiworze, a stanie się twoim domem
+Tip_12 Teleport do domu - przez mapę {1}. Nie działa w pojeździe ani przy blokadach
+Tip_13 Teleport do znajomego poproś z listy graczy {2}, jeśli serwer ma TPA
+Tip_14 Grupę tworzysz na liście graczy {2}: wybierz gracza i zaproś go
+Tip_15 Włóż przedmiot i scrap do stołu badań: przedmiot spłonie, schemat zostanie
+Tip_16 Przy workbenchu schematy odkrywasz za scrap według drzewa technologii
+Tip_17 Odkryte przedmioty craftujesz tylko przy workbenchu właściwego poziomu
+Tip_18 Rozbijaj beczki przy drogach: są w nich komponenty i scrap
+Tip_19 Komponenty wrzucaj do recyklera: dostaniesz scrap i surowce
+Tip_20 Uderzaj w krzyżyk na drzewie i świecący punkt na kamieniu: wydobędziesz więcej
+Tip_21 Jackhammer zawsze trafia w bonus: najlepsze narzędzie do rudy
+Tip_22 Kaktusa można ściąć na tkaninę
+Tip_23 Piec pali drewno i przetapia rudę w metal i siarkę, a z drewna zostaje węgiel
+Tip_24 Proch to węgiel i siarka. Nie wyrzucaj węgla
+Tip_25 Bandaż tamuje krwawienie, strzykawka szybko przywraca zdrowie
+Tip_26 Pilnuj jedzenia i wody: głód i pragnienie zabijają powoli, ale skutecznie
+Tip_27 W strefach radiacji pomoże hazmat
+Tip_28 Noktowizor włączasz na {3}: w nocy i w tunelach bez niego ciężko
+Tip_29 Po śmierci twoje rzeczy leżą w skrzyni w miejscu zgonu, ale niedługo
+Tip_30 Wychodząc z gry, zostawiasz sleepera, którego można przeszukać. Wychodź w domu
+Tip_31 Karta dostępu otwiera drzwi monumentu w swoim kolorze i wytrzymuje 5 otwarć
+Tip_32 Zamknięta skrzynia otwiera się 8 minut po zhakowaniu. Utrzymaj pozycję
+Tip_33 Granat sygnałowy wzywa airdrop tam, gdzie go rzucisz
+Tip_34 MLRS strzela tylko z modułem celowniczym i rakietami, a cel wybierasz na mapie
+Tip_35 W bezpiecznym mieście broń nie działa, a turrety nie strzelają
+Tip_36 Darmowe kity są w menu pauzy w zakładce „Sklep”, każdy ma swój cooldown
+Tip_37 Które przedmioty są jeszcze zablokowane po wipe, widać w zakładce „Blokada” menu pauzy
+Tip_38 Widzisz cheatera - zgłoś go w zakładce „Zgłoszenia” w menu pauzy
+Tip_39 Wieczorem można głosować za dniem: wypatruj komunikatu na ekranie
+Tip_40 Nie ufaj nikomu: nawet nieuzbrojony może być zagrożeniem

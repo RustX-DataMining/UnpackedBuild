@@ -1,0 +1,107 @@
+Quit_Button Вийти
+
+Tab_Market МАРКЕТ
+Tab_Top Топи
+Tab_Block БЛОК
+Tab_Report СКАРГИ
+Control_Return ПРОДОВЖИТИ
+Control_Settings НАЛАШТУВАННЯ
+Control_Respawn ПОМЕРТИ
+Control_Exit ВИЙТИ
+Confirm_Respawn Померти?
+Confirm_Exit Вийти?
+Confirm_Question Ви впевнені?
+Confirm_Yes Так
+Confirm_Cancel Скасувати
+
+Market_Filter_All Усі
+Market_Filter_Available Доступне
+Market_Filter_Privileges Привілеї
+Market_Filter_Kits Набори
+Market_Filter_Items Предмети
+Market_Filter_Vehicles Транспорт
+Market_Window_Header Перегляд товару
+Market_Term НА {0} ДНІВ
+Market_Improvements покращення
+Market_Type_Privilege ПРИВІЛЕЙ
+Market_Type_Kit НАБІР
+Market_Type_Item ПРЕДМЕТ
+Market_Type_Vehicle ТРАНСПОРТ
+Market_Buy КУПИТИ
+Market_Buy_For КУПИТИ ЗА {0}
+Market_Claim ЗАБРАТИ
+Market_Take ВЗЯТИ
+Market_Owned ДОСТУПНО
+Market_Expires ЗАКІНЧИТЬСЯ: {0}
+Market_Cooldown КД: {0}
+Market_Time {0}д. {1}г.
+Market_Kit_Unavailable_Header Набір недоступний
+Market_Kit_Unavailable_Text Набір можна буде купити через {0}
+
+Top_Place Місце
+Top_Name Гравець
+Top_Rank Звання
+Top_Exp Очок
+Top_Kills Вбивств
+Top_Heads Хедшотів
+Top_Deads Смертей
+Top_Farm Ресурси
+Top_Raids Рейди
+Top_Hours Годин
+
+Block_Available Доступно
+Block_Locked Блокування\n{0}
+Block_Days {0} д.
+Block_Hours {0} г.
+Block_Minutes {0} хв
+Block_Seconds {0} с
+
+Report_Step_Player 1.   Виберіть гравця
+Report_Step_Reason 2.   Виберіть причину
+Report_Step_Send 3.   Надішліть скаргу
+Report_Search Пошук гравця...
+Report_Info_Header ДОПОМОЖІТЬ ЗРОБИТИ ГРУ КРАЩОЮ
+Report_Info_Text Ваші скарги допомагають нам підтримувати чесну та комфортну гру. Усі звернення розглядає адміністрація.
+Report_Rule_0 Використовуйте скарги тільки у справі
+Report_Rule_1 Неправдиві скарги можуть призвести до обмеження
+Report_Rule_2 ВИБИРАЙТЕ ПРИЧИНУ, ЯКА ТОЧНО ОПИСУЄ ПОРУШЕННЯ
+Report_Rule_3 Дякуємо за вашу допомогу!
+Report_Reason_cheat_aim Стрільба
+Report_Reason_cheat_aim_Hint Стріляє без промаху, приціл наводиться сам
+Report_Reason_cheat_wall ВХ / стіни
+Report_Reason_cheat_wall_Hint Бачить і стріляє крізь стіни, знає, де я
+Report_Reason_cheat_macro Макрос
+Report_Reason_cheat_macro_Hint Віддачі немає, черга лягає в одну точку
+Report_Reason_buguse_texture Текстури
+Report_Reason_buguse_texture_Hint Прохід крізь текстури, стріляє зі скелі
+Report_Reason_buguse_build Забудова
+Report_Reason_buguse_build_Hint База, в яку не можна потрапити за правилами
+Report_Reason_buguse_dupe Дюп
+Report_Reason_buguse_dupe_Hint Розмножує предмети
+Report_Reason_buguse_under Під картою
+Report_Reason_buguse_under_Hint Перебуває під картою або поза її межами
+Report_Reason_teaming Тімінг
+Report_Reason_teaming_Hint Об'єднався з чужими там, де це заборонено
+Report_Reason_misc_chat Чат
+Report_Reason_misc_chat_Hint Поведінка в текстовому чаті
+Report_Reason_misc_voice Голос
+Report_Reason_misc_voice_Hint Поведінка в голосовому чаті
+Report_Reason_misc_ads Реклама
+Report_Reason_misc_ads_Hint Кличе на інший проєкт, спамить посиланнями
+Report_Sending Надсилання...
+Report_Login Увійдіть, щоб надіслати скаргу
+Report_Select_Player Виберіть гравця
+Report_Select_Reason Виберіть причину
+Report_Send Надіслати скаргу
+Report_Next Наступна скарга через {0}
+Report_Accepted Скаргу #{0} прийнято
+Report_No_Connection Скарга не пішла: немає зв'язку з сервером
+Report_Quota Ліміт скарг вичерпано, спробуйте через {0}
+Report_Self На себе поскаржитися не можна
+Report_Not_Found Такого гравця немає в базі проєкту
+Report_Unknown_Reason Причину не прийнято сервером
+Report_Failed Скаргу не надіслано
+Report_Limits_Quota Залишилося скарг: {0}
+Report_Limits_Both Залишилося скарг: {0}, наступна через {1}
+Report_Seconds {0} с
+Report_Minutes {0} хв

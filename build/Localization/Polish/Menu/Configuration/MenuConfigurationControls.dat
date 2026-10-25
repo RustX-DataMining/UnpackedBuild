@@ -1,0 +1,121 @@
+Sensitivity_Field_Label Czułość
+Invert_Toggle_Label Odwrócenie w pionie
+Invert_Flight_Toggle_Label Odwrócenie w locie
+Scroll_Hotbar_Toggle_Label Przewijanie paska kółkiem myszy
+Aiming_Label Celowanie
+Crouching_Label Kucanie
+Sprinting_Label Bieg
+Voice_Mode_Label Tryb mikrofonu
+
+SensitivityScalingMode_Label Tryb skalowania
+SensitivityScalingMode_ProjectionRatio Ogniskowa
+SensitivityScalingMode_ZoomFactor Powiększenie
+SensitivityScalingMode_Legacy Klasyczny
+SensitivityScalingMode_None Wyłączony
+
+ProjectionRatioCoefficient_Label Współczynnik projekcji
+
+Hold Przytrzymaj klawisz
+Toggle Naciśnij klawisz
+
+Layout_0 RUCH
+Layout_1 POSTAWA
+Layout_2 AKCJE
+Layout_3 PRZEDMIOTY
+Layout_4 KOMUNIKACJA
+Layout_5 INTERFEJS
+Layout_6 POJAZDY
+Layout_7 EDYTOR
+Layout_8 MODY I PLUGINY
+Layout_9 PASEK SZYBKIEGO DOSTĘPU
+
+Key_0_Button W lewo [{0}]
+Key_1_Button W prawo [{0}]
+Key_2_Button Do przodu [{0}]
+Key_3_Button Do tyłu [{0}]
+Key_4_Button Skok [{0}]
+Key_5_Button Swobodne rozglądanie [{0}]
+Key_6_Button Wychylenie w prawo [{0}]
+Key_7_Button Strzał, użycie [{0}]
+Key_8_Button Celowanie [{0}]
+Key_9_Button Użyj, obejrzyj [{0}]
+Key_10_Button Kucnij [{0}]
+Key_11_Button Połóż się [{0}]
+Key_12_Button Bieg [{0}]
+Key_13_Button Przeładowanie [{0}]
+Key_14_Button Modyfikacje [{0}]
+Key_15_Button Tryb ognia [{0}]
+Key_16_Button Panel [{0}]
+Key_17_Button Ekwipunek [{0}]
+Key_18_Button Crafting [{0}]
+Key_19_Button Umiejętności [{0}]
+Key_20_Button Mapa [{0}]
+Key_21_Button Odrzuć [{0}]
+Key_22_Button Mikrofon [{0}] 
+Key_23_Button Ulepszenie [{0}]
+Key_24_Button Przyciąganie [{0}]
+Key_25_Button Skupienie [{0}]
+Key_26_Button Narzędzie #1 [{0}]
+Key_27_Button Narzędzie #2 [{0}]
+Key_28_Button Narzędzie #3 [{0}]
+Key_29_Button Przełącz HUD [{0}]
+Key_30_Button Szybka akcja [{0}]
+Key_31_Button Czat globalny [{0}]
+Key_32_Button Czat lokalny [{0}]
+Key_33_Button Czat grupy [{0}]
+Key_34_Button Gesty, animacje [{0}]
+Key_35_Button Przełącz noktowizor [{0}]
+Key_36_Button Latarka, laser [{0}]
+Key_37_Button Widok z 3. osoby [{0}]
+Key_38_Button Schowaj z rąk [{0}]
+Key_39_Button Zmiana postawy [{0}]
+Key_40_Button Przechył w lewo [{0}]
+Key_41_Button Przechył w prawo [{0}]
+Key_42_Button Nos w górę [{0}]
+Key_43_Button Nos w dół [{0}]
+Key_44_Button Odchylenie w lewo [{0}]
+Key_45_Button Odchylenie w prawo [{0}]
+Key_46_Button Zwiększ ciąg [{0}]
+Key_47_Button Zmniejsz ciąg [{0}]
+Key_48_Button Obejrzyj [{0}]
+Key_49_Button Obróć przedmiot [{0}]
+Key_50_Button Narzędzie #4 [{0}]
+Key_51_Button Wznoszenie [{0}]
+Key_52_Button Opadanie [{0}]
+Key_53_Button Zamknij [{0}]
+Key_54_Button Akceptuj [{0}]
+Key_55_Button Terminal [{0}]
+Key_56_Button Zrzut ekranu [{0}]
+Key_57_Button Przeładuj zasoby [{0}]
+Key_58_Button Schowek [{0}]
+Key_59_Button Skrót #1 [{0}]
+Key_60_Button Skrót #2 [{0}]
+Key_61_Button Skrót #3 [{0}]
+Key_62_Button Skrót #4 [{0}]
+Key_63_Button Skrót #5 [{0}]
+Key_64_Button Przedmiot #1 [{0}]
+Key_65_Button Przedmiot #2 [{0}]
+Key_66_Button Przedmiot #3 [{0}]
+Key_67_Button Przedmiot #4 [{0}]
+Key_68_Button Przedmiot #5 [{0}]
+Key_69_Button Przedmiot #6 [{0}]
+Key_70_Button Przedmiot #7 [{0}]
+Key_71_Button Przedmiot #8 [{0}]
+Key_72_Button Przedmiot #9 [{0}]
+Key_73_Button Przedmiot #10 [{0}]
+Key_74_Button Zwolnij kursor [{0}]
+Key_75_Button Pomiń menu craftingu [{0}]
+Key_76_Button Anuluj [{0}]
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Base_Header OGÓLNE
+Sprinting_Help Bieg: przytrzymaj klawisz albo naciśnij raz, aby włączyć.
+Crouching_Help Kucanie: przytrzymaj klawisz albo naciśnij raz, aby włączyć.
+Aiming_Help Celowanie: przytrzymaj klawisz albo naciśnij raz, aby włączyć.
+Voice_Mode_Help Mikrofon: mów, trzymając klawisz, albo włączaj i wyłączaj naciśnięciem.
+SensitivityScalingMode_Help Jak zmienia się czułość przy celowaniu. Ogniskowa: według kąta widzenia ze współczynnikiem projekcji. Powiększenie: według krotności celownika. Klasyczny: jak dawniej. Wyłączony: bez zmian.
+Sensitivity_Field_Help O ile stopni obraca się kamera na jeden piksel ruchu myszy.
+ProjectionRatioCoefficient_Help Mnożnik czułości przy celowaniu w trybie Ogniskowa.
+Invert_Toggle_Help Mysz w górę - wzrok w dół.
+Invert_Flight_Toggle_Help Mysz w górę - nos w dół w pojazdach latających.
+Scroll_Hotbar_Toggle_Help Kółko myszy przełącza przedmioty na pasku szybkiego dostępu.

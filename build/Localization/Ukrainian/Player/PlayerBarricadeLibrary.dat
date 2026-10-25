@@ -1,0 +1,10 @@
+Capacity_Text {0}/{1}
+Capacity_Label Місткість
+Wallet_Label Доступно
+Amount_Label Кількість
+Transaction_Label Транзакція
+Tax_Label Податок
+Net_Label Разом
+
+Deposit_Label Додати куди
+Withdraw_Label Забрати звідки

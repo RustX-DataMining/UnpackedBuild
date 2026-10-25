@@ -1,45 +1,107 @@
-Return_Button_Text Return
-Return_Button_Tooltip Return
-Options_Button_Text Options
-Options_Button_Tooltip Options
-Graphics_Button_Text Graphics
-Graphics_Button_Tooltip Graphics
-Display_Button_Text Display
-Display_Button_Tooltip Display
-Controls_Button_Text Controls
-Controls_Button_Tooltip Controls
-Audio_Button_Text Audio
-Audio_Button_Tooltip Sound
-Exit_Button_Text Exit
-Exit_Button_Timer Exit [{0}]
-Exit_Button_Tooltip Return to main menu.
 Quit_Button Quit
-Quit_Button_Timer Quit [{0}]
-Quit_Button_Tooltip Exit to desktop.
-Suicide_Button_Text Reset
-Suicide_Button_Tooltip Respawn somewhere else.
-Suicide_Button_Confirm Yes
-Suicide_Button_Confirm_Tooltip Die
-Suicide_Button_Deny No
-Suicide_Button_Deny_Tooltip Live
-Suicide_Disabled DISABLED
 
-Spy_Refresh_Button_Text Spy
-Spy_Refresh_Button_Tooltip Refresh
-Spy_Slay_Button_Text Slay
-Spy_Slay_Button_Tooltip Kill + Permanent Ban
+Tab_Market MARKET
+Tab_Top Top
+Tab_Block BLOCK
+Tab_Report REPORTS
+Control_Return CONTINUE
+Control_Settings SETTINGS
+Control_Respawn SUICIDE
+Control_Exit EXIT
+Confirm_Respawn Suicide?
+Confirm_Exit Exit?
+Confirm_Question Are you sure?
+Confirm_Yes Yes
+Confirm_Cancel Cancel
 
-Server_WithVersion {0} v{1} on {2} [{3}]
-VAC_Secure VAC Secure
-VAC_Insecure VAC Insecure
-BattlEye_Secure BattlEye Required
-BattlEye_Insecure BattlEye Disabled
-Streamer Streamer Mode
-Offline Offline
+Market_Filter_All All
+Market_Filter_Available Available
+Market_Filter_Privileges Privileges
+Market_Filter_Kits Kits
+Market_Filter_Items Items
+Market_Filter_Vehicles Vehicles
+Market_Window_Header Item details
+Market_Term FOR {0} DAYS
+Market_Improvements benefits
+Market_Type_Privilege PRIVILEGE
+Market_Type_Kit KIT
+Market_Type_Item ITEM
+Market_Type_Vehicle VEHICLE
+Market_Buy BUY
+Market_Buy_For BUY FOR {0}
+Market_Claim CLAIM
+Market_Take TAKE
+Market_Owned ACTIVE
+Market_Expires EXPIRES: {0}
+Market_Cooldown CD: {0}
+Market_Time {0}d {1}h
+Market_Kit_Unavailable_Header Kit unavailable
+Market_Kit_Unavailable_Text You can buy this kit in {0}
 
-Favorite_On_Button_Text Favorite
-Favorite_Off_Button_Text Unfavorite
-Favorite_Button_Tooltip Favorite/Unfavorite
+Top_Place Place
+Top_Name Player
+Top_Rank Rank
+Top_Exp Points
+Top_Kills Kills
+Top_Heads Headshots
+Top_Deads Deaths
+Top_Farm Resources
+Top_Raids Raids
+Top_Hours Hours
 
-Quicksave_Button Quicksave
-Quicksave_Button_Tooltip Manually Save (Note that the game does autosave during exit.)
+Block_Available Available
+Block_Locked Locked\n{0}
+Block_Days {0} d
+Block_Hours {0} h
+Block_Minutes {0} min
+Block_Seconds {0} s
+
+Report_Step_Player 1.   Select a player
+Report_Step_Reason 2.   Select a reason
+Report_Step_Send 3.   Send the report
+Report_Search Search player...
+Report_Info_Header HELP US MAKE THE GAME BETTER
+Report_Info_Text Your reports help us keep the game fair and comfortable. Every report is reviewed by the administration.
+Report_Rule_0 Report only real violations
+Report_Rule_1 False reports may lead to restrictions
+Report_Rule_2 CHOOSE THE REASON THAT DESCRIBES THE VIOLATION EXACTLY
+Report_Rule_3 Thank you for your help!
+Report_Reason_cheat_aim Aim
+Report_Reason_cheat_aim_Hint Never misses, the crosshair aims by itself
+Report_Reason_cheat_wall ESP / walls
+Report_Reason_cheat_wall_Hint Sees and shoots through walls, knows where I am
+Report_Reason_cheat_macro Macro
+Report_Reason_cheat_macro_Hint No recoil, every burst lands on one point
+Report_Reason_buguse_texture Textures
+Report_Reason_buguse_texture_Hint Goes through textures, shoots from inside rocks
+Report_Reason_buguse_build Building
+Report_Reason_buguse_build_Hint A base that cannot be entered by the rules
+Report_Reason_buguse_dupe Dupe
+Report_Reason_buguse_dupe_Hint Duplicates items
+Report_Reason_buguse_under Under the map
+Report_Reason_buguse_under_Hint Is under the map or outside its borders
+Report_Reason_teaming Teaming
+Report_Reason_teaming_Hint Teamed up with others where it is not allowed
+Report_Reason_misc_chat Chat
+Report_Reason_misc_chat_Hint Behaviour in text chat
+Report_Reason_misc_voice Voice
+Report_Reason_misc_voice_Hint Behaviour in voice chat
+Report_Reason_misc_ads Advertising
+Report_Reason_misc_ads_Hint Invites to another project, spams links
+Report_Sending Sending...
+Report_Login Log in to send a report
+Report_Select_Player Select a player
+Report_Select_Reason Select a reason
+Report_Send Send report
+Report_Next Next report in {0}
+Report_Accepted Report #{0} accepted
+Report_No_Connection Report not sent: no connection to the server
+Report_Quota Report limit reached, try again in {0}
+Report_Self You cannot report yourself
+Report_Not_Found This player is not in the project database
+Report_Unknown_Reason The server did not accept the reason
+Report_Failed Report not sent
+Report_Limits_Quota Reports left: {0}
+Report_Limits_Both Reports left: {0}, next in {1}
+Report_Seconds {0} s
+Report_Minutes {0} min

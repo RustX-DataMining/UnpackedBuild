@@ -5,38 +5,9 @@ Tab_Inventory Инвентарь
 Tab_Settings Настройки
 Tab_Exit Выйти
 
-PlayButtonText Играть
-PlayButtonTooltip Играть
-SurvivorsButtonText Персонажи
-SurvivorsButtonTooltip Персонажи
-ConfigurationButtonText Настройки
-ConfigurationButtonTooltip Настройки
-WorkshopButtonText Мастерская
-WorkshopButtonTooltip Мастерская
-ExitButtonText Выйти
-ExitButtonTooltip Выйти
-BackButtonText Назад
-BackButtonTooltip Назад
-NewsTooltip Нажмите здесь, чтобы прокомментировать или просмотреть остальные объявления.
-
-Curated_Workshop_Title На рассмотрении: {0}
-Highlighted_Workshop_Title Рекомендуемые: {0}
-Featured_Workshop_Title Рекомендации: {0}
-Featured_Workshop_Dismiss Скрыть
-ReadMore_Link_On Раскрыть
-ReadMore_Link_Off Скрыть
-Featured_Workshop_Link Показать контент
-Featured_Workshop_Sub Подписаться
-Featured_Workshop_Unsub Отписаться
-Subscribe_Tooltip Подписаться на {0}
-Unsubscribe_Tooltip Отписаться от {0}
-Featured_Workshop_Stockpile_Link Посмотреть {0} в мастерской
-News_Author {0} - {1}
-News_Comments_Link Показать комментарии
-
-Banned Вы были заблокированы на этом сервере! [{0}|{1}]
+Banned Вы заблокированы на этом сервере ещё на {0}. Причина: {1}
 Banned_Unban Разбан можно выкупить в профиле на сайте: {0}
-Kicked Вы были исключены с этого сервера! [{0}]
+Kicked Вы были исключены с этого сервера. Причина: {0}
 Whitelisted Вас нет в списке приглашённых этого сервера!
 Password Неверный пароль!
 Full Сервер полон!
@@ -52,20 +23,17 @@ SkinColorWithinThresholdOfTerrainColor Цвет кожи вашего персо
 Steam_ID_Mismatch Ваш аккаунт Steam не совпадает с тем, который используется для подключения к серверу.
 Connect_Rate_Limiting Слишком много запросов на присоединение, извините! Попробуйте еще раз через несколько минут.
 Bad_Packet_Rate_Limiting Что-то пошло не так с вашим соединением, извините! Пожалуйста попробуйте еще раз через несколько минут.
-Too_Many_Clients_With_Same_IP_Address Количество игроков, зарегистрированных с вашего IP-адреса ограничено, извините! Пожалуйста повторите попытку через несколько минут.
 
-Version Этот сервер имеет другую версию игры!
+Version Этот сервер работает на версии игры {0}, а у вас версия {1}.
 Pro_Server Этот сервер только для игроков с Prime.
 Pro_Character Выберите рабочего персонажа.
 
 Pro_Desync Этот сервер и ваш клиент расходятся во мнениях относительно того, какой у вас персонаж.
 
-Pro_Appearance Please select a valid face, hair, beard, skin color and hair color.
+Pro_Appearance Выберите допустимые лицо, причёску, бороду, цвет кожи и цвет волос.
 Auth_Verification Ваш пропуск на верификацию неверный!
 Auth_No_Steam Вы не подключены к Steam!
 Auth_License_Expired Ваша лицензия на допуск истекла!
-
-Auth_VAC_Ban Вы были заблокированы системой VAC!
 
 Auth_Elsewhere Вы, в данный момент, находитесь на другом сервере!
 
@@ -119,10 +87,6 @@ Vehicle Этот сервер содержит транспорт, которо�
 Client_Module_Desync Этот сервер не имеет модуля, который вы используете.
 Server_Module_Desync Этот сервер использует модуль, которого у вас нет.
 
-BattlEye_Broken Файл BattlEye был повреждён! Необходимо перезагрузить игру.
-BattlEye_Update Версия BattlEye устарела, пожалуйста используйте BattlEye лаунчер для запуска клиента.
-BattlEye_Unknown Что-то пошло не так, и BattlEye не был запущен! Необходимо перезагрузить игру.
-
 Level_Version Этот сервер запущен на другой версии карты: {0}
 
 Econ_Hash На этом сервере запущена другая версия инвентаризации.
@@ -131,7 +95,6 @@ Master_Bundle_Hash Ошибка пакета активов: {0}
 
 Failure_Unknown Неизвестная ошибка: {0} Причина: {1}
 Reject_Unknown Отклонено по неизвестной причине: {0}
-Workshop_Download_Restriction Сервер не был авторизован создателями {0} предмет(ов) мастерской, чтобы использовать их контент.
 Workshop_Advertisement_Mismatch Сервер был указан без пунктов мастерской, но запрашивал загрузки мастерской.
 
 Late_Pending_Steam_Auth Игровой сервер не получил ответа от серверов аутентификации Steam.
@@ -140,15 +103,13 @@ Late_Pending_Steam_Econ Игровой сервер не получил отве
 
 Late_Pending_Steam_Groups Игровой сервер не получил ответа от серверов групп Steam.
 
-Name_Private_Long Вашe имя в группе слишком длинное.
+Name_Private_Long Ваше имя в группе слишком длинное.
 
-Name_Private_Invalid Вашe имя в группе содержит недопустимые буквы.
+Name_Private_Invalid Ваше имя в группе содержит недопустимые буквы.
 
-Name_Private_Number Вашe имя в группе не может быть просто числом.
+Name_Private_Number Ваше имя в группе не может быть просто числом.
 
 Server_Map_Advertisement_Mismatch Сервер показывал другую карту вместо той, что просит загрузить.
-Server_VAC_Advertisement_Mismatch Сервер показывал защищенный VAC статус вместо того, что установлен.
-Server_BattlEye_Advertisement_Mismatch Сервер показывал защищенный BattlEye статус вместо того, что установлен.
 Server_MaxPlayers_Advertisement_Mismatch Сервер показывал другое количество максимальных игроков вместо того, что установлено.
 Server_CameraMode_Advertisement_Mismatch Сервер показывал другой режим камеры вместо того, что установлен.
 Server_PvP_Advertisement_Mismatch Сервер показывал PVP или PVE режим вместо того, что установлен.
@@ -161,52 +122,33 @@ Already_Playing Вы уже играете на сервере {0}. Выйдит
 
 SteamNetworkingSockets_EndReason_App_1001 Все слоты игроков, слоты очередей и слоты ожидающих подключения заполнены.
 SteamNetworkingSockets_EndReason_App_1002 Сервер находится в процессе выключения.
-SteamNetworkingSockets_EndReason_App_Unknown Игра разорвала соединение по неизвестной причине: {0}
+SteamNetworkingSockets_EndReason_App_1003 Слишком много попыток подключения с вашего адреса. Подождите минуту и попробуйте снова.
+SteamNetworkingSockets_EndReason_App_1004 Сервер принимает подключения только по IPv4.
+SteamNetworkingSockets_EndReason_Code {0} (код {1})
+SteamNetworkingSockets_EndReason_App_Unknown Игра разорвала соединение по неизвестной причине.
 SteamNetworkingSockets_EndReason_AppException_Generic Игра завершила соединение необычным образом.
-SteamNetworkingSockets_EndReason_AppException_Unknown Игра прервала соединение исключительно по неизвестной причине: {0}
+SteamNetworkingSockets_EndReason_AppException_Unknown Игра прервала соединение по неизвестной причине.
 SteamNetworkingSockets_EndReason_Local_OfflineMode Невозможно подключиться во время работы в автономном режиме.
-SteamNetworkingSockets_EndReason_Local_RelayConnectivity Невозможно подключиться к сети ретрансляции Steam.
+SteamNetworkingSockets_EndReason_Local_RelayConnectivity Не удалось подключиться к сети ретрансляции.
 SteamNetworkingSockets_EndReason_Local_NetworkConfig Не удалось начать подключение к серверу.
-SteamNetworkingSockets_EndReason_Local_Rights Отклонено Steam из-за нехватки разрешений.
-SteamNetworkingSockets_EndReason_Local_Unknown Неизвестная ошибка локального подключения: {0}
+SteamNetworkingSockets_EndReason_Local_Rights Подключение отклонено: недостаточно прав.
+SteamNetworkingSockets_EndReason_Local_Unknown Неизвестная ошибка локального подключения.
 SteamNetworkingSockets_EndReason_Remote_Timeout Потеряно соединение с хостом.
 SteamNetworkingSockets_EndReason_Remote_BadCrypt Невозможно установить шифрование на хосте.
 SteamNetworkingSockets_EndReason_Remote_BadCert Невозможно доверять сертификату шифрования хоста.
 SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion Сервер использует другую версию сетевого протокола.
-SteamNetworkingSockets_EndReason_Remote_Unknown Неизвестная ошибка удаленного подключения: {0}
+SteamNetworkingSockets_EndReason_Remote_Unknown Неизвестная ошибка удаленного подключения.
 SteamNetworkingSockets_EndReason_Misc_InternalError Внутренняя ошибка сети.
 
 SteamNetworkingSockets_EndReason_Misc_Timeout Не удалось подключиться к серверу: нет ответа.
 
-SteamNetworkingSockets_EndReason_Misc_SteamConnectivity В Steam возникли проблемы с подключением.
-SteamNetworkingSockets_EndReason_Misc_Unknown  Другая неизвестная ошибка подключения: {0}
-SteamNetworkingSockets_EndReason_Unknown Соединение прервано по неизвестной причине: {0}
+SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Проблемы с сетевым подключением.
+SteamNetworkingSockets_EndReason_Misc_Unknown Другая неизвестная ошибка подключения.
+SteamNetworkingSockets_EndReason_Unknown Соединение прервано по неизвестной причине.
 
-InternetMultiplayerUnavailable_NoWebRequests Многопользовательская игра через Интернет недоступна, если включена опция запуска -NoWebRequests, извините!
-InternetMultiplayerUnavailable_NoConnection Невозможно запустить многопользовательскую игру через Интернет, поскольку статус модерации сервера недоступен, извините за беспокойство! Соединение может восстановиться автоматически.
 
-UGC_NeedsToAcceptWorkshopLegalAgreement Не удалось создать или обновить элемент, поскольку вам необходимо принять новейшее юридическое соглашение Steam Workshop.
-UGC_UnknownResult Не удалось создать или обновить элемент. Код ошибки Steam: {0}
-UGC_IOError Не удалось создать или обновить элемент из-за неизвестной проблемы ввода-вывода.
-UGC_Success Успешно отправлено в Steam!
-
-Pro_Title Купить Gold DLC
-Pro_Button Получите доступ к дополнительной настройке персонажа, Gold серверам и Gold предметам! Узнайте больше на странице в магазине Steam.
-Pro_Button_Tooltip Нажмите здесь, чтобы перейти на страницу магазина
-
-BattlEye_Header ВНИМАНИЕ: Система BattlEye отключена
-BattlEye_Body Система BattlEye не была запущена, поэтому вы не сможете зайти на сервера, которые находятся под её защитой. Если вы случайно удалили систему BattlEye или пропустили её установку, то вы можете запустить "Install_BattlEye.bat", который находится в папке "Steam\steamapps\common\Unturned\BattlEye".
-
-UpdateAvailable Доступно обновление до версии {0}! Если у вас включены автоматические обновления, они будут загружены и установлены после закрытия игры.
-RollbackAvailable Извините за беспокойство, но обнаружен откат к версии {0}. Обычно это означает, что обнаружена ошибка в игре, и требуется некоторое время, чтобы ее правильно исправить.<br>Если у вас включены автоматические обновления, они будут загружены и установлены после закрытия игры. Еще раз приносим свои извинения - будут приняты меры предосторожности во избежание повторения подобных проблем в будущем!
-
-Overlay Необходимо включить Steam Overlay!
 Dismiss_Notification_Label Закрыть
-Dismiss_Notification_Tooltip Закрыть уведомление.
 Copy_Notification_Label Скопировать
-Copy_Notification_Tooltip Скопировать в буфер обмена.
-MarkContentCorrupt_Label Принудительное обновление, проверка и восстановление файлов
-MarkContentCorrupt_Tooltip Перезапустите игру, проверив целостность локальных файлов в Steam.
 
 Language_Restart_Header Внимание
 Language_Restart_Message Чтобы применился язык, перезапустите игру.
@@ -223,7 +165,149 @@ Refresh_Label_Cached НЕ УДАЛОСЬ ПОЛУЧИТЬ ДАННЫЕ С СЕР
 Refresh_Button ПЕРЕЗАГРУЗИТЬ
 
 Prime_Header Прайм сервер
-Prime_Text Данный сервер имеет статус Prime. Чтобы попасть на него, у вас тоже должен быть такой статус.<br><br>Как его получить, можно узнать по кнопке «Подробнее».
-Prime_Denied Этот сервер только для игроков с Prime, а у вас его пока нет.<br><br>Как его получить, можно узнать по кнопке «Подробнее».
+Prime_Text Данный сервер имеет статус Prime. Чтобы попасть на него, у вас тоже должен быть такой статус.<br><br>Как его получить, можно узнать по кнопке "Подробнее".
+Prime_Denied Этот сервер только для игроков с Prime, а у вас его пока нет.<br><br>Как его получить, можно узнать по кнопке "Подробнее".
 Prime_Close Закрыть
 Prime_More Подробнее
+
+News_Header Обновление v{0}
+News_Date_Format dd.MM.yyyy
+
+// Главная, футер
+Main_QuickConnect Быстрое подключение
+Main_NewSkins Новые наборы уже в магазине!
+News_More ПОДРОБНЕЕ
+Balance_TopUp_Question Хотите пополнить баланс?
+
+// Играть
+Play_Connect Играть
+Play_Refresh ОБНОВИТЬ
+Play_Filter_Prime Только PRIME
+Play_Filter_Full Полные
+Play_Filter_Empty Пустые
+Play_Filter_AllMaps Все карты
+Play_Filter_AllModes Все режимы
+Play_Filter_AllRegions Все регионы
+Play_Sort_Name НАЗВАНИЕ СЕРВЕРА
+Play_Sort_Map КАРТА
+Play_Sort_Mode РЕЖИМ
+Play_Sort_Online ИГРОКИ
+Play_Sort_Ping ПИНГ
+Play_Sort_Region РЕГИОН
+Play_Sort_Prime ПРАЙМ
+Play_Mode_Vanilla Ванильный
+Play_Mode_Casual Казуальный
+Play_Mode_Fun Фановый
+Play_Mode_Moded Модовый
+Server_Header Подключение к серверу
+Server_Password введите пароль:
+Server_Connect ПОДКЛЮЧИТЬСЯ
+
+// Магазин, инвентарь, окно товара
+Econ_Filter_ALL Все
+Econ_Filter_GUNS Оружие
+Econ_Filter_ARMORS Броня
+Econ_Filter_TOOLS Инструменты
+Econ_Filter_BUILDINGS Строения
+Econ_Filter_CASES Кейсы
+Econ_Filter_PACKS Наборы
+Econ_Filter_AVAILABLE Доступные мне
+Econ_Filter_EQUIPPED Применённые
+Find_Label ПОИСК...
+Market_Buy Купить
+Econ_Type_Pack Набор
+Econ_Type_Case Кейс
+Rarity_Common Обычный
+Rarity_Uncommon Необычный
+Rarity_Rare Редкий
+Rarity_Epic Эпический
+Rarity_Legendary Легендарный
+Rarity_Contraband Запрещённый
+Econ_Skin_Header Просмотр товара
+Econ_Pack_Header Просмотр набора
+Econ_Case_Header Просмотр кейса
+Econ_Case_Content Содержимое
+Econ_Pack_Worth Содержимое на сумму {0}
+Econ_Buy_For Купить за {0}
+Econ_Sell_For Продать за {0}
+Econ_Sell Продать
+Econ_Equip Надеть
+Econ_Unequip Снять
+Econ_Case_Open Открыть
+Econ_Case_Again Открыть ещё
+Econ_Case_Take Забрать
+Econ_Case_Won Вам выпало:
+Econ_Case_Opening Открываем...
+Econ_Case_Opened_Header Кейс уже открыт
+Econ_Case_Opened_Text Этот кейс уже открыт, выпавший предмет лежит в инвентаре.
+Econ_Case_Failed_Header Кейс не открылся
+Econ_Case_Failed_Text Не удалось открыть кейс.\nОн остался в инвентаре, попробуйте позже.
+Confirm_Question Вы уверены?
+Confirm_Yes Да
+Confirm_Cancel Отмена
+Buy_Failed_Header Покупка не прошла
+Buy_Failed_No_Connection Нет связи с сервером.\nДеньги не списаны, попробуйте ещё раз.
+Buy_Failed_Unknown Не удалось купить.\nДеньги не списаны, попробуйте позже.
+
+// Баланс, окна
+Balance_Header Баланс
+Balance_TopUp ПОПОЛНИТЬ
+Balance_Value БАЛАНС: {0}
+Balance_Not_Enough У вас недостаточно средств!
+Balance_Unavailable_Header Баланс недоступен
+Balance_Unavailable_Text Не удалось получить баланс.\nПопробуйте ещё раз через минуту.
+Window_Close ЗАКРЫТЬ
+Alert_Copy КОПИРОВАТЬ
+Alert_Header Внимание
+Update_Header Доступно обновление игры
+Update_Text Обновите версию игры. Закройте игру, откройте лаунчер, нажмите "Обновить игру" и возвращайтесь!
+
+// Админ-панель
+Admin_Tab_Connect Подключение
+Admin_Tab_Studio Студия
+Admin_Tab_Maps Карты
+Admin_Tab_Logs Логи бандлов
+Admin_Servers Админ-серверы
+Admin_Youtube_Servers YouTube-серверы
+Admin_Test_Header Админ-сервер
+Admin_Test_Desc Тестовый сервер для админов
+Admin_Direct_Header Подключение по IP
+Admin_Direct_Desc Введите IP и порт сервера
+Admin_Local_Header Локальный сервер
+Admin_Local_Desc Локальный сервер для тестов
+Admin_Youtube_Desc Media-сервер для съёмок
+Admin_Connect_Button Подключиться
+Admin_Connect_Bad_Address Введите адрес в виде ip:port.
+Admin_Logs_File Файл лога
+Admin_Logs_Reload Обновить
+Admin_Folder Папка
+Admin_Refresh Обновить
+Admin_Create Создать
+Admin_Save Сохранить
+Admin_Name_Placeholder Название...
+Admin_Maps_New_Header Создать карту
+Admin_Maps_New_Desc Новая пустая карта
+Admin_Maps_Window_Header Новая карта
+Admin_Maps_Files Файлы
+Admin_Map_Size_SMALL Маленькая
+Admin_Map_Size_MEDIUM Средняя
+Admin_Map_Size_LARGE Большая
+Admin_Map_Size_MB {0} МБ
+Admin_Map_Not_Editable Карта недоступна для редактирования.
+Admin_Map_Enter_Name Введите имя карты.
+Admin_Map_Exists Карта с таким именем уже существует.
+Admin_Studio_Header Проекты
+Admin_Studio_New_Header Новый проект
+Admin_Studio_New_Desc Пустая сцена студии
+Admin_Studio_Rename Переименовать
+Admin_Studio_Open_Failed Не удалось открыть проект: {0}
+Admin_Studio_Enter_Name Введите название проекта.
+Admin_Studio_Rename_Failed Не удалось переименовать проект: {0}
+Admin_Studio_Create_Failed Не удалось создать проект: {0}
+Admin_Studio_Broken Файл повреждён
+
+Discord_Menu В главном меню
+Discord_Game В игре
+Discord_Playing Играет на {0}
+Discord_Unknown Неизвестный статус
+

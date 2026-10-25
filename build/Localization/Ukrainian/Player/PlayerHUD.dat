@@ -1,0 +1,81 @@
+Life_Bleeding Кровотеча
+Life_Radiation Радіація
+Life_Oxygen Кисень
+Life_Combat Бойовий блок
+Life_Raid Рейд-блок
+Life_Fuel Паливо
+Life_Durability Міцність
+Life_Block_Seconds {0} с
+Interactive_Fuel Паливо
+Interactive_Durability Міцність
+Interactive_GasMask Антирад
+Invite_Group Запросити в загін
+Group_Invite вас запросили в команду
+Knockdown_Header ВАС ПОРАНЕНО
+Knockdown_Description помрете через {0} секунд\nякщо не отримаєте допомоги
+Feed_Join Підключився: {0}
+Feed_Exit Відключився: {0}
+Rank_Next Наступний ранг: {0}
+Rank_Max {0}: максимальний ранг
+Teleport_Input_Header ВХІДНИЙ ЗАПИТ ТПА
+Teleport_Output_Header ВИХІДНИЙ ЗАПИТ ТПА
+Teleport_Delay ДО ТЕЛЕПОРТУ {0}с.
+Teleport_Accept {0} ПРИЙНЯТИ
+Teleport_Deny {0} ВІДХИЛИТИ
+Teleport_Cancel {0} СКАСУВАТИ
+Teleport_Accepted ТЕЛЕПОРТ ПРИЙНЯТО
+Teleport_Waiting ОЧІКУВАННЯ ВІДПОВІДІ
+Voteday_Header ГОЛОСУВАННЯ ЗА ДЕНЬ
+Voteday_Hint Натисніть F1, щоб проголосувати
+
+Radial_Refuel Заправити
+Radial_Vehicle_Enter Сісти
+Radial_Vehicle_Push Штовхнути
+Radial_Vehicle_Push_Hint Штовхнути транспорт
+Radial_Vehicle_Refuel_Hint Заправити транспорт
+Radial_Generator_On Увімк генератор
+Radial_Generator_On_Hint Увімкнути генератор
+Radial_Generator_Off Вимк генератор
+Radial_Generator_Off_Hint Вимкнути генератор
+Radial_Generator_Refuel_Hint Заправити генератор
+Radial_Pickup ЗАБРАТИ
+Radial_Remove_Lock ЗНЯТИ ЗАМОК
+Radial_Change_Skin ЗМІНИТИ
+Radial_No_Skins Немає скінів
+Radial_Default_Skin СТАНДАРТНИЙ
+Radial_Skin_Current Встановлено
+Radial_Destroy Знести будівлю
+Radial_Rotate Повернути будівлю
+Radial_Ammo Набої
+Radial_Fuel Паливо
+
+Admin_Tab_Items ПРЕДМЕТИ
+Admin_Tab_Vehicles ТРАНСПОРТ
+Admin_Tab_Camera КАМЕРА
+Admin_Tab_Commands КОМАНДИ
+Admin_Filter_Common ЗАГАЛЬНЕ
+Admin_Filter_Buildings БУДІВНИЦТВО
+Admin_Filter_Explosives ВИБУХІВКА
+Admin_Filter_Resources РЕСУРСИ
+Admin_Filter_Clothes ОДЯГ
+Admin_Filter_Tools ІНСТРУМЕНТИ
+Admin_Filter_Medical МЕДИЦИНА
+Admin_Filter_Weapons ЗБРОЯ
+Admin_Filter_Ammo НАБОЇ
+Admin_Filter_Other ІНШЕ
+Admin_Search Пошук предмета...
+Admin_Freecam_1 Фрікам і стеження (Shift+F1)
+Admin_Freecam_2 Стеження (Shift+F2)
+Admin_Freecam_3 Фіксація (Shift+F3)
+Admin_Freecam_4 Фокус (Shift+F4)
+Admin_Panorama Зберегти панораму
+Admin_Panorama_Saved Панораму збережено: {0}
+Admin_Panorama_Failed Панорама не збереглася, подробиці в лозі
+Admin_Command_Day День
+Admin_Command_Night Ніч
+Admin_Command_Clear Ясна погода
+Admin_Command_Storm Шторм
+Admin_Command_Voteday Голосування за день
+Admin_Command_Heal Вилікуватися
+Admin_Command_Teleport ТП на мітку
+Admin_Command_God Безсмертя

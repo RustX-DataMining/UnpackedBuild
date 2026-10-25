@@ -1,0 +1,16 @@
+Title ZOSTAŁEŚ WEZWANY NA KONTROLĘ<br><size=50%><color=#FFE1DB>WYJŚCIE Z SERWERA LUB ODMOWA = BAN</color></size>
+Timer_Caption NA KONTROLI
+Moderator Sprawdza: <color=#FFFFFF>{0}</color>
+Rules Zasada [5.4]: każdy gracz musi mieć Discord
+Step1 Wejdź na kanał głosowy «Oczekiwanie na kontrolę» na serwerze Discord RustX
+Step2 Albo podaj swój Discord, moderator sam do ciebie napisze
+Copy KOPIUJ LINK
+Copied SKOPIOWANO
+Placeholder Nazwa użytkownika Discord
+Send WYŚLIJ
+Status_Sending Wysyłamy...
+Status_Sent Moderator otrzymał twój Discord: {0}
+Footer_Blocked Ruch zablokowany do końca kontroli
+Footer_Chat Czat i głos działają
+
+Kick_Ban Ban po kontroli

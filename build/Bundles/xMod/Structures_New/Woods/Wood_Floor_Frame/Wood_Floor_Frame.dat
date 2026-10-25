@@ -1,0 +1,16 @@
+GUID f3b03aadd6b64f6aa63d69322ce67959
+Type Structure
+Useable Structure
+Construct Roof
+ID 7226
+
+Size_Z 0.45
+
+Health 250
+Range 8
+
+Requires_Pillars false
+
+Explosion 29
+Armor_Tier 0
+Fire_Vulnerable

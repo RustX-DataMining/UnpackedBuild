@@ -1,0 +1,16 @@
+GUID ed2fc95818a64f5c974792c30efc8d1c
+Type Structure
+Useable Structure
+Construct Wall
+ID 7219
+
+Size_Z 0.45
+
+Health 10
+Range 8
+
+Requires_Pillars false
+
+Explosion 29
+Vulnerable
+Fire_Vulnerable

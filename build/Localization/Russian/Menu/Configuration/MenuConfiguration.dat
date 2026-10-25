@@ -1,10 +1,18 @@
-Options_Button_Text Параметры
-Options_Button_Tooltip Параметры
-Graphics_Button_Text Графика
-Graphics_Button_Tooltip Графика
-Display_Button_Text Дисплей
-Display_Button_Tooltip Дисплей
-Controls_Button_Text Управление
-Controls_Button_Tooltip Управление
-Audio_Button_Text Звук
-Audio_Button_Tooltip Звук
+// Общее для экрана настроек: вкладки, сброс, ВКЛ/ВЫКЛ галочек (ToggleBlockUI), окно персонажа, окно подсказки без наведения (SettingHelp)
+Tab_Graphics ГРАФИКА
+Tab_Controls УПРАВЛЕНИЕ
+Tab_Display ЭКРАН
+Tab_Options ИГРА
+Tab_Audio ЗВУК
+Tab_Character ПЕРСОНАЖ
+Reset СБРОСИТЬ НАСТРОЙКИ
+Toggle_On ВКЛ
+Toggle_Off ВЫКЛ
+Help_Header Подсказка
+Help_Default Наведите курсор на настройку, и здесь появится описание того, что она меняет.
+Character_Name Имя персонажа
+Character_Face Тип лица
+Character_Hair Причёска
+Character_Skin_Color Цвет кожи
+Character_Hair_Color Цвет волос
+Character_Name_Placeholder Введите имя персонажа

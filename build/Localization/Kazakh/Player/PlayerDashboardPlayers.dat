@@ -1,0 +1,20 @@
+Remove_Friend ТОПТАН ШЫҒАРУ
+Report ШАҒЫМ
+Profile ПРОФИЛЬ
+Create_Group ТОП ҚҰРУ
+Group_Accept ҚОСЫЛУ
+Group_Deny БАС ТАРТУ
+Search_Placeholder Ойыншы іздеу...
+Search_Clear ІЗДЕУДІ ТАЗАЛАУ
+
+Delete_Group ТОПТЫ ЖОЮ - {0} [{1}]
+Leave_Group ТОПТАН ШЫҒУ - {0} [{1}]
+Add_Friend ТОПҚА ҚОСУ [{0}]
+Chat_Mute ЧАТ МУТЫ
+Chat_Unmute ӨШІР -> ЧАТ МУТЫ
+Voice_Mute ДАУЫС МУТЫ
+Voice_Unmute ӨШІР -> ДАУЫС МУТЫ
+Teleport_Combat ҰРЫСТА ҚОЛЖЕТІМСІЗ
+Teleport_Raid РЕЙДТЕ ҚОЛЖЕТІМСІЗ
+Teleport_Cooldown ТЕЛЕПОРТ {0}с
+Teleport_Request ТЕЛЕПОРТ СҰРАУ

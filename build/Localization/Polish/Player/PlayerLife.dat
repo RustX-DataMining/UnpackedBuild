@@ -1,0 +1,73 @@
+Space Za mało miejsca
+Vehicle_Enter_Unlocked Wsiądź do {0} [{1}] [Otwarte]
+Vehicle_Exit Wysiądź z pojazdu [Naciśnij {0}]
+Vehicle_Swap Przesiądź się [Naciśnij F1-F{0}]
+Safety Bezpiecznik [Naciśnij {0}]
+Light Wł/Wył latarkę [Naciśnij {0}]
+Laser Wł/Wył laser [Naciśnij {0}]
+Rangefinder Wł/Wył dalmierz [Naciśnij {0}]
+Door_Open Otwórz [Naciśnij {0}]
+Door_Close Zamknij [Naciśnij {0}]
+Locked Zamknięte
+Blocked Zablokowane
+Post Zabronione
+Roof Za mało słupów
+Wall Za mało słupów
+Corner Brak narożnika
+Ground Brak gruntu
+Doorway Brak futryny drzwi
+Garage Brak otworu garażowego
+Window Brak otworu okiennego
+Bed_On Zajmij łóżko [Naciśnij {0}]
+Bed_Off Zwolnij łóżko [Naciśnij {0}]
+Bed_Claimed Zajęte
+Bounds Za blisko strefy zakazanej
+Storage Otwórz schowek [Naciśnij {0}]
+Farm Zbierz [Naciśnij {0}]
+Fire_On Rozpal [Naciśnij {0}]
+Fire_Off Zgaś [Naciśnij {0}]
+Forage Zbierz [Naciśnij {0}]
+Generator_On Włącz generator [Naciśnij {0}]
+Generator_Off Wyłącz generator [Naciśnij {0}]
+Empty Pusta
+Full Pełna
+Moon_On Zaczęła się pełnia!
+Moon_Off Pełnia się skończyła!
+Safezone_On Jesteś w zielonej strefie!
+Safezone_Off Opuściłeś zieloną strefę!
+Deadzone_On Jesteś w strefie skażonej!
+Deadzone_Off Opuściłeś strefę skażoną!
+Wave_On Zombie wracają, trzymaj się!
+Wave_Off Zombie się wycofują, na razie...
+Power Za mało energii
+Use Użyj [Naciśnij {0}]
+Claim Teren zajęty
+Spawn Za blisko punktu odrodzenia graczy
+Volume_Water Zapas wody: {0}
+Busy Zajęty
+Trapdoor Brak sufitu z otworem
+Fuel Paliwo: {0}%
+Clean Czysta
+Salty Słona
+Dirty Brudna
+Safezone Za blisko bezpiecznej strefy
+Bayonet Bagnet [{0}]
+Vehicle_Locked Zamknięte [{0}]
+Vehicle_Unlocked Otwarte [{0}]
+Climb Wejdź [{0}]
+PlacementObstructedBy Zablokowane przez: {0}
+PlacementObstructedByGround Nie można postawić pod ziemią
+NotPaintable Nie da się pomalować
+Limited Przekroczono limit ilości
+
+Vote_Kick {0} [{1}] rozpoczął głosowanie przeciwko {2} [{3}]
+Vote_Pass Głosowanie zakończone powodzeniem!
+Vote_Fail Głosowanie zostało anulowane!
+
+List_Joint_0 , 
+List_Joint_1  i 
+
+Point Wskaż
+Mode_Global Globalny
+Mode_Local Lokalny
+Mode_Group Grupa

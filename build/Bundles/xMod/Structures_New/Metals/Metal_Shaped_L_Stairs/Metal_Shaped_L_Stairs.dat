@@ -1,0 +1,19 @@
+GUID c8b28cc8191949b28f0223d77faa85b4
+Type Structure
+Useable Structure
+Construct Roof
+ID 7275
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1000
+Range 8
+
+Armor_Tier 0
+
+Requires_Pillars false
+
+Explosion 36
+Has_Clip_Prefab false

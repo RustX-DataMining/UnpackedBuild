@@ -1,0 +1,25 @@
+Craft_Tab_Favorite ULUBIONE
+Craft_Tab_Common OGÓLNE
+Craft_Tab_Buildings BUDOWANIE
+Craft_Tab_Explosives WYBUCHOWE
+Craft_Tab_Resources SUROWCE
+Craft_Tab_Clothes UBRANIA
+Craft_Tab_Tools NARZĘDZIA
+Craft_Tab_Medical MEDYCYNA
+Craft_Tab_Weapons BROŃ
+Craft_Tab_Ammo AMUNICJA
+Craft_Tab_Other INNE
+
+Supply_Count Ilość
+Supply_Name Surowiec
+Supply_Total Razem
+Supply_Have Masz
+
+Search_Placeholder Szukaj przepisu...
+Search_Clear WYCZYŚĆ
+
+Select_Blueprint Wybierz przepis do podglądu
+Need_Workbench Potrzebny workbench #{0}
+Not_Studied Nieodkryte
+Create Stwórz
+Not_Enough Za mało materiałów

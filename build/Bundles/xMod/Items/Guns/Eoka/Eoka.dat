@@ -12,9 +12,14 @@ Size2_Z 0.85
 
 Magazine 5511
 
-Ammo_Types 1
+Ammo_Types 3
 Ammo_0_Stack 5562
-Ammo_0_Magazine 5511
+Ammo_0_Magazine 5514
+Ammo_1_Stack 5563
+Ammo_1_Magazine 5515
+Ammo_2_Stack 5564
+Ammo_2_Magazine 5516
+
 
 Ammo_Min 1
 Ammo_Max 1

@@ -8,4 +8,17 @@ Main_Menu_Music_Volume_Slider_Label Main Menu Music Volume [{0}]
 Ambient_Music_Volume_Slider_Label Ambient/In-Game Music Volume [{0}]
 Voice_Slider_Label Voice Chat Volume [{0}]
 Atmosphere_Volume_Slider_Label Atmosphere Volume [{0}]
-Music_Header Music
+Music_Header MUSIC
+
+// подсказки (HelpWindow справа) и заголовки разделов
+Sounds_Header SOUNDS
+Volume_Slider_Help Overall volume of all game sounds.
+Unfocused_Volume_Slider_Help Volume while the game is minimized or out of focus.
+Game_Volume_Slider_Help Game sounds: footsteps, shots, explosions, vehicles.
+Voice_Slider_Help Volume of other players' voices.
+Atmosphere_Volume_Slider_Help Ambient sounds: wind, rain, birds, forest noise.
+Music_Master_Volume_Slider_Help Overall volume of all music.
+Loading_Screen_Music_Volume_Slider_Help Music on the loading screen.
+Death_Music_Volume_Slider_Help Music after you die.
+Main_Menu_Music_Volume_Slider_Help Music in the main menu.
+Ambient_Music_Volume_Slider_Help Background music during play.

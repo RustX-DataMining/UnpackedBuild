@@ -1,0 +1,25 @@
+Craft_Tab_Favorite ОБРАНЕ
+Craft_Tab_Common ЗАГАЛЬНЕ
+Craft_Tab_Buildings БУДІВНИЦТВО
+Craft_Tab_Explosives ВИБУХІВКА
+Craft_Tab_Resources РЕСУРСИ
+Craft_Tab_Clothes ОДЯГ
+Craft_Tab_Tools ІНСТРУМЕНТИ
+Craft_Tab_Medical МЕДИЦИНА
+Craft_Tab_Weapons ЗБРОЯ
+Craft_Tab_Ammo НАБОЇ
+Craft_Tab_Other ІНШЕ
+
+Supply_Count Кількість
+Supply_Name Ресурс
+Supply_Total Разом
+Supply_Have Є
+
+Search_Placeholder Пошук рецепта...
+Search_Clear ОЧИСТИТИ
+
+Select_Blueprint Виберіть рецепт для перегляду
+Need_Workbench Потрібен верстак #{0}
+Not_Studied Не вивчено
+Create Створити
+Not_Enough Недостатньо матеріалів

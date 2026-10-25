@@ -1,0 +1,9 @@
+GUID d89fb6884cd74ea28c421e411b05718d
+Type Effect
+ID 41421
+
+Lifetime 3
+Lifetime_Spread 0
+Relevant_Distance 256
+Randomize_Rotation true
+Preload 2

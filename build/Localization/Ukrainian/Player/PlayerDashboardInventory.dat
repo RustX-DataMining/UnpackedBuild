@@ -1,0 +1,60 @@
+Inventory_Header Інвентар
+Inventory_Drop_All ВИКЛАСТИ ВСЕ
+Item_Equip ВЗЯТИ
+Item_Unload РОЗРЯДИТИ
+Item_Drop ВИКИНУТИ
+Item_Strip ЗНЯТИ ВСЕ
+FastCraft_Header Швидкий крафт
+Area_Header Поруч
+Take_All ВЗЯТИ ВСЕ
+Storage_Header Сховище
+Control_Header Керування
+Turn_On Увімкнути
+Turn_Off Вимкнути
+
+Cupboard_Header Керування утриманням бази
+Cupboard_Info Підтримуйте потрібну кількість ресурсів, щоб запобігти руйнуванню бази з часом.\nЯкщо в шафі не вистачає ресурсів, база почне руйнуватися і зрештою буде знищена.
+Cupboard_Requires Витрата за 24 години:
+Cupboard_Protected Захист забезпечено на: {0}
+Cupboard_Decay Ваша база гниє
+Time_Days {0}д
+Time_Hours {0}г
+Time_Minutes {0}хв
+Time_Seconds {0}с
+
+Research_Header Дослідницький стіл
+Research_Info Використовуй дослідницький стіл, щоб дізнаватися, як створювати нові предмети зі скрапу
+Research_Item Предмет для вивчення
+Research_Scrap_Header Скрап для вивчення
+Research_Scrap_Text Скрап потрібен для створення рецепта виробу, покладіть його сюди.
+Research_Cost_Header Ціна вивчення
+Research_Cost_Text Скільки металобрухту вам знадобиться для виготовлення креслення цього виробу
+Research_Start почати вивчення
+Research_Studied уже вивчено
+Research_Workbench верстак рівень {0}
+
+Furnace_Fuel Паливо
+Furnace_Input Ресурси
+Furnace_Output Результат
+Recycler_Input Вхід
+Recycler_Output Вихід
+Recycler_Info Покладіть предмети для переробки. Увімкніть пристрій, щоб почати процес
+Sleeper_Clothes Одяг
+Sleeper_Belt Пояс
+
+Vending_Item Предмет
+Vending_Price Ціна
+Vending_Buy КУПИТИ
+Vending_Header_Player Магазин гравця
+Vending_Header_Clothing Магазин спорядження
+Vending_Header_Resources Магазин ресурсів
+Vending_Header_Components Магазин компонентів
+Vending_Header_Barricades Магазин будівель
+Vending_Header_Tools Магазин інструментів
+Vending_Header_Weapons Збройовий магазин
+
+Workbench_Learned ВИВЧЕНО
+Workbench_Learn ВИВЧИТИ
+Workbench_Close ЗАКРИТИ
+Workbench_No_Path НЕМАЄ ШЛЯХУ
+Workbench_No_Scrap НЕ ВИСТАЧАЄ

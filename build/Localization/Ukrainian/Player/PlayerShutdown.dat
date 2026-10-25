@@ -1,0 +1,15 @@
+Restart_Label Рестарт через
+Wipe_Label Вайп через
+Update_Label Оновлення через
+
+Restart_Cancelled Рестарт скасовано
+Wipe_Cancelled Вайп скасовано
+Update_Cancelled Оновлення скасовано
+
+Restart_Chat Рестарт сервера через {0}
+Wipe_Chat Вайп сервера через {0}
+Update_Chat Оновлення сервера через {0}
+
+Restart_Chat_Cancelled Рестарт сервера скасовано
+Wipe_Chat_Cancelled Вайп сервера скасовано
+Update_Chat_Cancelled Оновлення сервера скасовано
