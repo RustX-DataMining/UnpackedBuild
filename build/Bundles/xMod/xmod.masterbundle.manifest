@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3975879799
+CRC: 865232815
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0a9310b0beebdce90e5122ba1c98e0a4
+    Hash: e8251d62fcf14fc1eb56de0bcb0d7c1d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4cfa00ac1d7c3120baa4c684320aab2b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0a9310b0beebdce90e5122ba1c98e0a4
+    Hash: e8251d62fcf14fc1eb56de0bcb0d7c1d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -105,10 +105,12 @@ Assets:
 - Assets/xMod/Items/Clothes/Longsleeve/Material.mat
 - Assets/xMod/Vehicles/MLRS/Clip.prefab
 - Assets/xMod/Items/Guns/Eoka/Reload.wav
+- Assets/xMod/Items/Barricades/Flame_Turret/fire_start.wav
 - Assets/xMod/Skins/sponsors/Chudik/Gun/Rocket_Launcher/Skin_Primary.mat
 - Assets/xMod/Items/Barricades/Hrom/Use.wav
 - Assets/xMod/Items/Food/Corn/Item.prefab
 - Assets/xMod/Items/Clothes/Jagger_Pants/Material.mat
+- Assets/xMod/Items/Barricades/Loot_box/Clip.prefab
 - Assets/xMod/Items/Guns/Bolt/Animations.prefab
 - Assets/xMod/Items/Magazine/Waterpipe_Shell_Handmade/Item.prefab
 - Assets/xMod/Structures/Metals/Metal_Shaped_L_Stairs/Use.mp3
@@ -145,6 +147,7 @@ Assets:
 - Assets/xMod/Structures/Stones/Stone_Wall_Half/Animations.prefab
 - Assets/xMod/Structures/Woods/Wood_Shaped_U_Stairs/Animations.prefab
 - Assets/xMod/Items/Clothes/Metal_Mask/Animations.prefab
+- Assets/xMod/Effects/CodeLockShock/CodeLockShock.mat
 - Assets/xMod/Items/Clothes/Burlap_Pants/Material.mat
 - Assets/xMod/Items/Barricades/Vendingmachine/Animations.prefab
 - Assets/xMod/Skins/Thompson/NewYear/Override_Mesh_0.prefab
@@ -201,9 +204,10 @@ Assets:
 - Assets/xMod/Items/Barricades/Land_Mine/Item.prefab
 - Assets/xMod/Structures/Twigs/Twig_Wall_Half/Structure.prefab
 - Assets/xMod/Items/Barricades/GunTrap/Item.prefab
-- Assets/xMod/Items/Food/Bota_Bag/Animations.prefab
+- Assets/xMod/Items/Barricades/Flame_Turret/fire_stop.wav
 - Assets/xMod/Items/Magazine/Bolt_Magazine/Item.prefab
 - Assets/xMod/Items/Barricades/WorkBench_Level2/Barricade.prefab
+- Assets/xMod/Items/Food/Bota_Bag/Animations.prefab
 - Assets/xMod/Items/Barricades/Door_Metal/Nav.prefab
 - Assets/xMod/Structures/Stones/Stone_Shaped_L_Stairs/Use.wav
 - Assets/xMod/Effects/NewEffects/F1/Effect.prefab
@@ -251,11 +255,12 @@ Assets:
 - Assets/xMod/Items/Barricades/Snap_Trap/Use.wav
 - Assets/xMod/Items/Guns/Thompson/Reload.wav
 - Assets/xMod/Structures/Metals/Metal_Floor_Triangle/Item.prefab
-- Assets/xMod/Skins/MP5/Sand_MP5/Override_Mesh_0.prefab
+- Assets/xMod/Items/Barricades/Flame_Turret/Animations.prefab
 - Assets/xMod/Structures/Twigs/Twig_Roof_Triangle/Animations.prefab
 - Assets/xMod/Skins/CustomSMG/Camouflage/SMG.png
-- Assets/xMod/Structures/Metals/Metal_Foundation/Structure.prefab
+- Assets/xMod/Skins/MP5/Sand_MP5/Override_Mesh_0.prefab
 - Assets/xMod/Structures/Woods/Wood_Wall_Half/Animations.prefab
+- Assets/xMod/Structures/Metals/Metal_Foundation/Structure.prefab
 - Assets/xMod/Structures/Armoreds/Armored_Floor_Triangle/Use.wav
 - Assets/xMod/Structures/Stones/Stone_Stairs_Spiral_Triangle/Animations.prefab
 - Assets/xMod/Structures/Twigs/Twig_Floor_Frame_Triangle/Animations.prefab
@@ -283,6 +288,7 @@ Assets:
 - Assets/xMod/Structures/Armoreds/Armored_Wall_Half/Animations.prefab
 - Assets/xMod/Resources/Crate_Elite/Item.prefab
 - Assets/xMod/Resources/RoadsideSign_2/Stump_Clip.prefab
+- Assets/xMod/Items/Barricades/Loot_box/Nav.prefab
 - Assets/xMod/Items/Melee/Pickaxe/Use.wav
 - Assets/xMod/Items/Tools/Rod_Fishing/Animations.prefab
 - Assets/xMod/Items/Clothes/Burlap_Shirt/Material.mat
@@ -302,6 +308,7 @@ Assets:
 - Assets/xMod/Structures/Metals/Metal_Doorway/Use.wav
 - Assets/xMod/Items/Barricades/Shutters_Wood/Hinge.wav
 - Assets/xMod/Items/Food/Mushroom/Use.wav
+- Assets/xMod/Items/Barricades/Flame_Turret/fire_loop.wav
 - Assets/xMod/Items/Clothes/Jagger_Vest/Vest.prefab
 - Assets/xMod/Skins/CustomSMG/Camouflage/Skin_Secondary_5520.mat
 - Assets/xMod/Items/Magazine/Custom_SMG_Magazine_HV/Magazine.prefab
@@ -409,6 +416,7 @@ Assets:
 - Assets/xMod/Items/Barricades/Door_Metal/Clip.prefab
 - Assets/xMod/Items/Magazine/Bolt_Magazine_Explosive/Item.prefab
 - Assets/xMod/Items/Clothes/Headwrap/Animations.prefab
+- Assets/xMod/Items/Barricades/Flame_Turret/Shot.prefab
 - Assets/xMod/Items/Clothes/Burlap_Pants/Item.prefab
 - Assets/xMod/Resources/Crate_Common/Barricade.prefab
 - Assets/xMod/Effects/NewEffects/5.56_explosive/explosive-ammo-distant.wav
@@ -508,15 +516,17 @@ Assets:
 - Assets/xMod/Structures/Stones/Stone_Wall_Low/Nav.prefab
 - Assets/xMod/Skins/Barricades/Case/Neon_Sulfur/LOD_0/Part_0.prefab
 - Assets/xMod/Structures/Twigs/Twig_Foundation/Structure.prefab
-- Assets/xMod/Skins/Barricades/Case/Clown/Skin_Primary.mat
+- Assets/xMod/Items/Barricades/Flame_Turret/Item.prefab
 - Assets/xMod/Items/Barricades/Quarry_Stone/Item.prefab
 - Assets/xMod/Effects/NewEffects/5.56_explosive/Smoke.png
 - Assets/xMod/Items/Melee/Pickaxe_Stone/Animations.prefab
 - Assets/xMod/Skins/L96/Blakout/Override_Mesh_0.prefab
-- Assets/xMod/Structures/Metals/Metal_Foundation_Triangle/Animations.prefab
+- Assets/xMod/Skins/Barricades/Case/Clown/Skin_Primary.mat
+- Assets/xMod/Items/Barricades/Flame_Turret/Barricade.prefab
 - Assets/xMod/Items/Magazine/Berdan_Magazine/Magazine.prefab
-- Assets/xMod/Vehicles/MLRS/mlrs_ready_to_fire.wav
+- Assets/xMod/Structures/Metals/Metal_Foundation_Triangle/Animations.prefab
 - Assets/xMod/Skins/Tools/Rock/NewYear/Skin_Primary.mat
+- Assets/xMod/Vehicles/MLRS/mlrs_ready_to_fire.wav
 - Assets/xMod/Items/Guns/Grenade_Launcher/Reload.wav
 - Assets/xMod/Items/Melee/Spear_Stone/Use.wav
 - Assets/xMod/Items/Tactical/Scope_8x/Sight.prefab
@@ -602,11 +612,11 @@ Assets:
 - Assets/xMod/Resources/RoadsideSign_8/Stump_Clip.prefab
 - Assets/xMod/Items/Barricades/Door_Wood/Animations.prefab
 - Assets/xMod/Items/Clothes/Hide_Vest/Animations.prefab
+- Assets/xMod/Skins/Barricades/Door_Garage/Skull/LOD_0/Part_1.prefab
 - Assets/xMod/Skins/Clothes/MetalChestplate/Camouflage/Skin_Primary.mat
 - Assets/xMod/Items/Barricades/Case/Barricade.prefab
-- Assets/xMod/Skins/Barricades/Door_Garage/Skull/LOD_0/Part_1.prefab
-- Assets/xMod/Structures/Twigs/Twig_Wall_Low/Item.prefab
 - Assets/xMod/Structures/Woods/Wood_Floor_Triangle/Animations.prefab
+- Assets/xMod/Structures/Twigs/Twig_Wall_Low/Item.prefab
 - Assets/xMod/Items/Guns/Eoka/Animations.prefab
 - Assets/xMod/Items/Magazine/Rocket/Item.prefab
 - Assets/xMod/Structures/Stones/Stone_Floor_Triangle/Structure.prefab
@@ -618,6 +628,7 @@ Assets:
 - Assets/xMod/Effects/NewEffects/Codlock_F/Effect.prefab
 - Assets/xMod/Skins/LR300/NewYear/Skin_Primary.mat
 - Assets/xMod/Items/Barricades/Shutters_Armored/Hinge.mp3
+- Assets/xMod/Items/Barricades/Loot_box/Item.prefab
 - Assets/xMod/Effects/NewEffects/Sachel/Smoke.png
 - Assets/xMod/Skins/sponsors/Chudik/Clothes/Hoodie/Pink_Hoodie/Skin_Attachment.mat
 - Assets/xMod/Structures/Stones/Stone_Stairs_Spiral_Triangle/Item.prefab
@@ -690,6 +701,7 @@ Assets:
 - Assets/xMod/Skins/Barricades/Door_Garage/Easter_Bunny_Girl/Skin_Primary.mat
 - Assets/xMod/Structures/Armoreds/Armored_Wall_Half/Nav.prefab
 - Assets/xMod/Items/Clothes/Coffee_Helmet/Hat.prefab
+- Assets/xMod/Items/Barricades/Loot_box/Animations.prefab
 - Assets/xMod/Items/Guns/Waterpipe/Item.prefab
 - Assets/xMod/Skins/AK47/Cosmo/Skin_Primary.mat
 - Assets/xMod/Items/Barricades/Snap_Trap/Item.prefab
@@ -744,13 +756,14 @@ Assets:
 - Assets/xMod/Items/Melee/Pickaxe/Item.prefab
 - Assets/xMod/Resources/Crate_Chinook_Closed/Item.prefab
 - Assets/xMod/Items/Barricades/Door_Garage/Item.prefab
-- Assets/xMod/Structures/Woods/Wood_Roof/Nav.prefab
+- Assets/xMod/Items/Barricades/Flame_Turret/Flame_Fireball.png
 - Assets/xMod/Structures/Metals/Metal_Ramp/Nav.prefab
 - Assets/xMod/Items/Barricades/Grids_Window_Wood/Barricade.prefab
 - Assets/xMod/Structures/Metals/Metal_Doorway/Item.prefab
 - Assets/xMod/Structures/Stones/Stone_Shaped_L_Stairs/Nav.prefab
 - Assets/xMod/Items/Tools/Keycard_Red/Item.prefab
 - Assets/xMod/Structures/Metals/Metal_Roof_Triangle/Structure.prefab
+- Assets/xMod/Structures/Woods/Wood_Roof/Nav.prefab
 - Assets/xMod/Items/Barricades/Door_Metal/Barricade.prefab
 - Assets/xMod/Skins/Clothes/MetalChestplate/Glory/Skin_Primary.mat
 - Assets/xMod/Items/Throwable/Satchel_Charge/Fire.mp3
@@ -833,14 +846,15 @@ Assets:
 - Assets/xMod/Items/Clothes/Shirt/Item.png
 - Assets/xMod/Items/Guns/Trap_ShotGun/Item.prefab
 - Assets/xMod/Resources/Crate_Chinook_Closed/Animations.prefab
+- Assets/xMod/Items/Barricades/Flame_Turret/Nav.prefab
 - Assets/xMod/Items/Guns/HMLMG/Shoot.wav
-- Assets/xMod/Structures/Metals/Metal_Floor_Frame/Item.prefab
 - Assets/xMod/Structures/Woods/Wood_Floor_Frame_Triangle/Nav.prefab
 - Assets/xMod/Structures/Armoreds/Armored_Wall_Half/Use.mp3
 - Assets/xMod/Items/Magazine/Dubble_Barrel_Shell_Handmade/Magazine.prefab
 - Assets/xMod/Skins/Barricades/Door_Garage/Megaphone_Girl/Skin_Primary.mat
-- Assets/xMod/Structures/Stones/Stone_Floor_Frame_Triangle/Item.prefab
+- Assets/xMod/Structures/Metals/Metal_Floor_Frame/Item.prefab
 - Assets/xMod/Items/Guns/Crossbow/Animations.prefab
+- Assets/xMod/Structures/Stones/Stone_Floor_Frame_Triangle/Item.prefab
 - Assets/xMod/Skins/Clothes/CoffeHelmet/NewYearSnowman/Coffee_Helmet_Sneg_NewYear.fbx
 - Assets/xMod/Items/Magazine/M249_Magazine_Explosive/Magazine.prefab
 - Assets/xMod/Items/Clothes/Poncho/Item.prefab
@@ -942,9 +956,10 @@ Assets:
 - Assets/xMod/Skins/python/Devourer/Skin_Secondary_5529.mat
 - Assets/xMod/Effects/NewEffects/C4/c4-explosion-1.wav
 - Assets/xMod/Items/Resource/Metal_Ore/Item.prefab
+- Assets/xMod/Effects/CodeLockShock/Shock.wav
 - Assets/xMod/Items/Barricades/Sleeper_Dead/Barricade.prefab
-- Assets/xMod/Skins/AK47/NewYear/Skin_Primary.mat
 - Assets/xMod/Structures/Twigs/Twig_Stairs_Spiral/Animations.prefab
+- Assets/xMod/Skins/AK47/NewYear/Skin_Primary.mat
 - Assets/xMod/Structures/Armoreds/Armored_Wall_Frame/Animations.prefab
 - Assets/xMod/Skins/Clothes/Hoodie/Ninja/Skin_Attachment.mat
 - Assets/xMod/Items/Barricades/GunTrap/Clip.prefab
@@ -1369,6 +1384,7 @@ Assets:
 - Assets/xMod/Items/Magazine/Arrow_Fire/Magazine.prefab
 - Assets/xMod/Structures/Armoreds/Armored_Ramp/Nav.prefab
 - Assets/xMod/Structures/Twigs/Twig_Floor/Nav.prefab
+- Assets/xMod/Items/Barricades/Loot_box/Barricade.prefab
 - Assets/xMod/Structures/Woods/Wood_Shaped_L_Stairs/Animations.prefab
 - Assets/xMod/Structures/Woods/Wood_Stairs_Spiral_Triangle/Item.prefab
 - Assets/xMod/Resources/RoadsideSign_1/Resource.prefab
@@ -1828,6 +1844,7 @@ Assets:
 - Assets/xMod/Structures/Stones/Stone_Wall/Use.wav
 - Assets/xMod/Items/Guns/Crossbow/Reload.wav
 - Assets/xMod/Skins/Barricades/Door_Garage/Molten_Shutter/LOD_0/Part_1.prefab
+- Assets/xMod/Items/Barricades/Loot_box/Use.wav
 - Assets/xMod/Items/Magazine/MP5_Magazine_HV/Magazine.prefab
 - Assets/xMod/Skins/AK47/Camouflage/AK47_Skin_Camouflage.png
 - Assets/xMod/Structures/Armoreds/Armored_Wall_Half/Structure.prefab
@@ -1850,6 +1867,7 @@ Assets:
 - Assets/xMod/Items/Tools/Mallet/Use.wav
 - Assets/xMod/Effects/Furnace_Effect/Effect.prefab
 - Assets/xMod/Items/Magazine/Beretta_Magazine_HV/Magazine.prefab
+- Assets/xMod/Items/Barricades/Flame_Turret/Clip.prefab
 - Assets/xMod/Items/Clothes/Poncho/Vest.prefab
 - Assets/xMod/Structures/Woods/Wood_Floor_Frame_Triangle/Item.prefab
 - Assets/xMod/Skins/Clothes/Ace/Skin_Primary.mat
@@ -1953,9 +1971,11 @@ Assets:
 - Assets/xMod/Resources/Barrel_Disel/Resource.prefab
 - Assets/xMod/Structures/Metals/Metal_Foundation_Triangle/Nav.prefab
 - Assets/xMod/Items/Barricades/Furnace_Big/Nav.prefab
+- Assets/xMod/Effects/CodeLockShock/Shock_Arc.png
 - Assets/xMod/Items/Medical/Bandage/Item.prefab
 - Assets/xMod/Skins/Barricades/Bag_Sleeping/Obsidian/Skin_Primary.mat
 - Assets/xMod/Items/Barricades/Door_Armored/Nav.prefab
+- Assets/xMod/Items/Barricades/Flame_Turret/Use.wav
 - Assets/xMod/Items/Clothes/Road_Sign_Chestplate/Vest.prefab
 - Assets/xMod/Items/Barricades/Quarry_Sulfur/Item.prefab
 - Assets/xMod/Skins/Barricades/Door_Garage/Seal_Face/LOD_0/Part_1.prefab
@@ -1990,6 +2010,7 @@ Assets:
 - Assets/xMod/Structures/Stones/Stone_Wall_Frame/Use.wav
 - Assets/xMod/Items/Barricades/GunTrap/Shot.wav
 - Assets/xMod/Items/Barricades/Generator/Barricade.prefab
+- Assets/xMod/Effects/CodeLockShock/Effect.prefab
 - Assets/xMod/Effects/NewEffects/Helicopter_explosive/Smoke.png
 - Assets/xMod/Items/Clothes/Wood_Chestplate/Item.prefab
 - Assets/xMod/Items/Barricades/Grids_Window_Metal/Use.wav
@@ -2080,6 +2101,7 @@ Assets:
 - Assets/xMod/Structures/Woods/Wood_Wall_Low/Animations.prefab
 - Assets/xMod/Skins/Barricades/Case/Neon_Boom/Skin_Primary.mat
 - Assets/xMod/Items/Guns/Grenade_Launcher/Aim.wav
+- Assets/xMod/Items/Barricades/Flame_Turret/Shot_Flame.mat
 - Assets/xMod/Structures/Stones/Stone_Foundation/Item.prefab
 - Assets/xMod/Items/Barricades/Door_Wood/Nav.prefab
 - Assets/xMod/Resources/Crate_Tool/Barricade.prefab

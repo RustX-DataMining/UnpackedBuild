@@ -1,0 +1,21 @@
+GUID c3e7c03299b343d7b2361a1e661a7e7d
+Type Magazine
+Rarity Uncommon
+ID 43119
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 2
+Count_Min 2
+Count_Max 2
+
+Calibers 1
+Caliber_0 5410
+
+Pellets 6
+Tracer 48
+Spread 0.7
+Delete_Empty
+Range 5

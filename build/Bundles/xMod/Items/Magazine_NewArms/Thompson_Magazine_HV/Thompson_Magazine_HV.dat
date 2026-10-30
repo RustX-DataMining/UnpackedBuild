@@ -1,0 +1,19 @@
+GUID ada239ab619e488aa05d122d8e1d978e
+Type Magazine
+Rarity Uncommon
+ID 43154
+
+Size_X 2
+Size_Y 2
+Size_Z 0.225
+
+Amount 20
+Count_Min 5
+Count_Max 20
+
+Calibers 1
+Caliber_0 5415
+
+Tracer 48
+Spread 0.8
+Range 40

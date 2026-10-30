@@ -1,0 +1,17 @@
+GUID 1642d1f637ed4267b47c3b087867aee4
+Type Magazine
+Rarity Uncommon
+ID 43121
+
+Size_X 2
+Size_Y 2
+Size_Z 0.275
+
+Amount 18
+Count_Min 4
+Count_Max 18
+
+Calibers 1
+Caliber_0 40868
+
+Tracer 48

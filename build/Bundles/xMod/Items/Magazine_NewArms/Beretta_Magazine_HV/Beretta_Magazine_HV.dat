@@ -1,0 +1,21 @@
+GUID c2366994f2704ed3a4d0b6155a7a3ef6
+Type Magazine
+Rarity Uncommon
+ID 43110
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 15
+Count_Min 5
+Count_Max 15
+
+Calibers 1
+Caliber_0 5408
+
+Tracer 48
+
+Paintable
+Spread 0.8
+Range 40

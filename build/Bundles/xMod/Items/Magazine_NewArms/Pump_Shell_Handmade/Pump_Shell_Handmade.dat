@@ -1,0 +1,21 @@
+GUID ba2c5f3658ef4a47b41875d8587c5181
+Type Magazine
+Rarity Uncommon
+ID 43145
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 6
+Count_Min 2
+Count_Max 6
+
+Calibers 2
+Caliber_0 5411
+Caliber_1 5413
+
+Pellets 6
+Tracer 48
+Spread 1.15
+Delete_Empty

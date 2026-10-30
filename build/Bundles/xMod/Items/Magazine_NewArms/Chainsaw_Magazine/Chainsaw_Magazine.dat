@@ -1,0 +1,15 @@
+GUID 97c5942b5ab0466bb5c1598e79e57894
+Type Magazine
+Rarity Uncommon
+ID 43114
+
+Size_X 2
+Size_Y 2
+Size_Z 0.18
+
+Amount 100
+Count_Min 20
+Count_Max 100
+
+Calibers 1
+Caliber_0 5606

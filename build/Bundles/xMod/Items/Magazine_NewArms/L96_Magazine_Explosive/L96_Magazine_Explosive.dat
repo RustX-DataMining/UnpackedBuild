@@ -1,0 +1,32 @@
+GUID 61bac7e75feb40a6ae09b73af8687953
+Type Magazine
+Rarity Uncommon
+ID 43128
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 5
+Count_Min 2
+Count_Max 5
+
+Calibers 1
+Caliber_0 5421
+
+Paintable
+
+Tracer 51
+Spread 1.15
+
+Range 4
+Player_Damage 5
+Zombie_Damage 10
+Animal_Damage 10
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 15
+Explosion 53
+Explosive

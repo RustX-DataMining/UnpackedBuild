@@ -1,0 +1,19 @@
+GUID c568691e622a44fe8ff8fb9ef5b6f62b
+Type Magazine
+Rarity Uncommon
+ID 43106
+
+Size_X 2
+Size_Y 2
+Size_Z 0.15
+
+Amount 16
+Count_Min 2
+Count_Max 6
+
+Calibers 1
+Caliber_0 5417
+
+Tracer 48
+
+Paintable
