@@ -5,6 +5,19 @@ Life_Combat Бойовий блок
 Life_Raid Рейд-блок
 Life_Fuel Паливо
 Life_Durability Міцність
+Life_Upkeep Утримання
+Upkeep_Days {0} д.
+Upkeep_Hours {0} год.
+Upkeep_Minutes {0} хв.
+Status_Safezone Безпечна зона
+Status_NoWater Зневоднення
+Status_NoFood Голод
+Status_Decay Будівля руйнується
+Status_Build Будівництво дозволено
+Status_NoBuild Будівництво заборонено
+Status_Workbench1 Верстак першого рівня
+Status_Workbench2 Верстак другого рівня
+Status_Workbench3 Верстак третього рівня
 Life_Block_Seconds {0} с
 Interactive_Fuel Паливо
 Interactive_Durability Міцність
@@ -48,7 +61,17 @@ Radial_Destroy Знести будівлю
 Radial_Rotate Повернути будівлю
 Radial_Ammo Набої
 Radial_Fuel Паливо
+Radial_CodeLock_Unlock ВІДІМКНУТИ ЗАМОК
+Radial_CodeLock_Lock ЗАМКНУТИ ЗАМОК
+Radial_CodeLock_Change_Guest ЗМІНИТИ ГОСТЬОВИЙ КОД
+Radial_CodeLock_Change_Main ЗМІНИТИ ОСНОВНИЙ КОД
+Radial_Door_Close ЗАЧИНИТИ ДВЕРІ
+Radial_Door_Open ВІДЧИНИТИ ДВЕРІ
+Radial_CodeLock_Enter ВВЕСТИ КОД
+Radial_CodeLock_Enter_Guest ВВЕСТИ ГОСТЬОВИЙ КОД
 
+Admin_Tab_Console КОНСОЛЬ
+Admin_Console_Stub Консоль у розробці
 Admin_Tab_Items ПРЕДМЕТИ
 Admin_Tab_Vehicles ТРАНСПОРТ
 Admin_Tab_Camera КАМЕРА
@@ -79,3 +102,9 @@ Admin_Command_Voteday Голосування за день
 Admin_Command_Heal Вилікуватися
 Admin_Command_Teleport ТП на мітку
 Admin_Command_God Безсмертя
+Radial_Cupboard_Deauthorize Деавторизуватися
+Radial_Cupboard_Deauthorize_Hint Видалити свою авторизацію в шафі
+Radial_Cupboard_Open Відкрити
+Radial_Cupboard_Open_Hint Відкрити шафу
+Radial_Cupboard_Clear Виписати всіх
+Radial_Cupboard_Clear_Hint Видалити авторизацію всіх гравців

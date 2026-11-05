@@ -274,7 +274,7 @@ Admin_Test_Desc Serwer testowy dla adminów
 Admin_Direct_Header Połączenie po IP
 Admin_Direct_Desc Wpisz IP i port serwera
 Admin_Local_Header Serwer lokalny
-Admin_Local_Desc Lokalny serwer do testów
+Admin_Local_Desc Tylko dla deweloperów, brak dostępu
 Admin_Youtube_Desc Serwer media do nagrań
 Admin_Connect_Button Połącz
 Admin_Connect_Bad_Address Wpisz adres w formacie ip:port.

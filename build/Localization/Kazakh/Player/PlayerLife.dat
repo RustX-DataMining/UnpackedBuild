@@ -57,6 +57,8 @@ Vehicle_Unlocked Ашық [{0}]
 Climb Өрмелеу [{0}]
 PlacementObstructedBy Бұғатталған: {0}
 PlacementObstructedByGround Жер астына орнатуға болмайды
+CannotConnectCupboards Шкафтары бар екі құрылысты біріктіруге болмайды
+RepairCooldown Жөндеуге болмайды, тағы {0} секунд күту керек
 NotPaintable Боялмайды
 Limited Сан шегінен асты
 
@@ -71,3 +73,4 @@ Point Көрсету
 Mode_Global Глобал
 Mode_Local Локал
 Mode_Group Топ
+Cupboard_Authorize Авторизациялану [{0} басыңыз]

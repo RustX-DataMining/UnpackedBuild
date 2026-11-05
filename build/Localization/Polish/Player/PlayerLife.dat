@@ -57,6 +57,8 @@ Vehicle_Unlocked Otwarte [{0}]
 Climb Wejdź [{0}]
 PlacementObstructedBy Zablokowane przez: {0}
 PlacementObstructedByGround Nie można postawić pod ziemią
+CannotConnectCupboards Nie można łączyć dwóch budynków z szafami
+RepairCooldown Nie można naprawić, poczekaj jeszcze {0} sekund
 NotPaintable Nie da się pomalować
 Limited Przekroczono limit ilości
 
@@ -71,3 +73,4 @@ Point Wskaż
 Mode_Global Globalny
 Mode_Local Lokalny
 Mode_Group Grupa
+Cupboard_Authorize Autoryzuj się [Naciśnij {0}]

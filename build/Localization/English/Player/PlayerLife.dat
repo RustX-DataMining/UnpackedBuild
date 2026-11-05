@@ -57,6 +57,8 @@ Vehicle_Unlocked Unlocked [{0}]
 Climb Climb [{0}]
 PlacementObstructedBy Blocked by: {0}
 PlacementObstructedByGround Cannot be placed underground
+CannotConnectCupboards Cannot connect two buildings with cupboards
+RepairCooldown Cannot repair, wait another {0} seconds
 NotPaintable Cannot be painted
 Limited Quantity limit reached
 Vote_Kick {0} [{1}] started a vote to kick {2} [{3}]
@@ -68,3 +70,4 @@ Point Point
 Mode_Global World
 Mode_Local Area
 Mode_Group Group
+Cupboard_Authorize Authorize [Press {0}]

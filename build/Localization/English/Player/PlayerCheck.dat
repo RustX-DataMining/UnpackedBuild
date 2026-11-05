@@ -11,6 +11,5 @@ Send SEND
 Status_Sending Sending...
 Status_Sent The moderator got your Discord: {0}
 Footer_Blocked Movement is blocked until the check is over
-Footer_Chat Chat and voice work
 
 Kick_Ban Banned after a check

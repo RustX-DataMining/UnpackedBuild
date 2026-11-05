@@ -274,7 +274,7 @@ Admin_Test_Desc Әкімшілерге арналған тест сервері
 Admin_Direct_Header IP арқылы қосылу
 Admin_Direct_Desc Сервердің IP мен портын енгізіңіз
 Admin_Local_Header Жергілікті сервер
-Admin_Local_Desc Тестке арналған жергілікті сервер
+Admin_Local_Desc Тек әзірлеушілерге, кіруге тыйым салынған
 Admin_Youtube_Desc Түсірілімге арналған медиа-сервер
 Admin_Connect_Button Қосылу
 Admin_Connect_Bad_Address Мекенжайды ip:port түрінде енгізіңіз.

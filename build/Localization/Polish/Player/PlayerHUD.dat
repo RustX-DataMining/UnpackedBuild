@@ -5,6 +5,19 @@ Life_Combat Combat block
 Life_Raid Raid block
 Life_Fuel Paliwo
 Life_Durability Wytrzymałość
+Life_Upkeep Utrzymanie
+Upkeep_Days {0} d.
+Upkeep_Hours {0} godz.
+Upkeep_Minutes {0} min.
+Status_Safezone Strefa bezpieczna
+Status_NoWater Odwodnienie
+Status_NoFood Głód
+Status_Decay Budynek niszczeje
+Status_Build Budowanie dozwolone
+Status_NoBuild Budowanie zablokowane
+Status_Workbench1 Stół warsztatowy poziom 1
+Status_Workbench2 Stół warsztatowy poziom 2
+Status_Workbench3 Stół warsztatowy poziom 3
 Life_Block_Seconds {0} s
 Interactive_Fuel Paliwo
 Interactive_Durability Wytrzymałość
@@ -48,7 +61,17 @@ Radial_Destroy Zburz budowlę
 Radial_Rotate Obróć budowlę
 Radial_Ammo Amunicja
 Radial_Fuel Paliwo
+Radial_CodeLock_Unlock ODBLOKUJ ZAMEK
+Radial_CodeLock_Lock ZABLOKUJ ZAMEK
+Radial_CodeLock_Change_Guest ZMIEŃ KOD GOŚCIA
+Radial_CodeLock_Change_Main ZMIEŃ KOD GŁÓWNY
+Radial_Door_Close ZAMKNIJ DRZWI
+Radial_Door_Open OTWÓRZ DRZWI
+Radial_CodeLock_Enter WPISZ KOD
+Radial_CodeLock_Enter_Guest WPISZ KOD GOŚCIA
 
+Admin_Tab_Console KONSOLA
+Admin_Console_Stub Konsola w przygotowaniu
 Admin_Tab_Items PRZEDMIOTY
 Admin_Tab_Vehicles POJAZDY
 Admin_Tab_Camera KAMERA
@@ -79,3 +102,9 @@ Admin_Command_Voteday Głosowanie za dniem
 Admin_Command_Heal Ulecz się
 Admin_Command_Teleport TP na znacznik
 Admin_Command_God Nieśmiertelność
+Radial_Cupboard_Deauthorize Wycofaj autoryzację
+Radial_Cupboard_Deauthorize_Hint Usuń swoją autoryzację w szafce
+Radial_Cupboard_Open Otwórz
+Radial_Cupboard_Open_Hint Otwórz szafkę
+Radial_Cupboard_Clear Usuń wszystkich
+Radial_Cupboard_Clear_Hint Usuń autoryzację wszystkich graczy

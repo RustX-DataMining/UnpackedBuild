@@ -1,8 +1,9 @@
 // Новость о текущей версии на главной меню. Только текущее обновление: к новой версии файл переписывается целиком.
 // Номер версии, дата выхода и id новости на сайте - в Version.json.
-Item_1 Autoryzacja w szafce
-Item_2 Zamki szyfrowe
-Item_3 Pułapka-strzelba
-Item_4 Wieżyczka z miotaczem
-Item_5 Worki z łupem
-Item_6 Broń wypada w nokaucie
+Item_1 Poprawki zamków szyfrowych i szafki
+Item_2 Naprawiono niszczenie budowli
+Item_3 Naprawiono wieżyczkę z miotaczem
+Item_4 Naprawiono zdejmowanie drzwi
+Item_5 Wygodniejsze menu radialne
+Item_6 Naprawiono głośność głosu
+Item_7 Nowy przepis na właz

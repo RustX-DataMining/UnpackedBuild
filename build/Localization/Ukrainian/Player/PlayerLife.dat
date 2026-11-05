@@ -57,6 +57,8 @@ Vehicle_Unlocked Відчинено [{0}]
 Climb Залізти [{0}]
 PlacementObstructedBy Заблоковано: {0}
 PlacementObstructedByGround Не можна встановити під землею
+CannotConnectCupboards Не можна з'єднувати дві будівлі зі шафами
+RepairCooldown Не можна ремонтувати, треба зачекати ще {0} секунд
 NotPaintable Не фарбується
 Limited Перевищено ліміт кількості
 
@@ -71,3 +73,4 @@ Point Вказати
 Mode_Global Глобал
 Mode_Local Локал
 Mode_Group Група
+Cupboard_Authorize Авторизуватися [Натисніть {0}]

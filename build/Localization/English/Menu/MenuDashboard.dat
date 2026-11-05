@@ -273,7 +273,7 @@ Admin_Test_Desc Test server for admins
 Admin_Direct_Header Connect by IP
 Admin_Direct_Desc Enter the server IP and port
 Admin_Local_Header Local server
-Admin_Local_Desc Local server for testing
+Admin_Local_Desc Developers only, access denied
 Admin_Youtube_Desc Media server for filming
 Admin_Connect_Button Connect
 Admin_Connect_Bad_Address Enter the address as ip:port.

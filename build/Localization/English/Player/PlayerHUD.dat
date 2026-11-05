@@ -5,6 +5,19 @@ Life_Combat Combat block
 Life_Raid Raid block
 Life_Fuel Fuel
 Life_Durability Durability
+Life_Upkeep Upkeep
+Upkeep_Days {0} d.
+Upkeep_Hours {0} h.
+Upkeep_Minutes {0} m.
+Status_Safezone Safe zone
+Status_NoWater Dehydrated
+Status_NoFood Starving
+Status_Decay Building decaying
+Status_Build Building allowed
+Status_NoBuild Building blocked
+Status_Workbench1 Workbench level 1
+Status_Workbench2 Workbench level 2
+Status_Workbench3 Workbench level 3
 Life_Block_Seconds {0} s
 Interactive_Fuel Fuel
 Interactive_Durability Durability
@@ -48,7 +61,17 @@ Radial_Destroy Demolish
 Radial_Rotate Rotate
 Radial_Ammo Ammo
 Radial_Fuel Fuel
+Radial_CodeLock_Unlock UNLOCK
+Radial_CodeLock_Lock LOCK
+Radial_CodeLock_Change_Guest CHANGE GUEST CODE
+Radial_CodeLock_Change_Main CHANGE MAIN CODE
+Radial_Door_Close CLOSE DOOR
+Radial_Door_Open OPEN DOOR
+Radial_CodeLock_Enter ENTER CODE
+Radial_CodeLock_Enter_Guest ENTER GUEST CODE
 
+Admin_Tab_Console CONSOLE
+Admin_Console_Stub Console is under construction
 Admin_Tab_Items ITEMS
 Admin_Tab_Vehicles VEHICLES
 Admin_Tab_Camera CAMERA
@@ -79,3 +102,9 @@ Admin_Command_Voteday Vote for day
 Admin_Command_Heal Heal
 Admin_Command_Teleport TP to marker
 Admin_Command_God God mode
+Radial_Cupboard_Deauthorize Deauthorize
+Radial_Cupboard_Deauthorize_Hint Remove your authorization from the cupboard
+Radial_Cupboard_Open Open
+Radial_Cupboard_Open_Hint Open the cupboard
+Radial_Cupboard_Clear Clear Authorized
+Radial_Cupboard_Clear_Hint Remove authorization from all players

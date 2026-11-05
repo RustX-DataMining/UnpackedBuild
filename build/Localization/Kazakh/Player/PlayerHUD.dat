@@ -5,6 +5,19 @@ Life_Combat Боевой блок
 Life_Raid Рейд блок
 Life_Fuel Жанармай
 Life_Durability Беріктік
+Life_Upkeep Күтім
+Upkeep_Days {0} к.
+Upkeep_Hours {0} сағ.
+Upkeep_Minutes {0} мин.
+Status_Safezone Қауіпсіз аймақ
+Status_NoWater Сусыздану
+Status_NoFood Аштық
+Status_Decay Ғимарат тозып жатыр
+Status_Build Құрылысқа рұқсат
+Status_NoBuild Құрылысқа тыйым салынған
+Status_Workbench1 1-деңгейлі жұмыс үстелі
+Status_Workbench2 2-деңгейлі жұмыс үстелі
+Status_Workbench3 3-деңгейлі жұмыс үстелі
 Life_Block_Seconds {0} сек
 Interactive_Fuel Жанармай
 Interactive_Durability Беріктік
@@ -48,7 +61,17 @@ Radial_Destroy Құрылысты бұзу
 Radial_Rotate Құрылысты бұру
 Radial_Ammo Оқтар
 Radial_Fuel Жанармай
+Radial_CodeLock_Unlock ҚҰЛЫПТЫ АШУ
+Radial_CodeLock_Lock ҚҰЛЫПТАУ
+Radial_CodeLock_Change_Guest ҚОНАҚ КОДЫН ӨЗГЕРТУ
+Radial_CodeLock_Change_Main НЕГІЗГІ КОДТЫ ӨЗГЕРТУ
+Radial_Door_Close ЕСІКТІ ЖАБУ
+Radial_Door_Open ЕСІКТІ АШУ
+Radial_CodeLock_Enter КОДТЫ ЕНГІЗУ
+Radial_CodeLock_Enter_Guest ҚОНАҚ КОДЫН ЕНГІЗУ
 
+Admin_Tab_Console КОНСОЛЬ
+Admin_Console_Stub Консоль әзірленуде
 Admin_Tab_Items ЗАТТАР
 Admin_Tab_Vehicles КӨЛІК
 Admin_Tab_Camera КАМЕРА
@@ -79,3 +102,9 @@ Admin_Command_Voteday Күн үшін дауыс беру
 Admin_Command_Heal Емделу
 Admin_Command_Teleport Белгіге ТП
 Admin_Command_God Өлместік
+Radial_Cupboard_Deauthorize Авторизациядан шығу
+Radial_Cupboard_Deauthorize_Hint Шкафтағы авторизацияңызды алып тастау
+Radial_Cupboard_Open Ашу
+Radial_Cupboard_Open_Hint Шкафты ашу
+Radial_Cupboard_Clear Барлығын шығару
+Radial_Cupboard_Clear_Hint Барлық ойыншының авторизациясын алып тастау
