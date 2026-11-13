@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2927751036
+CRC: 1776967844
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 34a1e2feb7507a88b64fd3931a19879b
+    Hash: b0eee1fa5f947bdac9c7efd6dd01281a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4cfa00ac1d7c3120baa4c684320aab2b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 34a1e2feb7507a88b64fd3931a19879b
+    Hash: b0eee1fa5f947bdac9c7efd6dd01281a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -298,6 +298,7 @@ Assets:
 - Assets/xMod/Items/Throwable/Beancan_Grenade/Item.prefab
 - Assets/xMod/Items/Barricades/High_Frame_Stone/Item.prefab
 - Assets/xMod/Effects/NewEffects/RocketSpeed/Smoke.png
+- Assets/xMod/Items/Barricades/Wood_Barricade_Cover/Clip.prefab
 - Assets/xMod/Effects/NewEffects/C4/Smoke.mat
 - Assets/xMod/Skins/Clothes/Hoodie/NewYear/Skin_Attachment.mat
 - Assets/xMod/Skins/Clothes/MetalChestplate/Ninja/Skin_Primary.mat
@@ -385,8 +386,9 @@ Assets:
 - Assets/xMod/Items/Barricades/Door_Garage/Barricade.prefab
 - Assets/xMod/Skins/Glock/Gradient/Override_Mesh_0.prefab
 - Assets/xMod/Items/Barricades/Shutters_Wood/Animations.prefab
-- Assets/xMod/Structures/Armoreds/Armored_Foundation_Triangle/Use.wav
+- Assets/xMod/Items/Barricades/Wood_Barricade_Cover/Barricade.prefab
 - Assets/xMod/Items/Barricades/Ladder/Clip.prefab
+- Assets/xMod/Structures/Armoreds/Armored_Foundation_Triangle/Use.wav
 - Assets/xMod/Items/Clothes/Jagger_Helmet/Item.prefab
 - Assets/xMod/Items/Barricades/Bed/Clip.prefab
 - Assets/xMod/Effects/NewEffects/Codlock_T/PowerUp.ogg
@@ -1073,6 +1075,7 @@ Assets:
 - Assets/xMod/Structures/Stones/Stone_Shaped_U_Stairs/Use.wav
 - Assets/xMod/Items/Magazine/Pump_Slug/Magazine.prefab
 - Assets/xMod/Items/Ammo/5.56_Ammo_HV/Magazine.prefab
+- Assets/xMod/Items/Barricades/Wood_Barricade_Cover/Wood_Barricade_Cover.mat
 - Assets/xMod/Items/Clothes/Hazmat/Character_Mesh_1P_Override_0.prefab
 - Assets/xMod/Resources/Crate_Chinook_Open/Barricade.prefab
 - Assets/xMod/Skins/Barricades/Case/Graffity_Boom/LOD_0/Part_0.prefab
@@ -1203,6 +1206,7 @@ Assets:
 - Assets/xMod/Items/Magazine/Revolver_Magazine/Item.prefab
 - Assets/xMod/Structures/Twigs/Twig_Stairs_Spiral/Item.prefab
 - Assets/xMod/Structures/Stones/Stone_Foundation_Triangle/Nav.prefab
+- Assets/xMod/Items/Barricades/Wood_Barricade_Cover/Item.prefab
 - Assets/xMod/Items/Magazine/Bolt_Magazine/Magazine.prefab
 - Assets/xMod/Skins/Clothes/CoffeHelmet/Frog/Palitra.003_Base_color.png
 - Assets/xMod/Items/Magazine/Arrow_Fire/Item.prefab
@@ -1458,6 +1462,7 @@ Assets:
 - Assets/xMod/Structures/Woods/Wood_Wall/Item.prefab
 - Assets/xMod/Items/Barricades/Door_Double_Wood/Use.wav
 - Assets/xMod/Items/Clothes/Hazmat/Hazmat_2D_View.png
+- Assets/xMod/Items/Barricades/Wood_Barricade_Cover/Normal.png
 - Assets/xMod/Items/Resource/HQM/Item.prefab
 - Assets/xMod/Structures/Armoreds/Armored_Ramp/Structure.prefab
 - Assets/xMod/Effects/NewEffects/Landmine/landmine-explosion.wav
@@ -2068,6 +2073,7 @@ Assets:
 - Assets/xMod/Skins/Clothes/MetalMask/Glory/Override_Mesh_0.prefab
 - Assets/xMod/Items/Guns/Berdan/Shoot.wav
 - Assets/xMod/Skins/sponsors/Chudik/Gun/Rocket_Launcher/Skin_Secondary_5549.mat
+- Assets/xMod/Items/Barricades/Wood_Barricade_Cover/BaseColor.png
 - Assets/xMod/Items/Magazine/Revolver_Magazine_HV/Item.prefab
 - Assets/xMod/Structures/Stones/Stone_Roof/Nav.prefab
 - Assets/xMod/Effects/NewEffects/GranadeLauncher/Smoke.mat

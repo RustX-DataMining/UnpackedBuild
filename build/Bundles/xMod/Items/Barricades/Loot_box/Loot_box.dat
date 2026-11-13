@@ -20,7 +20,8 @@ Multiuser
 
 Explosion 29
 Should_Close_When_Outside_Range true
-Fire_Vulnerable
+Can_Be_Damaged false
+Proof_Explosion
 Unrepairable
 Unpickupable
 Unsaveable

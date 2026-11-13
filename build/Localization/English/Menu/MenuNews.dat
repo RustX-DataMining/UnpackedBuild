@@ -1,9 +1,12 @@
 // Новость о текущей версии на главной меню. Только текущее обновление: к новой версии файл переписывается целиком.
 // Номер версии, дата выхода и id новости на сайте - в Version.json.
-Item_1 Code lock and cupboard fixes
-Item_2 Building decay fixed
-Item_3 Flame turret fixed
-Item_4 Door removal fixed
-Item_5 Improved radial menu
-Item_6 Voice volume fixed
-Item_7 New hatch recipe
+Item_1 Quick walls for PvP
+Item_2 Loot bag is indestructible
+Item_3 Hitmarkers can be disabled
+Item_4 Scope sensitivity
+Item_5 No teleport in raid and PvP block
+Item_6 Item stacking fixed
+Item_7 Scope lens fixed
+Item_8 Ammo unloading fixed
+Item_9 Eoka loads 1 round
+Item_10 Flashlight lights up grass

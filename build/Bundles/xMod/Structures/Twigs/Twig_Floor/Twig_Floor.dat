@@ -10,6 +10,7 @@ Health 10
 Range 8
 
 Requires_Pillars false
+Ignoringzone
 
 Explosion 29
 Vulnerable
